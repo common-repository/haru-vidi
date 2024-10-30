@@ -1,0 +1,44 @@
+.video-list-category-shortcode {
+	position: relative;
+
+	.haru-shortcode-title {
+		padding: 0;
+		margin: 0 0 25px;
+		position: relative;
+		font-size: 20px;
+		font-weight: $fw_medium;
+
+		@media screen and (max-width: $screen-md-max) {
+			font-size: 18px;
+		}
+
+		@media screen and (max-width: $screen-xs-max) {
+			font-size: 16px;
+		}
+
+		&:before {
+			content: '';
+		    position: absolute;
+		    bottom: 0;
+		    width: 100%;
+		    height: 1px;
+		    background-color: $border_color;
+		}
+
+		span {
+			display: inline-block;
+			position: relative;
+			padding-bottom: 20px;
+
+			&:before {
+				content: '';
+				position: absolute;
+				left: 0;
+				bottom: 0;
+				width: $under_line_width;
+				height: 1px;
+				background-color: $primary_color;
+			}
+		}
+	}
+}

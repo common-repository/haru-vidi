@@ -1,0 +1,309 @@
+.haru-archive-salon {
+    margin-bottom: 100px;
+    @media screen and (max-width: $screen-sm-max) {
+        margin-bottom: 50px;
+    }
+}
+.haru-salon {
+    .tab-toggle {
+        &.active {
+            .tab-title {
+                background-color: $secondary_color;
+                border: none;
+                color: $white;
+                padding: 10px 15px;
+                &:before {
+                    opacity: 0;
+                    visibility: hidden;
+                }
+            }
+        }
+        .tab-title {
+            border-bottom: 1px solid rgba($border_color, .6);
+            color: $heading_color;
+            display: block;
+            font-size: 16px;
+            padding: 10px 15px 10px 0;
+            position: relative;
+            &:before, &:after {
+                display: block;
+                content: "";
+                position: absolute;
+                right: 16px;
+                width: 13px;
+                height: 13px;
+                z-index: 10;
+                @include transform(rotate(-90deg));
+                @include transition(all .3s);
+            }
+            &:before {
+                top: 22px;
+                height: 1px;
+                border-top: 1px solid;
+                border-left: 1px solid;
+                border-top-color: inherit;
+                border-left-color: inherit;
+            }
+            &:after {
+                top: 16px;
+                right: 22px;
+                border-top: 1px solid;
+                border-left: 1px solid;
+                width: 1px;
+            }
+            &:hover {
+                cursor: pointer;
+                // color: $primary_color;
+            }
+        }
+        .sub-content {
+            .salon-thumbnail {
+                margin-top: 15px;
+            }
+            .info-title {
+                font-size: 16px;
+                position: relative;
+                padding-bottom: 10px;
+                &:after {
+                    content: "";
+                    position: absolute;
+                    height: 2px;
+                    width: 30px;
+                    left: 0;
+                    bottom: 0;
+                    background-color: $primary_color;
+                }
+            }
+        }
+    }
+    .general-info {
+        padding-bottom: 15px;
+        p {
+            font-style: italic;
+        }
+    }
+    .salon-services {
+        padding-bottom: 15px; 
+        .services {
+            list-style: none;
+            padding: 0;
+            margin: 20px 0 0 0;
+            .service {
+                display: inline-block;
+                margin-bottom: 10px;
+                width: 49%;
+                @media screen and(max-width: $screen-xs-max) {
+                    width: 100%;
+                }
+                .service-name {
+                    i {
+                        padding-right: 6px;
+                    }
+                }
+                .service-price {
+                    color: $primary_color;
+                    font-style: italic;
+                }
+            }
+        }
+    }
+    .salon-barbers {
+        padding-bottom: 30px;
+        .barber-list {
+            padding-top: 15px;
+            &:hover {
+                .slick-arrow {
+                    &.slick-prev, 
+                    &.slick-next {
+                        opacity: 1;
+                        @include transition(all .3s);
+                    }
+                }
+            }
+            .barber-item {
+                &:focus {
+                    outline: none;
+                }
+            }
+            .barber-image {
+                display: inline-block;
+                float: left;
+                width: 33%;
+                @media screen and(max-width: $screen-xs-max) {
+                    width: 100%;
+                }
+            }
+            .barber-info {
+                width: 65%;
+                display: inline-block;
+                padding: 0 15px 0 30px;
+                @media screen and(max-width: $screen-xs-max) {
+                    width: 100%;
+                    padding: 15px 0;
+                }
+                .barber-title {
+                    margin-top: 0;
+                    a {
+                        color: $heading_color;
+                        font-size: 16px;
+                        // text-transform: uppercase;
+                        font-weight: 700;
+                        @include transition(all .3s);
+                        &:hover {
+                            color: $link_color_hover;
+                            @include transition(all .3s);
+                        }
+                    }
+                }
+                .barber-special {
+                    font-style: italic;
+                    font-size: 15px;
+                }
+                .barber-content {
+                    padding-top: 8px;
+                }
+                .barber-socials {
+                    list-style: none;
+                    margin: 25px 0 0 0;
+                    padding: 0;
+                    text-align: left;
+                    .network {
+                        display: inline-block;
+                        font-size: 0;
+                        margin-right: 3px;
+                        i {
+                            background-color: #f6f6f6;
+                            font-size: 14px;
+                            width: 40px;
+                            height: 40px;
+                            line-height: 40px;
+                            text-align: center;
+                            @include transition(all .3s);
+                            &:hover {
+                                background-color: $primary_color;
+                                color: $white;
+                                @include transition(all .3s);
+                            }
+                        }
+                    }
+                }
+            }
+        }
+        .barber-nav {
+            margin-top: 30px;
+            margin-left: -15px;
+            margin-right: -15px;
+            &:hover {
+                .slick-arrow {
+                    &.slick-prev, 
+                    &.slick-next {
+                        opacity: 1;
+                        @include transition(all .3s);
+                    }
+                }
+            }
+            .nav-item {
+                border: 1px solid $white;
+                margin: 0 15px;
+                position: relative;
+                &:hover {
+                    &:before {
+                        opacity: 1;
+                        @include transition(all .3s);
+                    }
+                    h3 {
+                        opacity: 1;
+                        @include transition(all .3s);
+                    }
+                }
+                &:focus {
+                    outline: none;
+                }
+                &:before {
+                    content: "";
+                    opacity: 0;
+                    position: absolute;
+                    background-color: rgba($black, .5);
+                    width: 100%;
+                    height: 100%;
+                }
+                &.slick-current {
+                    border: 1px solid $border_color;
+                }
+            }
+            h3 {
+                color: $white;
+                position: absolute;
+                margin: 0;
+                font-size: 14px;
+                top: 50%;
+                left: 50%;
+                line-height: 1.4;
+                text-align: center;
+                opacity: 0;
+                @include transition(all .3s);
+                @include transform(translate(-50%, -50%));
+            }
+            .slick-arrow {
+                &.slick-prev {
+                    left: 15px;
+                }
+                &.slick-next {
+                    right: 15px;
+                }
+            }
+        }
+        // Arrow
+        .slick-arrow {
+            &.slick-prev, &.slick-next {
+                background: rgba($black, .3);
+                border: none;
+                color: transparent;
+                cursor: pointer;
+                display: block;
+                font-size: 0;
+                line-height: 0;
+                outline: none;
+                opacity: 0;
+                padding: 0;
+                position: absolute;
+                top: 50%;
+                z-index: 99;
+                width: 30px;
+                height: 30px;
+                @include rounded(0);
+                @include transform(translateY(-50%));
+                @include transition(all .3s);
+                &:before {
+                    color: $white;
+                    font-family: 'slick';
+                    font-size: 14px;
+                    line-height: 1;
+                    opacity: 1;
+                    @include transition(all .3s);
+                }
+                &:hover {
+                    background-color: $primary_color;
+                    &:before {
+                        color: $white;
+                        @include transition(all .3s);
+                    }
+                }
+            }
+            &.slick-prev {
+                left: 0;
+                &:before {
+                    content: "\f104";
+                    font-family: FontAwesome;
+                }
+            }
+            &.slick-next {
+                right: 0;
+                &:before {
+                    content: "\f105";
+                    font-family: FontAwesome;
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,124 @@
+.video-list-shortcode {
+	.video-list-top {
+		display: flex;
+		margin-bottom: 25px;
+		border-bottom: 1px solid $border_color;
+
+		@media screen and (max-width: $screen-sm-max) {
+			
+		}
+
+		@media screen and (max-width: $screen-xs-max) {
+			display: block;
+		}
+	}
+
+	.haru-shortcode-title {
+		margin: 0 0 -1px 0;
+		font-size: 20px;
+		padding-right: 40px;
+		font-weight: $fw_medium;
+		position: relative;
+
+		@media screen and (max-width: $screen-sm-max) {
+            flex: 150px 0 0;
+            padding-right: 15px;
+        }
+
+        @media screen and (max-width: $screen-xs-max) {
+        	font-size: 16px;
+			padding-right: 0;
+			margin-bottom: 10px;
+			padding-bottom: 15px;
+			border-bottom: 1px solid $border_color;
+        }
+
+        &:before {
+        	content: '';
+        	position: absolute;
+        	bottom: 0;
+        	height: 1px;
+        	width: 60px;
+        	background-color: $primary_color;
+
+        	@media screen and (max-width: $screen-xs-max) {
+        		bottom: -1px;
+        	}
+        }
+
+        &.no-filter {
+        	padding-bottom: 20px;
+
+        	@media screen and (max-width: $screen-xs-max) {
+        		margin-bottom: 0;
+        		border-bottom: none;
+        		padding-bottom: 15px;
+        	}
+        }
+	}
+
+	.video-filter {
+		list-style: none;
+		padding-left: 0;
+		margin: 0;
+
+		@media screen and (max-width: $screen-sm-max) {
+			text-align: center;
+		}
+
+		@media screen and (max-width: $screen-xs-max) {
+			text-align: left;
+		}
+
+		li {
+			display: inline-block;
+			margin: 0 10px -1px 10px;
+
+			&:first-child {
+				margin-left: 0;
+			}
+
+			&:last-child {
+				margin-right: 0;
+			}
+		}
+
+		.tab-item-heading {
+			margin: 0;
+			font-weight: $fw_medium;
+		}
+
+		a {
+			display: block;
+			color: $text_color_secondary;
+			padding-bottom: 20px;
+			position: relative;
+			text-transform: uppercase;
+			transition: all .3s;
+
+			@media screen and (max-width: $screen-xs-max) {
+				font-size: 13px;
+			}
+			
+			&:hover,
+			&.active,
+			&.selected {
+				color: $primary_color;
+				transition: all .3s;
+			}
+
+			&:focus {
+				outline: none;
+			}
+		}
+	}
+
+	.video-list {
+		margin: 0 -15px;
+
+		.video-item {
+			padding: 0 15px;
+			margin-bottom: 30px;
+		}
+	}
+}

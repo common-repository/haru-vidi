@@ -1,0 +1,28 @@
+/* Menu icon */
+#adminmenu .menu-icon-haru_advertising .wp-menu-image:before,
+#adminmenu .menu-icon-haru_playlist .wp-menu-image:before,
+#adminmenu .menu-icon-haru_actor .wp-menu-image:before,
+#adminmenu .menu-icon-haru_video .wp-menu-image:before,
+#adminmenu .menu-icon-haru_video_report .wp-menu-image:before,
+#adminmenu .menu-icon-haru_series .wp-menu-image:before,
+#adminmenu .menu-icon-haru_channel .wp-menu-image:before,
+#adminmenu .menu-icon-haru_shortcode .wp-menu-image:before,
+#adminmenu .menu-icon-haru_director .wp-menu-image:before {
+  	color: #26baec!important;
+}
+
+#adminmenu .toplevel_page_vidi-general-settings .wp-menu-image:before {
+  	color: #26baec!important;
+}
+
+.select2-container {
+	min-width: 200px;
+}
+
+.cmb2-options-page .nav-tab-wrapper .nav-tab {
+	font-size: 13px;
+}
+
+.cmb2-options-page .nav-tab-wrapper .nav-tab:first-child {
+	margin-left: 0;
+}

@@ -1,0 +1,266 @@
+.video-category-shortcode {
+	position: relative;
+	
+	.video-category-top {
+		display: flex;
+		margin-bottom: 25px;
+		border-bottom: 1px solid $border_color;
+
+		@media screen and (max-width: $screen-sm-max) {
+			display: block;
+		}
+	}
+
+	.haru-shortcode-title {
+		margin: 0 0 -1px 0;
+		font-size: 20px;
+		padding-right: 40px;
+		font-weight: $fw_medium;
+		position: relative;
+
+		@media screen and (max-width: $screen-md-max) {
+			font-size: 18px;
+			padding-right: 20px;
+			flex: 165px 0 0;
+		}
+
+        @media screen and (max-width: $screen-sm-max) {
+        	font-size: 16px;
+			padding-right: 0;
+			margin-bottom: 10px;
+			padding-bottom: 15px;
+			border-bottom: 1px solid $border_color;
+        }
+
+        &:before {
+        	content: '';
+        	position: absolute;
+        	bottom: 0;
+        	height: 1px;
+        	width: $under_line_width;
+        	background-color: $primary_color;
+
+        	@media screen and (max-width: $screen-sm-max) {
+        		bottom: -1px;
+        	}
+        }
+
+        &.no-filter {
+        	padding-bottom: 20px;
+
+        	@media screen and (max-width: $screen-sm-max) {
+        		margin-bottom: 0;
+        		border-bottom: none;
+        		padding-bottom: 15px;
+        	}
+        }
+	}
+
+	.video-filter {
+		list-style: none;
+		padding: 0 110px 0 0;
+		margin: 0;
+
+		@media screen and (max-width: $screen-md-max) {
+			margin: -3px 0 0;
+		}
+
+		@media screen and (max-width: $screen-sm-max) {
+			margin: 0;
+		}
+
+		@media screen and (max-width: $screen-sm-max) {
+			padding: 0;
+			text-align: left;
+		}
+
+		li {
+			display: inline-block;
+			margin: 0 10px -1px 10px;
+
+			@media screen and (max-width: $screen-md-max) {
+				margin: 0 8px -1px 8px;
+			}
+
+			&:first-child {
+				margin-left: 0;
+			}
+
+			&:last-child {
+				margin-right: 0;
+			}
+		}
+
+		.tab-item-heading {
+			margin: 0;
+			font-weight: $fw_medium;
+		}
+
+		a {
+			display: block;
+			color: $text_color_secondary;
+			font-size: $fs_base - 1px;
+			font-weight: $fw_medium;
+			padding-bottom: 20px;
+			position: relative;
+			text-transform: uppercase;
+			transition: all .3s;
+
+			@media screen and (max-width: $screen-md-max) {
+				font-size: $fs_small;
+			}
+			
+			&:hover,
+			&.active {
+				color: $primary_color;
+				transition: all .3s;
+			}
+
+			&:focus {
+				outline: none;
+			}
+		}
+	}
+
+	&.default {
+		.video-list {
+			margin: 0 -15px;
+		}
+
+		.video-item {
+			padding: 0 15px;
+			margin-bottom: 20px;
+
+			&.video-style-2 {
+				margin-bottom: 30px;
+			}
+		}
+		
+		// Style at small area
+        &.style-sidebar {
+            // Video
+            .video-item__date,
+            .video-item__author {
+                @media screen and (max-width: $screen-sm-max) {
+                    display: none;
+                }
+
+                @media screen and (max-width: $screen-xs-max) {
+                    display: block;
+                }
+            }
+        }
+	}
+
+	.videos-ajax-view-more {
+		position: absolute;
+		right: 0;
+		top: -70px;
+
+		@media screen and (max-width: $screen-md-max) {
+			top: -65px;
+		}
+
+		@media screen and (max-width: $screen-sm-max) {
+			position: relative;
+			top: 0;
+			text-align: center;
+		}
+	}
+
+	.video-control {
+        position: absolute;
+        right: 0;
+        top: 0;
+
+        .video-control-item {
+            display: inline-block;
+            width: 26px;
+            height: 26px;
+            line-height: 24px;
+            margin: 0 2px;
+            text-align: center;
+
+            &:first-child {
+                margin-left: 0;
+            }
+
+            &:last-child {
+                margin-right: 0;
+            }
+
+            &:hover {
+                cursor: pointer;
+                
+
+                i {
+                    background-color: $primary_color;
+                    transition: all .3s;
+                }
+            }
+
+            &.disable {
+                opacity: .5;
+                pointer-events: none;
+            }
+        }
+    }
+
+	&.dark-style {
+		.haru-shortcode-title {
+			color: $white;
+		}
+
+		.video-filter {
+			a {
+				color: $white;
+
+				&:hover,
+				&.active {
+					color: $primary_color;
+				}
+			}
+		}
+
+		.video-item {
+			&__title {
+				a {
+					color: $white;
+
+					&:hover {
+						color: $primary_color;
+					}
+				}
+			}
+
+			&__meta {
+				color: $white;
+
+				a {
+					color: $white;
+
+					&:hover {
+						color: $primary_color;
+					}
+				}
+
+				> div:after {
+					background-color: $white;
+				}
+			}
+		}
+
+		.video-control {
+			.video-control-item {
+				&:hover {
+
+				}
+
+				i {
+					color: $white;
+				}
+			}
+		}
+	}
+}
+

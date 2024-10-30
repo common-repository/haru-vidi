@@ -1,0 +1,100 @@
+.user-menu-shortcode  {
+    .user-account-wrap {
+        display: inline-block;
+        margin-top: 1px;
+
+        .user-menu-login {
+        	&:hover {
+        		.haru-icon {
+        			background-color: $primary_color;
+        		}
+        	}
+        }
+
+        .user-account-content {
+            position: relative;
+
+            &:hover {
+                .user-account-menu {
+                    opacity: 1;
+                    visibility: visible;
+                    top: 110%;
+                    z-index: 999;
+                    -webkit-transition-timing-function: cubic-bezier(0.11, 0.76, 0.24, 0.93);
+                    -moz-transition-timing-function: cubic-bezier(0.11, 0.76, 0.24, 0.93);
+                    -ms-transition-timing-function: cubic-bezier(0.11, 0.76, 0.24, 0.93);
+                    -o-transition-timing-function: cubic-bezier(0.11, 0.76, 0.24, 0.93);
+                    transition-timing-function: cubic-bezier(0.11, 0.76, 0.24, 0.93);
+                }
+            }
+
+            &.logged-in {
+                top: -4px;
+            }
+
+            .user-account-menu {
+                list-style: none;
+                padding: 0;
+                margin: 0;
+                position: absolute;
+                right: 0;
+                left: auto;
+                border: solid 1px $border_color;
+                top: 125%;
+                width: auto;
+                min-width: 180px;
+                background-color: $white;
+                padding: 15px 0;
+                opacity: 0;
+                visibility: hidden;
+                z-index: -1;
+                transition: all .5s;
+            }
+
+            li {
+                padding: 5px 30px;
+                position: relative;
+
+                &:hover {
+                    .sub-menu {
+                        opacity: 1;
+                        visibility: visible;
+                        top: 0;
+                        transition: all .3s;
+                    }
+                }
+
+                &.membership {
+                    display: none;
+                }
+            }
+
+            .sub-menu {
+                position: absolute;
+                border: solid 1px $border_color;
+                background-color: $white;
+                width: 100%;
+                min-width: 180px;
+                top: 10px;
+                right: 100%;
+                padding: 0;
+                list-style: none;
+                opacity: 0;
+                visibility: hidden;
+                transition: all .3s;
+            }
+
+            .avatar {
+                max-width: 16px;
+                border-radius: 50%;
+            }
+
+            &.logged-out {
+                
+            }
+        }
+
+        
+
+    }
+}

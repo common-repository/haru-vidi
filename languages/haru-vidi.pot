@@ -1,0 +1,6373 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Haru Vidi Pro\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-10-31 15:11+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.4.3; wp-5.5.1"
+
+#: includes/modules/import/youtube/class.list-table.php:137
+#, php-format
+msgid " (%d votes)"
+msgstr ""
+
+#: includes/modules/import/youtube/class.list-table.php:320
+#, php-format
+msgid " <strong>API error (code: %s)</strong>: %s"
+msgstr ""
+
+#: templates/vidi/actor/archive-actor.php:49
+msgid " actor"
+msgstr ""
+
+#: templates/vidi/actor/archive-actor.php:49
+msgid " actors"
+msgstr ""
+
+#: templates/vidi/video/single-video.php:454
+#: templates/vidi/video/single-video.php:467
+#: templates/vidi/elements/video-player-direct.php:118
+#: templates/vidi/elements/video-player-direct.php:131
+msgid " and"
+msgstr ""
+
+#: templates/vidi/director/single-director.php:80
+#: templates/vidi/actor/single-actor.php:79
+msgid " as"
+msgstr ""
+
+#: includes/vidi/vidi-hooks.php:270
+msgid " by "
+msgstr ""
+
+#: includes/vidi/buddypress-functions.php:531
+#: templates/vidi/shortcodes/channel-my-channels.php:51
+#: templates/vidi/channel/archive-channel.php:49
+msgid " channels"
+msgstr ""
+
+#: templates/vidi/director/archive-director.php:49
+msgid " director"
+msgstr ""
+
+#: templates/vidi/director/archive-director.php:49
+msgid " directors"
+msgstr ""
+
+#: includes/vidi/class-rating-system.php:397
+msgid " dislike"
+msgstr ""
+
+#: includes/vidi/class-rating-system.php:397
+msgid " dislikes"
+msgstr ""
+
+#: includes/vidi/buddypress-functions.php:663
+msgid " follower"
+msgstr ""
+
+#: includes/vidi/buddypress-functions.php:661
+msgid " followers"
+msgstr ""
+
+#: includes/vidi/class-rating-system.php:372
+msgid " like"
+msgstr ""
+
+#: includes/vidi/class-rating-system.php:372
+msgid " likes"
+msgstr ""
+
+#: templates/vidi/playlist/archive-playlist.php:49
+msgid " playlist"
+msgstr ""
+
+#: includes/vidi/buddypress-functions.php:265
+#: templates/vidi/playlist/archive-playlist.php:49
+#: templates/vidi/shortcodes/playlist-my-playlists.php:51
+msgid " playlists"
+msgstr ""
+
+#: includes/vidi/buddypress-functions.php:398
+#: templates/vidi/series/archive-series.php:49
+#: templates/vidi/series/archive-series.php:49
+#: templates/vidi/shortcodes/series-my-seriess.php:51
+msgid " series"
+msgstr ""
+
+#: includes/vidi/vidi-hooks.php:173
+msgid " subscriber"
+msgstr ""
+
+#: includes/vidi/vidi-hooks.php:171
+msgid " subscribers"
+msgstr ""
+
+#: includes/vidi/vidi-hooks.php:655 includes/vidi/vidi-hooks.php:679
+#: includes/vidi/vidi-hooks.php:705 includes/vidi/vidi-hooks.php:731
+#: includes/vidi/vidi-hooks.php:757 includes/vidi/vidi-hooks.php:780
+#: templates/vidi/shortcodes/author-top.php:115
+msgid " video"
+msgstr ""
+
+#: includes/vidi/vidi-hooks.php:653 includes/vidi/vidi-hooks.php:677
+#: includes/vidi/vidi-hooks.php:703 includes/vidi/vidi-hooks.php:729
+#: includes/vidi/vidi-hooks.php:755 includes/vidi/vidi-hooks.php:778
+#: includes/vidi/buddypress-functions.php:132
+#: templates/vidi/video/archive-video.php:48
+#: templates/vidi/shortcodes/watch-later.php:57
+#: templates/vidi/shortcodes/author-top.php:115
+#: templates/vidi/shortcodes/video-my-videos.php:54
+msgid " videos"
+msgstr ""
+
+#: includes/vidi/class-rating-system.php:477
+msgid " view"
+msgstr ""
+
+#: includes/vidi/class-rating-system.php:475
+msgid " views"
+msgstr ""
+
+#. %s: video count
+#: includes/widgets/haru-video-tags.php:99
+#: includes/widgets/haru-video-search.php:87
+#, php-format
+msgid "%s video"
+msgid_plural "%s videos"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/libraries/vidi-metabox-shortcode.php:110
+#: includes/libraries/vidi-metabox-shortcode.php:337
+#: includes/libraries/vidi-metabox-shortcode.php:779
+#: includes/libraries/vidi-metabox-shortcode.php:1050
+#: includes/libraries/vidi-metabox-shortcode.php:1654
+#: includes/libraries/vidi-metabox-shortcode.php:2117
+#: includes/libraries/vidi-metabox-shortcode.php:2579
+msgid "1"
+msgstr ""
+
+#: includes/libraries/vidi-metabox-shortcode.php:111
+#: includes/libraries/vidi-metabox-shortcode.php:338
+#: includes/libraries/vidi-metabox-shortcode.php:585
+#: includes/libraries/vidi-metabox-shortcode.php:780
+#: includes/libraries/vidi-metabox-shortcode.php:1051
+#: includes/libraries/vidi-metabox-shortcode.php:1462
+#: includes/libraries/vidi-metabox-shortcode.php:1655
+#: includes/libraries/vidi-metabox-shortcode.php:1925
+#: includes/libraries/vidi-metabox-shortcode.php:2118
+#: includes/libraries/vidi-metabox-shortcode.php:2385
+#: includes/libraries/vidi-metabox-shortcode.php:2580
+#: includes/libraries/vidi-settings.php:308
+#: includes/libraries/vidi-settings.php:513
+#: includes/libraries/vidi-settings.php:716
+#: includes/libraries/vidi-settings.php:919
+#: includes/libraries/vidi-settings.php:1122
+#: includes/libraries/vidi-settings.php:1325
+msgid "2"
+msgstr ""
+
+#: includes/libraries/vidi-metabox-shortcode.php:112
+#: includes/libraries/vidi-metabox-shortcode.php:339
+#: includes/libraries/vidi-metabox-shortcode.php:586
+#: includes/libraries/vidi-metabox-shortcode.php:781
+#: includes/libraries/vidi-metabox-shortcode.php:1052
+#: includes/libraries/vidi-metabox-shortcode.php:1463
+#: includes/libraries/vidi-metabox-shortcode.php:1656
+#: includes/libraries/vidi-metabox-shortcode.php:1926
+#: includes/libraries/vidi-metabox-shortcode.php:2119
+#: includes/libraries/vidi-metabox-shortcode.php:2386
+#: includes/libraries/vidi-metabox-shortcode.php:2581
+#: includes/libraries/vidi-settings.php:309
+#: includes/libraries/vidi-settings.php:514
+#: includes/libraries/vidi-settings.php:717
+#: includes/libraries/vidi-settings.php:920
+#: includes/libraries/vidi-settings.php:1123
+#: includes/libraries/vidi-settings.php:1326
+msgid "3"
+msgstr ""
+
+#: includes/libraries/vidi-metabox-shortcode.php:113
+#: includes/libraries/vidi-metabox-shortcode.php:340
+#: includes/libraries/vidi-metabox-shortcode.php:587
+#: includes/libraries/vidi-metabox-shortcode.php:782
+#: includes/libraries/vidi-metabox-shortcode.php:1053
+#: includes/libraries/vidi-metabox-shortcode.php:1464
+#: includes/libraries/vidi-metabox-shortcode.php:1657
+#: includes/libraries/vidi-metabox-shortcode.php:1927
+#: includes/libraries/vidi-metabox-shortcode.php:2120
+#: includes/libraries/vidi-metabox-shortcode.php:2387
+#: includes/libraries/vidi-metabox-shortcode.php:2582
+#: includes/libraries/vidi-settings.php:310
+#: includes/libraries/vidi-settings.php:515
+#: includes/libraries/vidi-settings.php:718
+#: includes/libraries/vidi-settings.php:921
+#: includes/libraries/vidi-settings.php:1124
+#: includes/libraries/vidi-settings.php:1327
+msgid "4"
+msgstr ""
+
+#: includes/libraries/vidi-metabox-shortcode.php:114
+#: includes/libraries/vidi-metabox-shortcode.php:341
+#: includes/libraries/vidi-metabox-shortcode.php:588
+#: includes/libraries/vidi-metabox-shortcode.php:783
+#: includes/libraries/vidi-metabox-shortcode.php:1054
+#: includes/libraries/vidi-metabox-shortcode.php:1465
+#: includes/libraries/vidi-metabox-shortcode.php:1658
+#: includes/libraries/vidi-metabox-shortcode.php:1928
+#: includes/libraries/vidi-metabox-shortcode.php:2121
+#: includes/libraries/vidi-metabox-shortcode.php:2388
+#: includes/libraries/vidi-metabox-shortcode.php:2583
+#: includes/libraries/vidi-settings.php:311
+#: includes/libraries/vidi-settings.php:516
+#: includes/libraries/vidi-settings.php:719
+#: includes/libraries/vidi-settings.php:922
+#: includes/libraries/vidi-settings.php:1125
+#: includes/libraries/vidi-settings.php:1328
+msgid "5"
+msgstr ""
+
+#: includes/libraries/vidi-settings.php:1605
+msgid "[{{site_name}}] New {{post_type}} submit {{post_title}} received"
+msgstr ""
+
+#: includes/libraries/vidi-settings.php:1673
+msgid "[{{site_name}}] You have just submitted {{post_type}} {{video_title}}"
+msgstr ""
+
+#: templates/vidi/channel/single-channel.php:122
+msgid "About"
+msgstr ""
+
+#: templates/vidi/shortcodes/user-menu.php:58
+msgid "Account"
+msgstr ""
+
+#: includes/posttypes/actor.php:92 templates/vidi/series/single-series.php:88
+#: templates/vidi/video/single-video.php:517
+msgid "Actor"
+msgstr ""
+
+#: includes/posttypes/actor.php:51
+msgid "Actor base"
+msgstr ""
+
+#: includes/posttypes/actor.php:133
+msgid "Actor Categories"
+msgstr ""
+
+#: includes/posttypes/actor.php:134
+msgid "Actor Category"
+msgstr ""
+
+#: includes/posttypes/actor.php:62
+msgid "Actor category base"
+msgstr ""
+
+#: includes/posttypes/actor.php:90 includes/libraries/vidi-settings.php:1036
+#: includes/libraries/vidi-settings.php:1042
+msgid "Actors"
+msgstr ""
+
+#: includes/libraries/vidi-settings.php:1037
+msgid "Actors Settings"
+msgstr ""
+
+#: includes/libraries/vidi-metabox-cpt.php:316
+#: includes/libraries/vidi-metabox-cpt.php:392
+msgid "Add Another Filmography"
+msgstr ""
+
+#: includes/libraries/vidi-settings.php:1984
+msgid "Add Another Membership Level"
+msgstr ""
+
+#: includes/libraries/vidi-metabox-shortcode.php:2910
+msgid "Add extra class for shortcode."
+msgstr ""
+
+#: includes/libraries/vidi-metabox-cpt.php:717
+msgid "Add extra information for User"
+msgstr ""
+
+#: includes/libraries/vidi-metabox-cpt.php:617
+#: includes/libraries/vidi-metabox-cpt.php:641
+msgid "Add File"
+msgstr ""
+
+#: includes/posttypes/series.php:93 includes/posttypes/playlist.php:93
+#: includes/posttypes/shortcode-generate.php:47 includes/posttypes/actor.php:93
+#: includes/posttypes/channel.php:93 includes/posttypes/video-report.php:44
+#: includes/posttypes/video.php:123 includes/posttypes/director.php:93
+msgid "Add New"
+msgstr ""
+
+#: includes/posttypes/actor.php:94 includes/posttypes/actor.php:96
+msgid "Add New Actor"
+msgstr ""
+
+#: includes/posttypes/actor.php:140
+msgid "Add New Actor Category"
+msgstr ""
+
+#: includes/posttypes/channel.php:94 includes/posttypes/channel.php:96
+msgid "Add New Channel"
+msgstr ""
+
+#: includes/posttypes/channel.php:140
+msgid "Add New Channel Category"
+msgstr ""
+
+#: includes/posttypes/director.php:94 includes/posttypes/director.php:96
+msgid "Add New Director"
+msgstr ""
+
+#: includes/posttypes/director.php:140
+msgid "Add New Director Category"
+msgstr ""
+
+#: includes/posttypes/playlist.php:94 includes/posttypes/playlist.php:96
+msgid "Add New Playlist"
+msgstr ""
+
+#: includes/posttypes/playlist.php:140
+msgid "Add New Playlist Category"
+msgstr ""
+
+#: includes/posttypes/series.php:94 includes/posttypes/series.php:96
+msgid "Add New Series"
+msgstr ""
+
+#: includes/posttypes/series.php:140
+msgid "Add New Series Category"
+msgstr ""
+
+#: includes/posttypes/shortcode-generate.php:48
+#: includes/posttypes/shortcode-generate.php:50
+msgid "Add New Shortcode"
+msgstr ""
+
+#: includes/posttypes/shortcode-generate.php:92
+msgid "Add New Shortcode Category"
+msgstr ""
+
+#: includes/posttypes/video.php:124 includes/posttypes/video.php:126
+msgid "Add New Video"
+msgstr ""
+
+#: includes/posttypes/video.php:170
+msgid "Add New Video Category"
+msgstr ""
+
+#: includes/posttypes/video.php:256
+msgid "Add New Video Label"
+msgstr ""
+
+#: includes/posttypes/video-report.php:45
+#: includes/posttypes/video-report.php:47
+msgid "Add New Video Report"
+msgstr ""
+
+#: includes/posttypes/video.php:213
+msgid "Add New Video Tag"
+msgstr ""
+
+#: includes/posttypes/actor.php:147
+msgid "Add or remove Actor Categories"
+msgstr ""
+
+#: includes/posttypes/channel.php:147
+msgid "Add or remove Channel Categories"
+msgstr ""
+
+#: includes/posttypes/director.php:147
+msgid "Add or remove Director Categories"
+msgstr ""
+
+#: includes/posttypes/playlist.php:147
+msgid "Add or remove Playlist Categories"
+msgstr ""
+
+#: includes/posttypes/series.php:147
+msgid "Add or remove Series Categories"
+msgstr ""
+
+#: includes/posttypes/shortcode-generate.php:99
+msgid "Add or remove Shortcode Categories"
+msgstr ""
+
+#: includes/posttypes/video.php:177
+msgid "Add or remove Video Categories"
+msgstr ""
+
+#: includes/posttypes/video.php:263
+msgid "Add or remove Video Labels"
+msgstr ""
+
+#: includes/posttypes/video.php:220
+msgid "Add or remove Video Tags"
+msgstr ""
+
+#: includes/libraries/vidi-metabox-cpt.php:423
+msgid "Add Video to Playlists & Series,..."
+msgstr ""
+
+#: includes/libraries/vidi-metabox-cpt.php:264
+msgid "Add Videos to Actor"
+msgstr ""
+
+#: includes/libraries/vidi-metabox-cpt.php:169
+msgid "Add Videos to Channel"
+msgstr ""
+
+#: includes/libraries/vidi-metabox-cpt.php:347
+msgid "Add Videos to Director"
+msgstr ""
+
+#: includes/libraries/vidi-metabox-cpt.php:53
+msgid "Add Videos to Playlist"
+msgstr ""
+
+#: includes/libraries/vidi-metabox-cpt.php:95
+msgid "Add Videos to Series"
+msgstr ""
+
+#: includes/libraries/vidi-settings.php:1589
+msgid "Admin Email Adress"
+msgstr ""
+
+#: includes/libraries/vidi-settings.php:1628
+msgid "Admin Email Content"
+msgstr ""
+
+#: includes/libraries/vidi-settings.php:1615
+msgid "Admin Email Header"
+msgstr ""
+
+#: includes/libraries/vidi-settings.php:1602
+msgid "Admin Email Subject"
+msgstr ""
+
+#: includes/libraries/vidi-metabox-shortcode.php:911
+msgid "Ajax Arrow"
+msgstr ""
+
+#: includes/libraries/vidi-metabox-shortcode.php:919
+msgid "Ajax Show More"
+msgstr ""
+
+#: templates/vidi/shortcodes/channel-category.php:80
+#: templates/vidi/shortcodes/video-list.php:88
+#: templates/vidi/shortcodes/series-category.php:80
+#: templates/vidi/shortcodes/playlist-category.php:80
+#: templates/vidi/shortcodes/video-category.php:80
+#: templates/vidi/shortcodes/video-featured.php:84
+msgid "All"
+msgstr ""
+
+#: includes/posttypes/actor.php:136
+msgid "All Actor Categories"
+msgstr ""
+
+#: includes/posttypes/channel.php:136
+msgid "All Channel Categories"
+msgstr ""
+
+#: includes/vidi/buddypress-functions.php:88
+msgid "All Channels"
+msgstr ""
+
+#: includes/posttypes/director.php:136
+msgid "All Director Categories"
+msgstr ""
+
+#: includes/vidi/vidi-hooks.php:579
+msgid "All items loaded."
+msgstr ""
+
+#: includes/posttypes/playlist.php:136
+msgid "All Playlist Categories"
+msgstr ""
+
+#: includes/vidi/buddypress-functions.php:48
+msgid "All Playlists"
+msgstr ""
+
+#: includes/vidi/buddypress-functions.php:68
+msgid "All Series"
+msgstr ""
+
+#: includes/posttypes/series.php:136
+msgid "All Series Categories"
+msgstr ""
+
+#: includes/posttypes/shortcode-generate.php:88
+msgid "All Shortcode Categories"
+msgstr ""
+
+#: includes/posttypes/video.php:166
+msgid "All Video Categories"
+msgstr ""
+
+#: includes/posttypes/video.php:252
+msgid "All Video Labels"
+msgstr ""
+
+#: includes/posttypes/video.php:209
+msgid "All Video Tags"
+msgstr ""
+
+#: includes/vidi/buddypress-functions.php:28
+msgid "All Videos"
+msgstr ""
+
+#: includes/libraries/vidi-settings.php:2075
+msgid "Allow or Deny user Submit"
+msgstr ""
+
+#: includes/libraries/vidi-settings.php:2083
+msgid ""
+"Allow or Deny user Upload Video to Server. This option use for Video Source "
+"SelfHost."
+msgstr ""
+
+#: includes/libraries/vidi-settings.php:2073
+msgid "Allow Submit"
+msgstr ""
+
+#: includes/libraries/vidi-settings.php:2081
+msgid "Allow Upload Video File"
+msgstr ""
+
+#: includes/libraries/vidi-settings.php:198
+msgid ""
+"Allow Video Autoplay in single video page. Please note on Safari Autoplay "
+"video must be muted and video source from Facebook is not allowed Autoplay "
+"on mobile. Video Sefthost and Google muted when Enable Autoplay"
+msgstr ""
+
+#: templates/vidi/elements/watch-later-videos.php:27
+#: templates/vidi/elements/watch-later-videos.php:77
+msgid "An empty videos list!"
+msgstr ""
+
+#: includes/modules/import/youtube/views/import_videos.php:46
+msgid "Any"
+msgstr ""
+
+#: includes/libraries/vidi-settings.php:1773
+#: includes/libraries/vidi-settings.php:1779
+msgid "Appearance"
+msgstr ""
+
+#: includes/libraries/vidi-settings.php:1774
+msgid "Appearance Settings"
+msgstr ""
+
+#: includes/modules/import/youtube/class.list-table.php:246
+msgid "Apply"
+msgstr ""
+
+#: includes/libraries/vidi-settings.php:1120
+msgid "Archive Actor Columns."
+msgstr ""
+
+#: includes/libraries/vidi-settings.php:1053
+msgid "Archive Actors Settings"
+msgstr ""
+
+#: includes/libraries/vidi-settings.php:917
+msgid "Archive Channel Columns."
+msgstr ""
+
+#: includes/libraries/vidi-settings.php:850
+msgid "Archive Channels Settings"
+msgstr ""
+
+#: includes/libraries/vidi-settings.php:303
+#: includes/libraries/vidi-settings.php:508
+#: includes/libraries/vidi-settings.php:711
+#: includes/libraries/vidi-settings.php:914
+#: includes/libraries/vidi-settings.php:1117
+#: includes/libraries/vidi-settings.php:1320
+msgid "Archive Columns"
+msgstr ""
+
+#: includes/libraries/vidi-settings.php:1323
+msgid "Archive Director Columns."
+msgstr ""
+
+#: includes/libraries/vidi-settings.php:1256
+msgid "Archive Directors Settings"
+msgstr ""
+
+#: includes/libraries/vidi-settings.php:254
+#: includes/libraries/vidi-settings.php:459
+#: includes/libraries/vidi-settings.php:662
+#: includes/libraries/vidi-settings.php:865
+#: includes/libraries/vidi-settings.php:1068
+#: includes/libraries/vidi-settings.php:1271
+msgid "Archive Layout"
+msgstr ""
+
+#: includes/libraries/vidi-settings.php:511
+msgid "Archive Playlist Columns."
+msgstr ""
+
+#: includes/libraries/vidi-settings.php:444
+msgid "Archive Playlists Settings"
+msgstr ""
+
+#: includes/libraries/vidi-settings.php:714
+msgid "Archive Series Columns."
+msgstr ""
+
+#: includes/libraries/vidi-settings.php:647
+msgid "Archive Series Settings"
+msgstr ""
+
+#: includes/libraries/vidi-settings.php:306
+msgid "Archive Video Columns."
+msgstr ""
+
+#: includes/libraries/vidi-settings.php:239
+msgid "Archive Videos Settings"
+msgstr ""
+
+#: includes/libraries/vidi-settings.php:1988
+msgid "Are you sure you want to remove?"
+msgstr ""
+
+#: includes/libraries/vidi-metabox-shortcode.php:539
+#: includes/libraries/vidi-metabox-shortcode.php:731
+#: includes/libraries/vidi-metabox-shortcode.php:1202
+#: includes/libraries/vidi-metabox-shortcode.php:1608
+#: includes/libraries/vidi-metabox-shortcode.php:2071
+#: includes/libraries/vidi-metabox-shortcode.php:2531
+msgid "Arrow"
+msgstr ""
+
+#: includes/libraries/vidi-metabox-shortcode.php:235
+#: includes/libraries/vidi-metabox-shortcode.php:433
+#: includes/libraries/vidi-metabox-shortcode.php:522
+#: includes/libraries/vidi-metabox-shortcode.php:680
+#: includes/libraries/vidi-metabox-shortcode.php:1151
+#: includes/libraries/vidi-metabox-shortcode.php:1285
+#: includes/libraries/vidi-metabox-shortcode.php:1557
+#: includes/libraries/vidi-metabox-shortcode.php:1779
+#: includes/libraries/vidi-metabox-shortcode.php:1868
+#: includes/libraries/vidi-metabox-shortcode.php:2020
+#: includes/libraries/vidi-metabox-shortcode.php:2242
+#: includes/libraries/vidi-metabox-shortcode.php:2326
+#: includes/libraries/vidi-metabox-shortcode.php:2480
+#: includes/libraries/vidi-metabox-shortcode.php:2705
+#: includes/libraries/vidi-metabox-shortcode.php:2789
+#: includes/libraries/vidi-metabox-shortcode.php:2867
+#: includes/widgets/haru-playlist-top.php:62
+#: includes/widgets/haru-video-videos.php:63
+#: includes/widgets/haru-channel-top.php:64
+#: includes/widgets/haru-video-top.php:63
+#: includes/widgets/haru-series-top.php:62
+msgid "ASC"
+msgstr ""
+
+#: includes/libraries/cmb2-attached-posts/init.php:182
+#, php-format
+msgid "Attached %s"
+msgstr ""
+
+#: includes/libraries/vidi-metabox-submit-video.php:331
+#: includes/libraries/vidi-metabox-cpt.php:135
+#: includes/libraries/vidi-metabox-cpt.php:479
+msgid "Attached Actors"
+msgstr ""
+
+#: includes/libraries/vidi-metabox-submit-playlist.php:103
+#: includes/libraries/vidi-metabox-submit-series.php:103
+#: includes/libraries/vidi-metabox-submit-video.php:314
+#: includes/libraries/vidi-metabox-cpt.php:77
+#: includes/libraries/vidi-metabox-cpt.php:119
+#: includes/libraries/vidi-metabox-cpt.php:463
+msgid "Attached Channels"
+msgstr ""
+
+#: includes/libraries/vidi-metabox-submit-video.php:348
+#: includes/libraries/vidi-metabox-cpt.php:151
+#: includes/libraries/vidi-metabox-cpt.php:495
+msgid "Attached Directors"
+msgstr ""
+
+#: includes/libraries/vidi-metabox-submit-channel.php:103
+#: includes/libraries/vidi-metabox-submit-video.php:280
+#: includes/libraries/vidi-metabox-cpt.php:193
+#: includes/libraries/vidi-metabox-cpt.php:431
+msgid "Attached Playlists"
+msgstr ""
+
+#: includes/libraries/vidi-metabox-submit-channel.php:120
+#: includes/libraries/vidi-metabox-submit-video.php:297
+#: includes/libraries/vidi-metabox-cpt.php:209
+#: includes/libraries/vidi-metabox-cpt.php:288
+#: includes/libraries/vidi-metabox-cpt.php:371
+#: includes/libraries/vidi-metabox-cpt.php:447
+msgid "Attached Series"
+msgstr ""
+
+#: includes/libraries/vidi-metabox-submit-channel.php:86
+#: includes/libraries/vidi-metabox-submit-playlist.php:86
+#: includes/libraries/vidi-metabox-submit-series.php:86
+#: includes/libraries/vidi-metabox-cpt.php:61
+#: includes/libraries/vidi-metabox-cpt.php:103
+#: includes/libraries/vidi-metabox-cpt.php:177
+#: includes/libraries/vidi-metabox-cpt.php:272
+#: includes/libraries/vidi-metabox-cpt.php:355
+msgid "Attached Videos"
+msgstr ""
+
+#: includes/libraries/vidi-metabox-shortcode.php:66
+msgid "Author (Member) TOP"
+msgstr ""
+
+#: includes/libraries/vidi-metabox-shortcode.php:2813
+msgid "Author (Member) TOP Layout"
+msgstr ""
+
+#: includes/libraries/vidi-metabox-shortcode.php:2814
+msgid "Author (Member) TOP Layout."
+msgstr ""
+
+#: includes/vidi/vidi-functions.php:238
+msgid "Author archive for "
+msgstr ""
+
+#: includes/libraries/vidi-metabox-shortcode.php:2862
+msgid "Author Order"
+msgstr ""
+
+#: includes/libraries/vidi-metabox-shortcode.php:2847
+msgid "Author Order By"
+msgstr ""
+
+#: includes/libraries/vidi-metabox-shortcode.php:2836
+msgid "Author TOP title"
+msgstr ""
+
+#: includes/libraries/vidi-settings.php:1442
+#: includes/libraries/vidi-settings.php:1448
+msgid "Authors"
+msgstr ""
+
+#: includes/libraries/vidi-settings.php:1443
+msgid "Authors Settings"
+msgstr ""
+
+#: templates/vidi/elements/video-player-toolbar-action-auto-next.php:13
+msgid "Auto Next"
+msgstr ""
+
+#: includes/libraries/cmb2-attached-posts/init.php:142
+#, php-format
+msgid "Available %s"
+msgstr ""
+
+#: includes/vidi/class-rating-system.php:278
+msgid "B"
+msgstr ""
+
+#: includes/widgets/haru-video-videos.php:37
+#: includes/widgets/haru-channel-top.php:37
+#: includes/widgets/haru-video-top.php:37
+msgid "Background Dark"
+msgstr ""
+
+#: templates/vidi/shortcodes/user-menu.php:59
+msgid "Billing"
+msgstr ""
+
+#: includes/libraries/vidi-settings.php:1833
+msgid "Black Color"
+msgstr ""
+
+#: includes/libraries/vidi-settings.php:1826
+msgid "Border Color"
+msgstr ""
+
+#: includes/libraries/vidi-settings.php:1856
+msgid "Border Radius"
+msgstr ""
+
+#: includes/libraries/vidi-settings.php:1864
+msgid "Border Radius Small"
+msgstr ""
+
+#: includes/libraries/vidi-settings.php:1872
+msgid "Border Radius Tiny"
+msgstr ""
+
+#: includes/widgets/haru-widget.php:186 includes/widgets/haru-widget.php:198
+msgid "Browse..."
+msgstr ""
+
+#: includes/modules/import/youtube/class.list-table.php:231
+msgid "Bulk actions"
+msgstr ""
+
+#: includes/libraries/vidi-metabox-shortcode.php:538
+#: includes/libraries/vidi-metabox-shortcode.php:730
+#: includes/libraries/vidi-metabox-shortcode.php:1201
+#: includes/libraries/vidi-metabox-shortcode.php:1607
+#: includes/libraries/vidi-metabox-shortcode.php:2070
+#: includes/libraries/vidi-metabox-shortcode.php:2530
+msgid "Button"
+msgstr ""
+
+#: templates/vidi/elements/single-video-player.php:61
+msgid "Cancel"
+msgstr ""
+
+#: includes/libraries/vidi-metabox-shortcode.php:1221
+#: includes/libraries/vidi-metabox-shortcode.php:1799
+#: includes/libraries/vidi-metabox-shortcode.php:2262
+#: includes/libraries/vidi-metabox-shortcode.php:2725
+msgid "Carousel - Bullets"
+msgstr ""
+
+#: includes/libraries/vidi-metabox-shortcode.php:291
+msgid "Carousel 1 Columns (2) - Slick"
+msgstr ""
+
+#: includes/libraries/vidi-metabox-shortcode.php:295
+msgid "Carousel 1 Columns (Info Left) - Slick"
+msgstr ""
+
+#: includes/libraries/vidi-metabox-shortcode.php:290
+msgid "Carousel 1 Columns - Slick"
+msgstr ""
+
+#: includes/libraries/vidi-metabox-shortcode.php:297
+msgid "Carousel No Padding - Slick"
+msgstr ""
+
+#: includes/posttypes/series.php:135 includes/posttypes/playlist.php:135
+#: includes/posttypes/shortcode-generate.php:87
+#: includes/posttypes/actor.php:135 includes/posttypes/channel.php:135
+#: includes/posttypes/director.php:135
+#: includes/libraries/vidi-metabox-shortcode.php:130
+#: includes/libraries/vidi-metabox-shortcode.php:357
+#: includes/libraries/vidi-metabox-shortcode.php:1674
+#: includes/libraries/vidi-metabox-shortcode.php:2137
+#: includes/libraries/vidi-metabox-shortcode.php:2600
+#: includes/libraries/vidi-metabox-submit-channel.php:78
+#: includes/libraries/vidi-metabox-submit-playlist.php:78
+#: includes/libraries/vidi-metabox-submit-series.php:78
+#: includes/libraries/vidi-metabox-submit-video.php:265
+msgid "Categories"
+msgstr ""
+
+#: includes/posttypes/series.php:182 includes/posttypes/playlist.php:182
+#: includes/posttypes/shortcode-generate.php:135
+#: includes/posttypes/actor.php:183 includes/posttypes/channel.php:182
+#: includes/posttypes/video.php:298 includes/posttypes/director.php:183
+#: includes/modules/import/youtube/class.list-table.php:186
+msgid "Category"
+msgstr ""
+
+#: includes/libraries/vidi-metabox-shortcode.php:1357
+msgid "Category Order By"
+msgstr ""
+
+#: includes/libraries/vidi-metabox-submit-channel.php:291
+#: includes/libraries/vidi-metabox-submit-channel.php:410
+#: includes/libraries/vidi-metabox-submit-playlist.php:239
+#: includes/libraries/vidi-metabox-submit-playlist.php:358
+#: includes/libraries/vidi-metabox-submit-series.php:239
+#: includes/libraries/vidi-metabox-submit-series.php:358
+#: includes/libraries/vidi-metabox-submit-video.php:504
+#: includes/libraries/vidi-metabox-submit-video.php:630
+msgid "Change Subcription"
+msgstr ""
+
+#: includes/posttypes/channel.php:92 includes/vidi/vidi-hooks.php:804
+msgid "Channel"
+msgstr ""
+
+#: includes/posttypes/channel.php:51
+msgid "Channel base"
+msgstr ""
+
+#: includes/posttypes/channel.php:133
+#: includes/libraries/vidi-metabox-shortcode.php:1476
+#: includes/libraries/vidi-metabox-shortcode.php:1686
+#: includes/libraries/vidi-metabox-shortcode.php:1833
+msgid "Channel Categories"
+msgstr ""
+
+#: includes/posttypes/channel.php:134
+#: includes/libraries/vidi-metabox-shortcode.php:57
+msgid "Channel Category"
+msgstr ""
+
+#: includes/posttypes/channel.php:62
+msgid "Channel category base"
+msgstr ""
+
+#: includes/libraries/vidi-metabox-shortcode.php:1492
+msgid ""
+"Channel Category channel style. With Channel style 6 Column auto equal 1."
+msgstr ""
+
+#: includes/libraries/vidi-metabox-shortcode.php:1457
+msgid "Channel Category Columns"
+msgstr ""
+
+#: includes/libraries/vidi-metabox-shortcode.php:1460
+msgid "Channel Category Columns."
+msgstr ""
+
+#: includes/libraries/vidi-metabox-shortcode.php:1428
+msgid "Channel Category Layout"
+msgstr ""
+
+#: includes/libraries/vidi-metabox-shortcode.php:1431
+msgid "Channel Category Layout."
+msgstr ""
+
+#: includes/libraries/vidi-metabox-shortcode.php:1536
+msgid "Channel Category Order by."
+msgstr ""
+
+#: includes/libraries/vidi-metabox-shortcode.php:1553
+msgid "Channel Category Order."
+msgstr ""
+
+#: includes/libraries/vidi-metabox-shortcode.php:1523
+msgid "Channel Category posts per page."
+msgstr ""
+
+#: includes/libraries/vidi-metabox-shortcode.php:1480
+msgid "Channel Category select Categories"
+msgstr ""
+
+#: includes/libraries/vidi-metabox-shortcode.php:1587
+msgid "Channel Category Show/hide All Filter."
+msgstr ""
+
+#: includes/libraries/vidi-metabox-shortcode.php:1570
+msgid "Channel Category Show/hide Filter."
+msgstr ""
+
+#: includes/libraries/vidi-metabox-shortcode.php:1444
+msgid "Channel Category Title"
+msgstr ""
+
+#: includes/libraries/vidi-metabox-shortcode.php:1447
+msgid "Channel Category Title."
+msgstr ""
+
+#: includes/libraries/vidi-metabox-shortcode.php:1604
+msgid ""
+"Channel Category view more button will go to category page. Ajax arrow will "
+"load more channels via Ajax."
+msgstr ""
+
+#: includes/libraries/vidi-metabox-shortcode.php:1700
+msgid "Channel IDs"
+msgstr ""
+
+#: includes/libraries/vidi-metabox-submit-channel.php:138
+#: includes/libraries/vidi-metabox-cpt.php:226
+msgid "Channel Metaboxes"
+msgstr ""
+
+#: includes/libraries/vidi-metabox-shortcode.php:1863
+msgid "Channel Order"
+msgstr ""
+
+#: includes/libraries/vidi-metabox-shortcode.php:1845
+msgid "Channel Order By"
+msgstr ""
+
+#: includes/modules/import/youtube/views/import_videos.php:26
+msgid "Channel query"
+msgstr ""
+
+#: includes/libraries/vidi-metabox-shortcode.php:58
+msgid "Channel Slideshow"
+msgstr ""
+
+#: includes/libraries/vidi-metabox-shortcode.php:1690
+msgid "Channel Slideshow Categories."
+msgstr ""
+
+#: includes/libraries/vidi-metabox-shortcode.php:1649
+msgid "Channel Slideshow Columns"
+msgstr ""
+
+#: includes/libraries/vidi-metabox-shortcode.php:1652
+msgid ""
+"Channel Slideshow Columns. With Featured List layout please set 1 Columns."
+msgstr ""
+
+#: includes/libraries/vidi-metabox-shortcode.php:1672
+msgid "Channel Slideshow Data Source."
+msgstr ""
+
+#: includes/libraries/vidi-metabox-shortcode.php:1633
+msgid "Channel Slideshow Layout"
+msgstr ""
+
+#: includes/libraries/vidi-metabox-shortcode.php:1636
+msgid "Channel Slideshow Layout."
+msgstr ""
+
+#: includes/libraries/vidi-metabox-shortcode.php:1758
+msgid "Channel Slideshow Order by."
+msgstr ""
+
+#: includes/libraries/vidi-metabox-shortcode.php:1775
+msgid "Channel Slideshow Order."
+msgstr ""
+
+#: includes/libraries/vidi-metabox-shortcode.php:1744
+msgid "Channel Slideshow select Channel per page."
+msgstr ""
+
+#: includes/libraries/vidi-metabox-shortcode.php:1715
+msgid "Channel Slideshow select channel style."
+msgstr ""
+
+#: includes/libraries/vidi-metabox-shortcode.php:1701
+msgid "Channel Slideshow select Channels."
+msgstr ""
+
+#: includes/libraries/vidi-metabox-shortcode.php:1620
+msgid "Channel Slideshow Title"
+msgstr ""
+
+#: includes/libraries/vidi-metabox-shortcode.php:1623
+msgid "Channel Slideshow Title."
+msgstr ""
+
+#: includes/libraries/vidi-metabox-shortcode.php:1491
+#: includes/libraries/vidi-metabox-shortcode.php:1714
+msgid "Channel Style"
+msgstr ""
+
+#: haru-vidi.php:145
+msgid "Channel Submit"
+msgstr ""
+
+#: includes/libraries/vidi-metabox-submit-channel.php:240
+#: includes/libraries/vidi-metabox-submit-channel.php:359
+msgid "Channel Submit information depend on your account Level"
+msgstr ""
+
+#: includes/libraries/vidi-metabox-shortcode.php:59
+msgid "Channel TOP"
+msgstr ""
+
+#: includes/libraries/vidi-metabox-shortcode.php:1792
+msgid "Channel TOP Layout"
+msgstr ""
+
+#: includes/libraries/vidi-metabox-shortcode.php:1793
+msgid "Channel TOP Layout."
+msgstr ""
+
+#: includes/libraries/vidi-metabox-shortcode.php:1823
+msgid "Channel TOP title"
+msgstr ""
+
+#: includes/modules/import/youtube/views/import_videos.php:26
+msgid "Channel uploads feed"
+msgstr ""
+
+#: includes/posttypes/channel.php:90 includes/libraries/vidi-settings.php:833
+#: includes/libraries/vidi-settings.php:839
+#: includes/vidi/buddypress-functions.php:78
+#: templates/vidi/author/single-author.php:86
+msgid "Channels"
+msgstr ""
+
+#: includes/libraries/vidi-settings.php:834
+msgid "Channels Settings"
+msgstr ""
+
+#: includes/libraries/vidi-metabox-cpt.php:339
+#: includes/libraries/vidi-metabox-cpt.php:415
+msgid "Character"
+msgstr ""
+
+#: includes/libraries/vidi-metabox-shortcode.php:2827
+msgid "Choose Author (Member) TOP Layout"
+msgstr ""
+
+#: includes/libraries/vidi-metabox-shortcode.php:2863
+msgid "Choose Author Order"
+msgstr ""
+
+#: includes/libraries/vidi-metabox-shortcode.php:2848
+msgid "Choose Author Order By"
+msgstr ""
+
+#: includes/libraries/vidi-metabox-shortcode.php:1358
+msgid "Choose Category Order By"
+msgstr ""
+
+#: includes/libraries/vidi-metabox-shortcode.php:1864
+msgid "Choose Channel Order"
+msgstr ""
+
+#: includes/libraries/vidi-metabox-shortcode.php:1846
+msgid "Choose Channel Order By"
+msgstr ""
+
+#: includes/libraries/vidi-metabox-shortcode.php:117
+#: includes/libraries/vidi-metabox-shortcode.php:344
+#: includes/libraries/vidi-metabox-shortcode.php:591
+#: includes/libraries/vidi-metabox-shortcode.php:786
+#: includes/libraries/vidi-metabox-shortcode.php:1057
+#: includes/libraries/vidi-metabox-shortcode.php:1468
+#: includes/libraries/vidi-metabox-shortcode.php:1661
+#: includes/libraries/vidi-metabox-shortcode.php:1931
+#: includes/libraries/vidi-metabox-shortcode.php:2124
+#: includes/libraries/vidi-metabox-shortcode.php:2391
+#: includes/libraries/vidi-metabox-shortcode.php:2586
+#: includes/libraries/vidi-settings.php:314
+#: includes/libraries/vidi-settings.php:519
+#: includes/libraries/vidi-settings.php:722
+#: includes/libraries/vidi-settings.php:925
+#: includes/libraries/vidi-settings.php:1128
+#: includes/libraries/vidi-settings.php:1331
+msgid "Choose Columns"
+msgstr ""
+
+#: includes/posttypes/actor.php:148
+msgid "Choose from the most used Actor Categories"
+msgstr ""
+
+#: includes/posttypes/channel.php:148
+msgid "Choose from the most used Channel Categories"
+msgstr ""
+
+#: includes/posttypes/director.php:148
+msgid "Choose from the most used Director Categories"
+msgstr ""
+
+#: includes/posttypes/playlist.php:148
+msgid "Choose from the most used Playlist Categories"
+msgstr ""
+
+#: includes/posttypes/series.php:148
+msgid "Choose from the most used Series Categories"
+msgstr ""
+
+#: includes/posttypes/shortcode-generate.php:100
+msgid "Choose from the most used Shortcode Categories"
+msgstr ""
+
+#: includes/posttypes/video.php:178
+msgid "Choose from the most used Video Categories"
+msgstr ""
+
+#: includes/posttypes/video.php:264
+msgid "Choose from the most used Video Labels"
+msgstr ""
+
+#: includes/posttypes/video.php:221
+msgid "Choose from the most used Video Tags"
+msgstr ""
+
+#: includes/libraries/vidi-metabox-shortcode.php:2322
+msgid "Choose Playlist Order"
+msgstr ""
+
+#: includes/libraries/vidi-metabox-shortcode.php:2305
+msgid "Choose Playlist Order By"
+msgstr ""
+
+#: includes/libraries/vidi-metabox-shortcode.php:2273
+msgid "Choose Playlist TOP Layout"
+msgstr ""
+
+#: includes/libraries/vidi-metabox-shortcode.php:2785
+msgid "Choose Series Order"
+msgstr ""
+
+#: includes/libraries/vidi-metabox-shortcode.php:2768
+msgid "Choose Series Order By"
+msgstr ""
+
+#: includes/libraries/vidi-metabox-shortcode.php:2736
+msgid "Choose Series TOP Layout"
+msgstr ""
+
+#: includes/libraries/vidi-metabox-shortcode.php:134
+#: includes/libraries/vidi-metabox-shortcode.php:361
+#: includes/libraries/vidi-metabox-shortcode.php:1678
+#: includes/libraries/vidi-metabox-shortcode.php:2141
+#: includes/libraries/vidi-metabox-shortcode.php:2604
+msgid "Choose Shortcode Data Source"
+msgstr ""
+
+#: includes/libraries/vidi-metabox-shortcode.php:84
+#: includes/libraries/vidi-metabox-shortcode.php:190
+#: includes/libraries/vidi-metabox-shortcode.php:460
+#: includes/libraries/vidi-metabox-shortcode.php:572
+#: includes/libraries/vidi-metabox-shortcode.php:636
+#: includes/libraries/vidi-metabox-shortcode.php:767
+#: includes/libraries/vidi-metabox-shortcode.php:935
+#: includes/libraries/vidi-metabox-shortcode.php:1232
+#: includes/libraries/vidi-metabox-shortcode.php:1436
+#: includes/libraries/vidi-metabox-shortcode.php:1641
+#: includes/libraries/vidi-metabox-shortcode.php:1899
+#: includes/libraries/vidi-metabox-shortcode.php:2104
+#: includes/libraries/vidi-metabox-shortcode.php:2358
+#: includes/libraries/vidi-metabox-shortcode.php:2565
+msgid "Choose Shortcode Layout"
+msgstr ""
+
+#: includes/libraries/vidi-metabox-shortcode.php:69
+msgid "Choose Shortcode Type"
+msgstr ""
+
+#: includes/libraries/vidi-metabox-shortcode.php:796
+#: includes/libraries/vidi-metabox-shortcode.php:945
+msgid "Choose Tab you want to display"
+msgstr ""
+
+#: includes/libraries/cmb2/includes/CMB2_JS.php:220
+msgid "Choose Time"
+msgstr ""
+
+#: includes/libraries/vidi-metabox-shortcode.php:1281
+msgid "Choose Video Order"
+msgstr ""
+
+#: includes/libraries/vidi-metabox-shortcode.php:1264
+msgid "Choose Video Order By"
+msgstr ""
+
+#: includes/libraries/cmb2/includes/CMB2_JS.php:172
+#: includes/libraries/cmb2/includes/CMB2_JS.php:217
+msgid "Clear"
+msgstr ""
+
+#: includes/widgets/haru-widget.php:186
+msgid "Click to browse icon"
+msgstr ""
+
+#: includes/widgets/haru-widget.php:198
+msgid "Click to browse image"
+msgstr ""
+
+#: includes/vidi/class-rating-system.php:101
+#: includes/vidi/class-rating-system.php:135
+#: includes/vidi/class-rating-system.php:170
+#: includes/vidi/class-rating-system.php:325
+msgid "Click to dislike this"
+msgstr ""
+
+#: includes/vidi/class-rating-system.php:112
+#: includes/vidi/class-rating-system.php:147
+#: includes/vidi/class-rating-system.php:181
+#: includes/vidi/class-rating-system.php:323
+msgid "Click to like this"
+msgstr ""
+
+#: templates/vidi/elements/video-player-popup-ajax.php:40
+msgid "Close"
+msgstr ""
+
+#: includes/libraries/vidi-settings.php:1790
+msgid "Color"
+msgstr ""
+
+#: includes/libraries/vidi-settings.php:1791
+msgid ""
+"Color settings. Please note our plugin will generate new css file in: wp-"
+"content/plugins/haru-vidi/assets/css/style-custom.css. If it doesn't work "
+"you need check your server to allow it."
+msgstr ""
+
+#: includes/modules/import/youtube/class.list-table.php:76
+#, php-format
+msgid "Column <em>%s</em> was not found."
+msgstr ""
+
+#: includes/posttypes/video-report.php:90
+msgid "Content"
+msgstr ""
+
+#: templates/vidi/shortcodes/single-shortcode.php:29
+msgid "Copy Shortcode"
+msgstr ""
+
+#: includes/scss/scss-functions.php:51
+msgid "Could not save file! Please check your Server Permissions."
+msgstr ""
+
+#: includes/modules/import/youtube/class.list-table.php:219
+msgid "Create categories from YouTube"
+msgstr ""
+
+#: includes/libraries/cmb2/includes/CMB2_JS.php:175
+msgid "Current Color"
+msgstr ""
+
+#: includes/modules/import/video/class.importer.php:74
+msgid "Custom field deleted."
+msgstr ""
+
+#: includes/modules/import/video/class.importer.php:73
+msgid "Custom field updated."
+msgstr ""
+
+#: includes/libraries/vidi-metabox-submit-video.php:82
+#: includes/libraries/vidi-metabox-cpt.php:530
+msgid "Dailymotion"
+msgstr ""
+
+#: includes/libraries/vidi-metabox-shortcode.php:743
+#: includes/libraries/vidi-metabox-shortcode.php:751
+#: includes/libraries/vidi-metabox-shortcode.php:1308
+#: includes/libraries/vidi-metabox-shortcode.php:1316
+#: includes/libraries/vidi-metabox-shortcode.php:2890
+#: includes/libraries/vidi-metabox-shortcode.php:2898
+msgid "Dark Style"
+msgstr ""
+
+#: includes/libraries/vidi-metabox-shortcode.php:125
+#: includes/libraries/vidi-metabox-shortcode.php:352
+#: includes/libraries/vidi-metabox-shortcode.php:1669
+#: includes/libraries/vidi-metabox-shortcode.php:2132
+#: includes/libraries/vidi-metabox-shortcode.php:2594
+msgid "Data Source"
+msgstr ""
+
+#: includes/posttypes/series.php:184 includes/posttypes/playlist.php:184
+#: includes/posttypes/shortcode-generate.php:136
+#: includes/posttypes/actor.php:184 includes/posttypes/channel.php:184
+#: includes/posttypes/video-report.php:93 includes/posttypes/video.php:300
+#: includes/posttypes/director.php:184
+#: includes/libraries/vidi-metabox-shortcode.php:217
+#: includes/libraries/vidi-metabox-shortcode.php:415
+#: includes/libraries/vidi-metabox-shortcode.php:504
+#: includes/libraries/vidi-metabox-shortcode.php:662
+#: includes/libraries/vidi-metabox-shortcode.php:1133
+#: includes/libraries/vidi-metabox-shortcode.php:1267
+#: includes/libraries/vidi-metabox-shortcode.php:1539
+#: includes/libraries/vidi-metabox-shortcode.php:1761
+#: includes/libraries/vidi-metabox-shortcode.php:1849
+#: includes/libraries/vidi-metabox-shortcode.php:2002
+#: includes/libraries/vidi-metabox-shortcode.php:2224
+#: includes/libraries/vidi-metabox-shortcode.php:2308
+#: includes/libraries/vidi-metabox-shortcode.php:2462
+#: includes/libraries/vidi-metabox-shortcode.php:2687
+#: includes/libraries/vidi-metabox-shortcode.php:2771
+#: includes/widgets/haru-video-videos.php:53
+#: templates/vidi/series/archive-series.php:62
+#: templates/vidi/video/archive-video.php:61
+#: templates/vidi/video/archive-video.php:69
+#: templates/vidi/playlist/archive-playlist.php:62
+#: templates/vidi/director/archive-director.php:62
+#: templates/vidi/channel/archive-channel.php:62
+#: templates/vidi/channel/single-channel.php:162
+#: templates/vidi/channel/single-channel.php:255
+#: templates/vidi/channel/single-channel.php:348
+#: templates/vidi/actor/archive-actor.php:62
+#: includes/modules/import/youtube/class.list-table.php:191
+msgid "Date"
+msgstr ""
+
+#: includes/modules/import/youtube/views/import_videos.php:68
+msgid "Date of publishing"
+msgstr ""
+
+#: includes/libraries/vidi-metabox-shortcode.php:81
+#: includes/libraries/vidi-metabox-shortcode.php:175
+#: includes/libraries/vidi-metabox-shortcode.php:269
+#: includes/libraries/vidi-metabox-shortcode.php:451
+#: includes/libraries/vidi-metabox-shortcode.php:569
+#: includes/libraries/vidi-metabox-shortcode.php:619
+#: includes/libraries/vidi-metabox-shortcode.php:872
+#: includes/libraries/vidi-metabox-shortcode.php:1021
+#: includes/libraries/vidi-metabox-shortcode.php:1098
+#: includes/libraries/vidi-metabox-shortcode.php:1433
+#: includes/libraries/vidi-metabox-shortcode.php:1496
+#: includes/libraries/vidi-metabox-shortcode.php:1719
+#: includes/libraries/vidi-metabox-shortcode.php:1896
+#: includes/libraries/vidi-metabox-shortcode.php:1959
+#: includes/libraries/vidi-metabox-shortcode.php:2182
+#: includes/libraries/vidi-metabox-shortcode.php:2355
+#: includes/libraries/vidi-metabox-shortcode.php:2419
+#: includes/libraries/vidi-metabox-shortcode.php:2645
+#: includes/libraries/vidi-settings.php:1752
+#: includes/widgets/haru-playlist-top.php:36
+#: includes/widgets/haru-video-videos.php:36
+#: includes/widgets/haru-video-tags.php:36
+#: includes/widgets/haru-channel-top.php:36
+#: includes/widgets/haru-video-categories.php:50
+#: includes/widgets/haru-video-top.php:36
+#: includes/widgets/haru-video-search.php:36
+#: includes/widgets/haru-series-top.php:36
+#: templates/vidi/channel/single-channel.php:159
+#: templates/vidi/channel/single-channel.php:252
+#: templates/vidi/channel/single-channel.php:345
+#: includes/libraries/cmb2/includes/CMB2_JS.php:173
+msgid "Default"
+msgstr ""
+
+#: includes/libraries/vidi-settings.php:1741
+msgid "Default (Image)"
+msgstr ""
+
+#: includes/libraries/vidi-metabox-shortcode.php:764
+msgid "Default - Grid"
+msgstr ""
+
+#: includes/libraries/vidi-metabox-shortcode.php:932
+msgid "Default - List"
+msgstr ""
+
+#: includes/libraries/vidi-metabox-shortcode.php:289
+#: includes/libraries/vidi-metabox-shortcode.php:1638
+#: includes/libraries/vidi-metabox-shortcode.php:2101
+#: includes/libraries/vidi-metabox-shortcode.php:2562
+msgid "Default - Slick"
+msgstr ""
+
+#: includes/libraries/vidi-settings.php:333
+#: includes/libraries/vidi-settings.php:538
+#: includes/libraries/vidi-settings.php:741
+#: includes/libraries/vidi-settings.php:944
+#: includes/libraries/vidi-settings.php:1147
+#: includes/libraries/vidi-settings.php:1350
+msgid "Default Nav"
+msgstr ""
+
+#: includes/libraries/vidi-metabox-shortcode.php:234
+#: includes/libraries/vidi-metabox-shortcode.php:432
+#: includes/libraries/vidi-metabox-shortcode.php:521
+#: includes/libraries/vidi-metabox-shortcode.php:679
+#: includes/libraries/vidi-metabox-shortcode.php:1150
+#: includes/libraries/vidi-metabox-shortcode.php:1284
+#: includes/libraries/vidi-metabox-shortcode.php:1556
+#: includes/libraries/vidi-metabox-shortcode.php:1778
+#: includes/libraries/vidi-metabox-shortcode.php:1867
+#: includes/libraries/vidi-metabox-shortcode.php:2019
+#: includes/libraries/vidi-metabox-shortcode.php:2241
+#: includes/libraries/vidi-metabox-shortcode.php:2325
+#: includes/libraries/vidi-metabox-shortcode.php:2479
+#: includes/libraries/vidi-metabox-shortcode.php:2704
+#: includes/libraries/vidi-metabox-shortcode.php:2788
+#: includes/libraries/vidi-metabox-shortcode.php:2866
+#: includes/widgets/haru-playlist-top.php:63
+#: includes/widgets/haru-video-videos.php:64
+#: includes/widgets/haru-channel-top.php:65
+#: includes/widgets/haru-video-top.php:64
+#: includes/widgets/haru-series-top.php:63
+msgid "DESC"
+msgstr ""
+
+#: includes/posttypes/director.php:92
+#: templates/vidi/series/single-series.php:109
+#: templates/vidi/video/single-video.php:538
+msgid "Director"
+msgstr ""
+
+#: includes/posttypes/director.php:51
+msgid "Director base"
+msgstr ""
+
+#: includes/posttypes/director.php:133
+msgid "Director Categories"
+msgstr ""
+
+#: includes/posttypes/director.php:134
+msgid "Director Category"
+msgstr ""
+
+#: includes/posttypes/director.php:62
+msgid "Director category base"
+msgstr ""
+
+#: includes/posttypes/director.php:90 includes/libraries/vidi-settings.php:1239
+#: includes/libraries/vidi-settings.php:1245
+msgid "Directors"
+msgstr ""
+
+#: includes/libraries/vidi-settings.php:1240
+msgid "Directors Settings"
+msgstr ""
+
+#: templates/vidi/channel/single-channel.php:127
+msgid "Discussion"
+msgstr ""
+
+#: includes/libraries/vidi-metabox-shortcode.php:1270
+#: includes/libraries/vidi-metabox-shortcode.php:1852
+#: includes/libraries/vidi-metabox-shortcode.php:2311
+#: includes/libraries/vidi-metabox-shortcode.php:2774
+msgid "DisLike"
+msgstr ""
+
+#: includes/vidi/class-rating-system.php:343
+#: includes/widgets/haru-playlist-top.php:53
+#: includes/widgets/haru-channel-top.php:55
+#: includes/widgets/haru-video-top.php:54
+#: includes/widgets/haru-series-top.php:53
+msgid "Dislike"
+msgstr ""
+
+#: includes/vidi/class-rating-system.php:394
+msgid "dislike"
+msgstr ""
+
+#: includes/posttypes/actor.php:106
+msgid "Display Actor"
+msgstr ""
+
+#: includes/posttypes/channel.php:106
+msgid "Display Channel"
+msgstr ""
+
+#: includes/posttypes/director.php:106
+msgid "Display Director"
+msgstr ""
+
+#: includes/posttypes/playlist.php:106
+msgid "Display Playlist"
+msgstr ""
+
+#: includes/posttypes/series.php:106
+msgid "Display Series"
+msgstr ""
+
+#: includes/posttypes/shortcode-generate.php:60
+msgid "Display Shortcode"
+msgstr ""
+
+#: includes/posttypes/video.php:136
+msgid "Display Video"
+msgstr ""
+
+#: includes/posttypes/video-report.php:57
+msgid "Display Video Report"
+msgstr ""
+
+#: includes/libraries/cmb2/includes/CMB2_JS.php:216
+#: includes/libraries/cmb2/includes/CMB2_JS.php:226
+#: includes/modules/import/video/class.wizard.php:103
+#: includes/modules/import/video/class.wizard.php:152
+msgid "Done"
+msgstr ""
+
+#: includes/libraries/cmb2/includes/CMB2_JS.php:238
+msgid "Download"
+msgstr ""
+
+#: includes/libraries/vidi-metabox-cpt.php:480
+msgid ""
+"Drag actor from the left column to the right column to add them to this "
+"video. You may rearrange the order of the actor in the right column by "
+"dragging and dropping."
+msgstr ""
+
+#: includes/libraries/vidi-metabox-cpt.php:136
+msgid ""
+"Drag actors from the left column to the right column to add them to this "
+"Series. You may rearrange the order of the actors in the right column by "
+"dragging and dropping."
+msgstr ""
+
+#: includes/libraries/vidi-metabox-cpt.php:464
+msgid ""
+"Drag channel from the left column to the right column to add them to this "
+"video. You may rearrange the order of the channel in the right column by "
+"dragging and dropping."
+msgstr ""
+
+#: includes/libraries/vidi-metabox-submit-playlist.php:104
+#: includes/libraries/vidi-metabox-cpt.php:78
+msgid ""
+"Drag channels from the left column to the right column to add them to this "
+"playlist. You may rearrange the order of the channels in the right column by "
+"dragging and dropping."
+msgstr ""
+
+#: includes/libraries/vidi-metabox-cpt.php:120
+msgid ""
+"Drag channels from the left column to the right column to add them to this "
+"Series. You may rearrange the order of the channels in the right column by "
+"dragging and dropping."
+msgstr ""
+
+#: includes/libraries/vidi-metabox-submit-series.php:104
+msgid ""
+"Drag channels from the left column to the right column to add them to this "
+"series. You may rearrange the order of the channels in the right column by "
+"dragging and dropping."
+msgstr ""
+
+#: includes/libraries/vidi-metabox-cpt.php:496
+msgid ""
+"Drag director from the left column to the right column to add them to this "
+"video. You may rearrange the order of the director in the right column by "
+"dragging and dropping."
+msgstr ""
+
+#: includes/libraries/vidi-metabox-cpt.php:152
+msgid ""
+"Drag directors from the left column to the right column to add them to this "
+"Series. You may rearrange the order of the directors in the right column by "
+"dragging and dropping."
+msgstr ""
+
+#: includes/libraries/vidi-metabox-submit-video.php:273
+msgid ""
+"Drag from the left column to the right column to add them to this video. You "
+"may rearrange the order of the items in the right column by dragging and "
+"dropping."
+msgstr ""
+
+#: includes/libraries/vidi-metabox-submit-channel.php:104
+#: includes/libraries/vidi-metabox-cpt.php:194
+msgid ""
+"Drag playlists from the left column to the right column to add them to this "
+"channel. You may rearrange the order of the playlists in the right column by "
+"dragging and dropping."
+msgstr ""
+
+#: includes/libraries/vidi-metabox-cpt.php:432
+msgid ""
+"Drag playlists from the left column to the right column to add them to this "
+"video. You may rearrange the order of the playlists in the right column by "
+"dragging and dropping."
+msgstr ""
+
+#: includes/libraries/vidi-metabox-submit-channel.php:121
+#: includes/libraries/vidi-metabox-cpt.php:210
+msgid ""
+"Drag series from the left column to the right column to add them to this "
+"channel. You may rearrange the order of the series in the right column by "
+"dragging and dropping."
+msgstr ""
+
+#: includes/libraries/vidi-metabox-cpt.php:448
+msgid ""
+"Drag series from the left column to the right column to add them to this "
+"video. You may rearrange the order of the series in the right column by "
+"dragging and dropping."
+msgstr ""
+
+#: includes/libraries/vidi-metabox-cpt.php:289
+msgid ""
+"Drag seriess from the left column to the right column to add them to this "
+"actor. You may rearrange the order of the seriess in the right column by "
+"dragging and dropping."
+msgstr ""
+
+#: includes/libraries/vidi-metabox-cpt.php:372
+msgid ""
+"Drag seriess from the left column to the right column to add them to this "
+"director. You may rearrange the order of the seriess in the right column by "
+"dragging and dropping."
+msgstr ""
+
+#: includes/libraries/vidi-metabox-cpt.php:273
+msgid ""
+"Drag videos from the left column to the right column to add them to this "
+"actor. You may rearrange the order of the videos in the right column by "
+"dragging and dropping."
+msgstr ""
+
+#: includes/libraries/vidi-metabox-submit-channel.php:87
+#: includes/libraries/vidi-metabox-cpt.php:178
+msgid ""
+"Drag videos from the left column to the right column to add them to this "
+"channel. You may rearrange the order of the videos in the right column by "
+"dragging and dropping."
+msgstr ""
+
+#: includes/libraries/vidi-metabox-cpt.php:356
+msgid ""
+"Drag videos from the left column to the right column to add them to this "
+"director. You may rearrange the order of the videos in the right column by "
+"dragging and dropping."
+msgstr ""
+
+#: includes/libraries/vidi-metabox-submit-playlist.php:87
+#: includes/libraries/vidi-metabox-cpt.php:62
+msgid ""
+"Drag videos from the left column to the right column to add them to this "
+"playlist. You may rearrange the order of the videos in the right column by "
+"dragging and dropping."
+msgstr ""
+
+#: includes/libraries/vidi-metabox-cpt.php:104
+msgid ""
+"Drag videos from the left column to the right column to add them to this "
+"Series. You may rearrange the order of the videos in the right column by "
+"dragging and dropping."
+msgstr ""
+
+#: includes/libraries/vidi-metabox-submit-series.php:87
+msgid ""
+"Drag videos from the left column to the right column to add them to this "
+"series. You may rearrange the order of the videos in the right column by "
+"dragging and dropping."
+msgstr ""
+
+#: includes/libraries/vidi-metabox-submit-video.php:84
+#: includes/libraries/vidi-metabox-cpt.php:532
+msgid "Drive Google"
+msgstr ""
+
+#: includes/modules/import/youtube/class.list-table.php:188
+msgid "Duration"
+msgstr ""
+
+#: includes/modules/import/youtube/views/import_videos.php:73
+msgid "Duration (longest to shortest)"
+msgstr ""
+
+#: includes/posttypes/actor.php:95 templates/vidi/actor/content-actor.php:42
+msgid "Edit Actor"
+msgstr ""
+
+#: includes/posttypes/actor.php:137
+msgid "Edit Actor Category"
+msgstr ""
+
+#: includes/posttypes/channel.php:95
+#: templates/vidi/channel/content-channel.php:44
+#: templates/vidi/channel/content-channel.php:56
+msgid "Edit Channel"
+msgstr ""
+
+#: includes/posttypes/channel.php:137
+msgid "Edit Channel Category"
+msgstr ""
+
+#: includes/posttypes/director.php:95
+#: templates/vidi/director/content-director.php:42
+msgid "Edit Director"
+msgstr ""
+
+#: includes/posttypes/director.php:137
+msgid "Edit Director Category"
+msgstr ""
+
+#: includes/posttypes/playlist.php:95
+#: templates/vidi/playlist/content-playlist.php:39
+msgid "Edit Playlist"
+msgstr ""
+
+#: includes/posttypes/playlist.php:137
+msgid "Edit Playlist Category"
+msgstr ""
+
+#: includes/posttypes/series.php:95 templates/vidi/series/content-series.php:39
+msgid "Edit Series"
+msgstr ""
+
+#: includes/posttypes/series.php:137
+msgid "Edit Series Category"
+msgstr ""
+
+#: includes/posttypes/shortcode-generate.php:49
+msgid "Edit Shortcode"
+msgstr ""
+
+#: includes/posttypes/shortcode-generate.php:89
+msgid "Edit Shortcode Category"
+msgstr ""
+
+#: includes/posttypes/video-report.php:92 includes/posttypes/video.php:125
+#: templates/vidi/video/content-video.php:79
+msgid "Edit Video"
+msgstr ""
+
+#: includes/posttypes/video.php:167
+msgid "Edit Video Category"
+msgstr ""
+
+#: includes/posttypes/video.php:253
+msgid "Edit Video Label"
+msgstr ""
+
+#: includes/posttypes/video-report.php:46
+msgid "Edit Video Report"
+msgstr ""
+
+#: includes/posttypes/video.php:210
+msgid "Edit Video Tag"
+msgstr ""
+
+#: includes/libraries/vidi-settings.php:1543
+#: includes/libraries/vidi-settings.php:1549
+msgid "Email"
+msgstr ""
+
+#: includes/libraries/vidi-settings.php:1560
+msgid "Email Admin"
+msgstr ""
+
+#: includes/libraries/vidi-settings.php:1544
+msgid "Email Settings"
+msgstr ""
+
+#: includes/libraries/vidi-settings.php:1641
+msgid "Email User"
+msgstr ""
+
+#: includes/libraries/vidi-settings.php:1576
+#: includes/libraries/vidi-settings.php:1577
+#: includes/libraries/vidi-settings.php:1657
+#: includes/libraries/vidi-settings.php:1658
+msgid "Email Variables"
+msgstr ""
+
+#: includes/libraries/vidi-metabox-submit-video.php:86
+#: includes/libraries/vidi-metabox-cpt.php:534
+msgid "Embed"
+msgstr ""
+
+#: includes/libraries/vidi-metabox-submit-video.php:220
+#: includes/libraries/vidi-metabox-cpt.php:658
+msgid "Embeded or Iframe"
+msgstr ""
+
+#: includes/libraries/vidi-metabox-submit-video.php:233
+#: includes/libraries/vidi-metabox-cpt.php:670
+msgid "Embeded or Iframe, Object tag"
+msgstr ""
+
+#: includes/libraries/vidi-settings.php:1568
+#: includes/libraries/vidi-settings.php:1569
+msgid "Enable Email Admin"
+msgstr ""
+
+#: includes/libraries/vidi-settings.php:1649
+#: includes/libraries/vidi-settings.php:1650
+msgid "Enable Email User"
+msgstr ""
+
+#: includes/libraries/vidi-settings.php:164
+msgid "Enable Social Sharing for networks."
+msgstr ""
+
+#: includes/libraries/vidi-settings.php:1952
+msgid "Enable/Disable integrate our plugin with Memberships plugin."
+msgstr ""
+
+#: includes/libraries/vidi-metabox-shortcode.php:744
+msgid "Enable/Disable style for background Dark."
+msgstr ""
+
+#: includes/libraries/vidi-metabox-shortcode.php:2891
+msgid ""
+"Enable/Disable style for background Dark. Now in Develope Mode and do not "
+"work."
+msgstr ""
+
+#: includes/libraries/vidi-metabox-shortcode.php:1309
+msgid ""
+"Enable/Disable style for background Dark. Now in Develope Mode and does not "
+"work."
+msgstr ""
+
+#: includes/modules/import/youtube/views/import_videos.php:35
+msgid ""
+"Enter any number of results you want to retrieve. Results will be paginated. "
+"Youtube allows a maximum of 1000 per request."
+msgstr ""
+
+#: includes/modules/import/youtube/views/import_videos.php:57
+msgid "Enter playlist ID, user ID or search query to use."
+msgstr ""
+
+#: includes/modules/import/video/class.wizard.php:124
+msgid "Enter the search criteria and submit."
+msgstr ""
+
+#: templates/vidi/video/single-video.php:329
+msgid "Episode"
+msgstr ""
+
+#: templates/vidi/video/single-video.php:324
+msgid "Episodes"
+msgstr ""
+
+#: includes/vidi/vidi-functions.php:287
+msgid "Error 404"
+msgstr ""
+
+#: includes/libraries/vidi-settings.php:1875
+msgid "Example: 2px"
+msgstr ""
+
+#: includes/libraries/vidi-settings.php:1867
+msgid "Example: 3px"
+msgstr ""
+
+#: includes/libraries/vidi-settings.php:1859
+msgid "Example: 4px"
+msgstr ""
+
+#: includes/libraries/vidi-metabox-shortcode.php:2909
+msgid "Extra Class"
+msgstr ""
+
+#: includes/libraries/vidi-metabox-cpt.php:716
+msgid "Extra Info"
+msgstr ""
+
+#: includes/libraries/vidi-metabox-submit-video.php:83
+#: includes/libraries/vidi-metabox-cpt.php:531
+#: includes/libraries/vidi-settings.php:168
+msgid "Facebook"
+msgstr ""
+
+#: includes/libraries/vidi-metabox-submit-channel.php:144
+#: includes/libraries/vidi-metabox-cpt.php:234
+#: includes/libraries/vidi-metabox-cpt.php:724
+msgid "Facebook URL"
+msgstr ""
+
+#: includes/libraries/vidi-metabox-cpt.php:747
+msgid "Fake Data Metaboxes"
+msgstr ""
+
+#: includes/libraries/vidi-metabox-cpt.php:776
+msgid "Fake Dislike"
+msgstr ""
+
+#: includes/libraries/vidi-metabox-cpt.php:763
+msgid "Fake Like"
+msgstr ""
+
+#: includes/libraries/vidi-metabox-cpt.php:755
+msgid "Fake Like/Dislike"
+msgstr ""
+
+#: includes/libraries/vidi-metabox-cpt.php:818
+#: includes/libraries/vidi-metabox-cpt.php:826
+msgid "Fake Subscribe"
+msgstr ""
+
+#: includes/libraries/vidi-metabox-cpt.php:810
+msgid "Fake Subscribe Metaboxes"
+msgstr ""
+
+#: includes/libraries/vidi-metabox-cpt.php:788
+#: includes/libraries/vidi-metabox-cpt.php:796
+msgid "Fake View"
+msgstr ""
+
+#: includes/libraries/vidi-metabox-shortcode.php:293
+msgid "Featured - Slick"
+msgstr ""
+
+#: includes/libraries/vidi-metabox-submit-channel.php:68
+#: includes/libraries/vidi-metabox-submit-playlist.php:68
+#: includes/libraries/vidi-metabox-submit-series.php:68
+#: includes/libraries/vidi-metabox-submit-video.php:253
+msgid "Featured Image"
+msgstr ""
+
+#: includes/modules/import/youtube/views/import_videos.php:17
+msgid "Feed type"
+msgstr ""
+
+#: includes/libraries/cmb2/includes/CMB2_JS.php:237
+msgid "File:"
+msgstr ""
+
+#: includes/libraries/vidi-metabox-cpt.php:304
+#: templates/vidi/director/single-director.php:74
+#: templates/vidi/actor/single-actor.php:73
+msgid "Filmography"
+msgstr ""
+
+#: includes/libraries/vidi-metabox-shortcode.php:247
+#: includes/libraries/vidi-metabox-shortcode.php:255
+#: includes/libraries/vidi-metabox-shortcode.php:692
+#: includes/libraries/vidi-metabox-shortcode.php:700
+#: includes/libraries/vidi-metabox-shortcode.php:1163
+#: includes/libraries/vidi-metabox-shortcode.php:1171
+#: includes/libraries/vidi-metabox-shortcode.php:1569
+#: includes/libraries/vidi-metabox-shortcode.php:1577
+#: includes/libraries/vidi-metabox-shortcode.php:2032
+#: includes/libraries/vidi-metabox-shortcode.php:2040
+#: includes/libraries/vidi-metabox-shortcode.php:2492
+#: includes/libraries/vidi-metabox-shortcode.php:2500
+msgid "Filter"
+msgstr ""
+
+#: includes/libraries/cmb2-attached-posts/init.php:124
+#, php-format
+msgid "Filter %s"
+msgstr ""
+
+#: includes/libraries/vidi-metabox-shortcode.php:709
+#: includes/libraries/vidi-metabox-shortcode.php:717
+#: includes/libraries/vidi-metabox-shortcode.php:1180
+#: includes/libraries/vidi-metabox-shortcode.php:1188
+#: includes/libraries/vidi-metabox-shortcode.php:1586
+#: includes/libraries/vidi-metabox-shortcode.php:1594
+#: includes/libraries/vidi-metabox-shortcode.php:2049
+#: includes/libraries/vidi-metabox-shortcode.php:2057
+#: includes/libraries/vidi-metabox-shortcode.php:2509
+#: includes/libraries/vidi-metabox-shortcode.php:2517
+msgid "Filter All"
+msgstr ""
+
+#: includes/libraries/vidi-settings.php:1618
+#: includes/libraries/vidi-settings.php:1686
+msgid "From: {{user_name}} <{{user_email}}>"
+msgstr ""
+
+#: templates/vidi/elements/video-player-popup-content.php:214
+msgid "Full"
+msgstr ""
+
+#: includes/libraries/vidi-settings.php:246
+#: includes/libraries/vidi-settings.php:349
+#: includes/libraries/vidi-settings.php:451
+#: includes/libraries/vidi-settings.php:554
+#: includes/libraries/vidi-settings.php:654
+#: includes/libraries/vidi-settings.php:757
+#: includes/libraries/vidi-settings.php:857
+#: includes/libraries/vidi-settings.php:960
+#: includes/libraries/vidi-settings.php:1060
+#: includes/libraries/vidi-settings.php:1163
+#: includes/libraries/vidi-settings.php:1263
+#: includes/libraries/vidi-settings.php:1366
+#: includes/libraries/vidi-settings.php:1467
+msgid "Fullwidth"
+msgstr ""
+
+#: includes/libraries/vidi-settings.php:24
+msgid "General"
+msgstr ""
+
+#: includes/modules/import/video/class.wizard.php:146
+msgid "Go Back"
+msgstr ""
+
+#: includes/modules/import/youtube/class.list-table.php:358
+msgid "Go to the next page"
+msgstr ""
+
+#: includes/modules/import/youtube/class.list-table.php:337
+#: includes/modules/import/youtube/class.list-table.php:350
+msgid "Go to the previous page"
+msgstr ""
+
+#: includes/modules/import/video/class.wizard.php:156
+msgid "Go to Videos List"
+msgstr ""
+
+#: includes/libraries/vidi-settings.php:170
+msgid "Google"
+msgstr ""
+
+#: includes/libraries/vidi-settings.php:1841
+msgid "Gray Color"
+msgstr ""
+
+#: includes/vidi/buddypress-functions.php:137
+#: includes/vidi/buddypress-functions.php:270
+#: includes/vidi/buddypress-functions.php:403
+#: includes/vidi/buddypress-functions.php:536
+#: templates/vidi/series/single-series.php:135
+#: templates/vidi/series/archive-series.php:54
+#: templates/vidi/video/archive-video.php:53
+#: templates/vidi/playlist/archive-playlist.php:54
+#: templates/vidi/playlist/single-playlist.php:89
+#: templates/vidi/director/single-director.php:96
+#: templates/vidi/director/archive-director.php:54
+#: templates/vidi/author/single-author.php:113
+#: templates/vidi/author/single-author.php:159
+#: templates/vidi/author/single-author.php:205
+#: templates/vidi/author/single-author.php:251
+#: templates/vidi/shortcodes/watch-later.php:63
+#: templates/vidi/shortcodes/playlist-my-playlists.php:57
+#: templates/vidi/shortcodes/video-my-videos.php:60
+#: templates/vidi/shortcodes/channel-my-channels.php:57
+#: templates/vidi/shortcodes/series-my-seriess.php:57
+#: templates/vidi/channel/archive-channel.php:54
+#: templates/vidi/channel/single-channel.php:150
+#: templates/vidi/channel/single-channel.php:243
+#: templates/vidi/channel/single-channel.php:336
+#: templates/vidi/actor/single-actor.php:95
+#: templates/vidi/actor/archive-actor.php:54
+msgid "Grid"
+msgstr ""
+
+#: includes/libraries/vidi-metabox-shortcode.php:1222
+msgid "Grid - 2 Columns"
+msgstr ""
+
+#: includes/libraries/vidi-metabox-shortcode.php:1800
+#: includes/libraries/vidi-metabox-shortcode.php:2263
+#: includes/libraries/vidi-metabox-shortcode.php:2726
+msgid "Grid - 3 Columns"
+msgstr ""
+
+#: includes/widgets/haru-channel-top.php:23
+msgid "Haru TOP Channels"
+msgstr ""
+
+#: includes/widgets/haru-playlist-top.php:23
+msgid "Haru TOP Playlists"
+msgstr ""
+
+#: includes/widgets/haru-series-top.php:23
+msgid "Haru TOP Series"
+msgstr ""
+
+#: includes/widgets/haru-video-top.php:23
+msgid "Haru TOP Videos"
+msgstr ""
+
+#: includes/widgets/haru-video-categories.php:37
+msgid "Haru Video Categories"
+msgstr ""
+
+#: includes/widgets/haru-video-search.php:23
+msgid "Haru Video Search"
+msgstr ""
+
+#: includes/widgets/haru-video-tags.php:23
+msgid "Haru Video Tags"
+msgstr ""
+
+#: includes/widgets/haru-video-videos.php:23
+msgid "Haru Videos"
+msgstr ""
+
+#. Description of the plugin
+msgid "Haru Vidi - A Video WordPress plugin by HaruTheme."
+msgstr ""
+
+#. Name of the plugin
+msgid "Haru Vidi Pro"
+msgstr ""
+
+#. Author of the plugin
+msgid "HaruTheme"
+msgstr ""
+
+#: includes/vidi/buddypress-functions.php:131
+#: includes/vidi/buddypress-functions.php:264
+#: includes/vidi/buddypress-functions.php:397
+#: includes/vidi/buddypress-functions.php:530
+#: templates/vidi/series/archive-series.php:48
+#: templates/vidi/video/archive-video.php:47
+#: templates/vidi/playlist/archive-playlist.php:48
+#: templates/vidi/director/archive-director.php:48
+#: templates/vidi/actor/archive-actor.php:48
+msgid "Has total"
+msgstr ""
+
+#: templates/vidi/series/single-series.php:129
+#: templates/vidi/playlist/single-playlist.php:83
+#: templates/vidi/director/single-director.php:90
+#: templates/vidi/channel/archive-channel.php:48
+#: templates/vidi/actor/single-actor.php:89
+msgid "Has total "
+msgstr ""
+
+#: includes/libraries/vidi-settings.php:1805
+msgid "Heading Color"
+msgstr ""
+
+#: includes/libraries/vidi-metabox-shortcode.php:252
+#: includes/libraries/vidi-metabox-shortcode.php:697
+#: includes/libraries/vidi-metabox-shortcode.php:714
+#: includes/libraries/vidi-metabox-shortcode.php:916
+#: includes/libraries/vidi-metabox-shortcode.php:1168
+#: includes/libraries/vidi-metabox-shortcode.php:1185
+#: includes/libraries/vidi-metabox-shortcode.php:1574
+#: includes/libraries/vidi-metabox-shortcode.php:1591
+#: includes/libraries/vidi-metabox-shortcode.php:2037
+#: includes/libraries/vidi-metabox-shortcode.php:2054
+#: includes/libraries/vidi-metabox-shortcode.php:2497
+#: includes/libraries/vidi-metabox-shortcode.php:2514
+msgid "Hide"
+msgstr ""
+
+#: includes/widgets/haru-playlist-top.php:69
+#: includes/widgets/haru-video-videos.php:70
+#: includes/widgets/haru-channel-top.php:71
+#: includes/widgets/haru-video-top.php:70
+#: includes/widgets/haru-series-top.php:69
+msgid "Hide author meta info"
+msgstr ""
+
+#: includes/libraries/vidi-metabox-shortcode.php:1403
+#: includes/libraries/vidi-metabox-shortcode.php:1405
+#: includes/widgets/haru-video-categories.php:79
+msgid "Hide empty categories"
+msgstr ""
+
+#: includes/widgets/haru-playlist-top.php:74
+#: includes/widgets/haru-video-videos.php:75
+#: includes/widgets/haru-channel-top.php:76
+#: includes/widgets/haru-video-top.php:75
+#: includes/widgets/haru-series-top.php:74
+msgid "Hide views meta info"
+msgstr ""
+
+#: includes/vidi/vidi-functions.php:116
+msgid "Home"
+msgstr ""
+
+#: includes/libraries/cmb2/includes/CMB2_JS.php:222
+msgid "Hour"
+msgstr ""
+
+#. URI of the plugin
+#. Author URI of the plugin
+msgid "http://harutheme.com"
+msgstr ""
+
+#: includes/libraries/vidi-settings.php:321
+#: includes/libraries/vidi-settings.php:526
+#: includes/libraries/vidi-settings.php:729
+#: includes/libraries/vidi-settings.php:932
+#: includes/libraries/vidi-settings.php:1135
+#: includes/libraries/vidi-settings.php:1338
+msgid "If leave empty it will use setting in Settings -> General"
+msgstr ""
+
+#: includes/libraries/vidi-settings.php:2023
+#: includes/libraries/vidi-settings.php:2109
+msgid "Image Max File Size"
+msgstr ""
+
+#: includes/libraries/vidi-metabox-submit-channel.php:282
+#: includes/libraries/vidi-metabox-submit-channel.php:401
+#: includes/libraries/vidi-metabox-submit-playlist.php:230
+#: includes/libraries/vidi-metabox-submit-playlist.php:349
+#: includes/libraries/vidi-metabox-submit-series.php:230
+#: includes/libraries/vidi-metabox-submit-series.php:349
+#: includes/libraries/vidi-metabox-submit-video.php:494
+#: includes/libraries/vidi-metabox-submit-video.php:620
+msgid "Image Upload max file size is "
+msgstr ""
+
+#: includes/modules/import/youtube/class.list-table.php:233
+msgid "Import"
+msgstr ""
+
+#: includes/modules/import/youtube/class.list-table.php:239
+msgid "Import into category"
+msgstr ""
+
+#: includes/modules/import/video/class.wizard.php:36
+msgid "Import videos"
+msgstr ""
+
+#: includes/libraries/vidi-metabox-shortcode.php:271
+#: includes/libraries/vidi-settings.php:335
+#: includes/libraries/vidi-settings.php:540
+#: includes/libraries/vidi-settings.php:743
+#: includes/libraries/vidi-settings.php:946
+#: includes/libraries/vidi-settings.php:1149
+#: includes/libraries/vidi-settings.php:1352
+msgid "Infinite Scroll"
+msgstr ""
+
+#: includes/libraries/vidi-metabox-cpt.php:681
+msgid "Information"
+msgstr ""
+
+#: includes/libraries/vidi-metabox-cpt.php:682
+msgid "Information of video as actor, director, client, producer,..."
+msgstr ""
+
+#: includes/libraries/vidi-metabox-cpt.php:340
+#: includes/libraries/vidi-metabox-cpt.php:416
+msgid "Insert Character Name."
+msgstr ""
+
+#: includes/libraries/vidi-metabox-submit-video.php:234
+#: includes/libraries/vidi-metabox-cpt.php:671
+msgid "Insert Embeded or Iframe, Object tag."
+msgstr ""
+
+#: includes/libraries/vidi-metabox-submit-video.php:221
+#: includes/libraries/vidi-metabox-cpt.php:659
+msgid "Insert Embeded or Iframe."
+msgstr ""
+
+#: includes/libraries/vidi-metabox-cpt.php:305
+msgid "Insert Filmography of actor."
+msgstr ""
+
+#: includes/libraries/vidi-metabox-cpt.php:333
+#: includes/libraries/vidi-metabox-cpt.php:409
+msgid "Insert Movie Name."
+msgstr ""
+
+#: includes/libraries/vidi-metabox-submit-video.php:140
+#: includes/libraries/vidi-metabox-submit-video.php:159
+#: includes/libraries/vidi-metabox-cpt.php:582
+msgid "Insert URL"
+msgstr ""
+
+#: includes/libraries/vidi-metabox-submit-video.php:95
+#: includes/libraries/vidi-metabox-cpt.php:542
+msgid "Insert Video ID from Youtube, Vimeo,... server."
+msgstr ""
+
+#: includes/libraries/vidi-metabox-cpt.php:850
+msgid "Insert Video Report reason."
+msgstr ""
+
+#: includes/libraries/vidi-metabox-submit-video.php:108
+#: includes/libraries/vidi-metabox-cpt.php:554
+msgid "Insert Video Url from Facebook."
+msgstr ""
+
+#: includes/libraries/vidi-metabox-submit-video.php:121
+#: includes/libraries/vidi-metabox-cpt.php:566
+msgid "Insert Video Url from Google Drive."
+msgstr ""
+
+#: includes/libraries/vidi-metabox-submit-video.php:155
+#: includes/libraries/vidi-metabox-submit-video.php:174
+#: includes/libraries/vidi-metabox-cpt.php:595
+msgid "Insert Video Url from other server (mp4 and webm)."
+msgstr ""
+
+#: includes/libraries/vidi-metabox-cpt.php:326
+#: includes/libraries/vidi-metabox-cpt.php:402
+msgid "Insert Year."
+msgstr ""
+
+#: includes/libraries/vidi-metabox-submit-channel.php:165
+#: includes/libraries/vidi-metabox-cpt.php:255
+#: includes/libraries/vidi-metabox-cpt.php:738
+msgid "Instagram URL"
+msgstr ""
+
+#: includes/libraries/vidi-settings.php:1950
+msgid "Integrate Status"
+msgstr ""
+
+#: includes/libraries/cmb2/includes/CMB2_JS.php:212
+msgid "Jan, Feb, Mar, Apr, May, Jun, Jul, Aug, Sep, Oct, Nov, Dec"
+msgstr ""
+
+#: includes/libraries/cmb2/includes/CMB2_JS.php:211
+msgid ""
+"January, February, March, April, May, June, July, August, September, October,"
+" November, December"
+msgstr ""
+
+#: templates/vidi/video/single-video.php:492
+#: templates/vidi/elements/video-player-direct.php:156
+msgid "Join Now"
+msgstr ""
+
+#: includes/vidi/class-rating-system.php:274
+msgid "K"
+msgstr ""
+
+#: includes/posttypes/video.php:251
+msgid "Labels"
+msgstr ""
+
+#: includes/libraries/vidi-metabox-shortcode.php:799
+#: includes/libraries/vidi-metabox-shortcode.php:948
+msgid "Latest"
+msgstr ""
+
+#: includes/libraries/vidi-metabox-shortcode.php:812
+#: includes/libraries/vidi-metabox-shortcode.php:961
+msgid "Latest Tab title"
+msgstr ""
+
+#: includes/libraries/vidi-settings.php:261
+#: includes/libraries/vidi-settings.php:364
+#: includes/libraries/vidi-settings.php:466
+#: includes/libraries/vidi-settings.php:569
+#: includes/libraries/vidi-settings.php:669
+#: includes/libraries/vidi-settings.php:772
+#: includes/libraries/vidi-settings.php:872
+#: includes/libraries/vidi-settings.php:975
+#: includes/libraries/vidi-settings.php:1075
+#: includes/libraries/vidi-settings.php:1178
+#: includes/libraries/vidi-settings.php:1278
+#: includes/libraries/vidi-settings.php:1381
+#: includes/libraries/vidi-settings.php:1482
+msgid "Left Sidebar"
+msgstr ""
+
+#: includes/libraries/vidi-metabox-shortcode.php:1269
+#: includes/libraries/vidi-metabox-shortcode.php:1851
+#: includes/libraries/vidi-metabox-shortcode.php:2310
+#: includes/libraries/vidi-metabox-shortcode.php:2773
+#: includes/vidi/class-rating-system.php:340
+#: includes/widgets/haru-playlist-top.php:52
+#: includes/widgets/haru-channel-top.php:54
+#: includes/widgets/haru-video-top.php:53
+#: includes/widgets/haru-series-top.php:52
+msgid "Like"
+msgstr ""
+
+#: includes/vidi/class-rating-system.php:369
+msgid "like"
+msgstr ""
+
+#: includes/libraries/vidi-settings.php:171
+msgid "LinkedIn"
+msgstr ""
+
+#: includes/vidi/buddypress-functions.php:138
+#: includes/vidi/buddypress-functions.php:271
+#: includes/vidi/buddypress-functions.php:404
+#: includes/vidi/buddypress-functions.php:537
+#: templates/vidi/series/single-series.php:136
+#: templates/vidi/series/archive-series.php:55
+#: templates/vidi/video/archive-video.php:54
+#: templates/vidi/playlist/archive-playlist.php:55
+#: templates/vidi/playlist/single-playlist.php:90
+#: templates/vidi/director/single-director.php:97
+#: templates/vidi/director/archive-director.php:55
+#: templates/vidi/author/single-author.php:114
+#: templates/vidi/author/single-author.php:160
+#: templates/vidi/author/single-author.php:206
+#: templates/vidi/author/single-author.php:252
+#: templates/vidi/shortcodes/watch-later.php:64
+#: templates/vidi/shortcodes/playlist-my-playlists.php:58
+#: templates/vidi/shortcodes/video-my-videos.php:61
+#: templates/vidi/shortcodes/channel-my-channels.php:58
+#: templates/vidi/shortcodes/series-my-seriess.php:58
+#: templates/vidi/channel/archive-channel.php:55
+#: templates/vidi/channel/single-channel.php:151
+#: templates/vidi/channel/single-channel.php:244
+#: templates/vidi/channel/single-channel.php:337
+#: templates/vidi/actor/single-actor.php:96
+#: templates/vidi/actor/archive-actor.php:55
+msgid "List"
+msgstr ""
+
+#: includes/libraries/vidi-metabox-shortcode.php:1219
+#: includes/libraries/vidi-metabox-shortcode.php:1797
+#: includes/libraries/vidi-metabox-shortcode.php:2260
+#: includes/libraries/vidi-metabox-shortcode.php:2723
+msgid "List - Small Thumbnail Left"
+msgstr ""
+
+#: includes/libraries/vidi-metabox-shortcode.php:1801
+msgid "List - Small Thumbnail Left Rounded"
+msgstr ""
+
+#: includes/libraries/vidi-metabox-shortcode.php:1220
+#: includes/libraries/vidi-metabox-shortcode.php:1798
+#: includes/libraries/vidi-metabox-shortcode.php:2261
+#: includes/libraries/vidi-metabox-shortcode.php:2724
+msgid "List - Thumbnail Fullwidth"
+msgstr ""
+
+#: includes/libraries/vidi-metabox-shortcode.php:2818
+msgid "List - Thumbnail Left Rounded"
+msgstr ""
+
+#: includes/libraries/vidi-metabox-shortcode.php:2819
+msgid "List - Thumbnail Left Rounded No Border"
+msgstr ""
+
+#: includes/libraries/vidi-metabox-shortcode.php:1802
+msgid "List - Thumbnail Rounded"
+msgstr ""
+
+#: includes/vidi/buddypress-functions.php:139
+#: includes/vidi/buddypress-functions.php:272
+#: includes/vidi/buddypress-functions.php:405
+#: includes/vidi/buddypress-functions.php:538
+#: templates/vidi/series/single-series.php:137
+#: templates/vidi/series/archive-series.php:56
+#: templates/vidi/video/archive-video.php:55
+#: templates/vidi/playlist/archive-playlist.php:56
+#: templates/vidi/playlist/single-playlist.php:91
+#: templates/vidi/director/single-director.php:98
+#: templates/vidi/director/archive-director.php:56
+#: templates/vidi/author/single-author.php:115
+#: templates/vidi/author/single-author.php:161
+#: templates/vidi/author/single-author.php:207
+#: templates/vidi/author/single-author.php:253
+#: templates/vidi/shortcodes/watch-later.php:65
+#: templates/vidi/shortcodes/playlist-my-playlists.php:59
+#: templates/vidi/shortcodes/video-my-videos.php:62
+#: templates/vidi/shortcodes/channel-my-channels.php:59
+#: templates/vidi/shortcodes/series-my-seriess.php:59
+#: templates/vidi/channel/archive-channel.php:56
+#: templates/vidi/channel/single-channel.php:152
+#: templates/vidi/channel/single-channel.php:245
+#: templates/vidi/channel/single-channel.php:338
+#: templates/vidi/actor/single-actor.php:97
+#: templates/vidi/actor/archive-actor.php:56
+msgid "List 2"
+msgstr ""
+
+#: includes/libraries/vidi-metabox-shortcode.php:1331
+msgid "List Default"
+msgstr ""
+
+#: includes/libraries/vidi-metabox-shortcode.php:296
+msgid "List Fullwidth (Background Dark) - Slick"
+msgstr ""
+
+#: includes/libraries/vidi-metabox-shortcode.php:131
+#: includes/libraries/vidi-metabox-shortcode.php:358
+#: includes/libraries/vidi-metabox-shortcode.php:1675
+#: includes/libraries/vidi-metabox-shortcode.php:2138
+#: includes/libraries/vidi-metabox-shortcode.php:2601
+msgid "List IDs"
+msgstr ""
+
+#: includes/libraries/vidi-metabox-shortcode.php:294
+msgid "List Small (Background Dark) - Slick"
+msgstr ""
+
+#: includes/libraries/vidi-metabox-shortcode.php:270
+#: includes/vidi/author-functions.php:28 includes/vidi/author-functions.php:100
+#: includes/vidi/author-functions.php:172
+#: includes/vidi/author-functions.php:244 includes/vidi/vidi-hooks.php:561
+#: includes/vidi/buddypress-functions.php:178
+#: includes/vidi/buddypress-functions.php:311
+#: includes/vidi/buddypress-functions.php:444
+#: includes/vidi/buddypress-functions.php:577
+msgid "Load More"
+msgstr ""
+
+#: includes/modules/import/youtube/views/import_videos.php:89
+msgid "Load video feed"
+msgstr ""
+
+#: templates/vidi/elements/video-player-popup-content.php:220
+#: templates/vidi/elements/single-video-player.php:43
+msgid "Loading advertisement..."
+msgstr ""
+
+#: includes/vidi/vidi-hooks.php:579
+msgid "Loading..."
+msgstr ""
+
+#: includes/libraries/vidi-settings.php:334
+#: includes/libraries/vidi-settings.php:539
+#: includes/libraries/vidi-settings.php:742
+#: includes/libraries/vidi-settings.php:945
+#: includes/libraries/vidi-settings.php:1148
+#: includes/libraries/vidi-settings.php:1351
+msgid "Loadmore"
+msgstr ""
+
+#: templates/vidi/video/single-video.php:486
+#: templates/vidi/elements/video-player-direct.php:150
+msgid "Login"
+msgstr ""
+
+#: includes/libraries/vidi-settings.php:1907
+msgid "Login Page"
+msgstr ""
+
+#: templates/vidi/shortcodes/user-menu.php:99
+msgid "Logout"
+msgstr ""
+
+#: includes/libraries/vidi-settings.php:1931
+msgid "Logout Redirect Page"
+msgstr ""
+
+#: includes/modules/import/youtube/views/import_videos.php:49
+msgid "Long (over 20min.)"
+msgstr ""
+
+#: includes/vidi/class-rating-system.php:276
+msgid "M"
+msgstr ""
+
+#: includes/libraries/vidi-settings.php:1561
+msgid "Manage Admin Email when user submit."
+msgstr ""
+
+#: includes/libraries/vidi-settings.php:1642
+msgid "Manage User Email when user submit."
+msgstr ""
+
+#: includes/libraries/vidi-metabox-shortcode.php:1415
+#: includes/widgets/haru-video-categories.php:84
+msgid "Maximum depth"
+msgstr ""
+
+#: includes/libraries/vidi-metabox-shortcode.php:1416
+msgid "Maximum depth."
+msgstr ""
+
+#: templates/vidi/elements/video-player-toolbar-group-report.php:33
+msgid "Maximum length 150 characters"
+msgstr ""
+
+#: includes/modules/import/youtube/views/import_videos.php:48
+msgid "Medium (between 4 and 20min.)"
+msgstr ""
+
+#: includes/libraries/vidi-settings.php:1883
+#: includes/libraries/vidi-settings.php:1889
+#: includes/libraries/vidi-settings.php:1900
+msgid "Member"
+msgstr ""
+
+#: includes/libraries/vidi-settings.php:1884
+msgid "Member Settings"
+msgstr ""
+
+#: includes/libraries/vidi-settings.php:1901
+msgid ""
+"Member settings. You can set Login, Register page when user do an action "
+"required Login like: Report, Vote,... or set page after user Logout."
+msgstr ""
+
+#: templates/vidi/video/single-video.php:457
+#: templates/vidi/video/single-video.php:470
+#: templates/vidi/elements/video-player-direct.php:121
+#: templates/vidi/elements/video-player-direct.php:134
+msgid "members only."
+msgstr ""
+
+#: templates/vidi/shortcodes/user-menu.php:49
+msgid "Membership"
+msgstr ""
+
+#: includes/libraries/vidi-settings.php:1983
+msgid "Membership Level {#}"
+msgstr ""
+
+#: includes/libraries/vidi-settings.php:1943
+msgid "Memberships Integrate"
+msgstr ""
+
+#: includes/libraries/vidi-settings.php:1944
+msgid "Memberships Integrate settings. You can choose one of plugins to use."
+msgstr ""
+
+#: includes/libraries/vidi-settings.php:1958
+msgid "Memberships plugin"
+msgstr ""
+
+#: includes/libraries/cmb2/includes/CMB2_JS.php:223
+msgid "Minute"
+msgstr ""
+
+#: templates/vidi/elements/video-player-toolbar-action-more.php:13
+msgid "More"
+msgstr ""
+
+#: includes/libraries/vidi-metabox-shortcode.php:834
+#: includes/libraries/vidi-metabox-shortcode.php:983
+msgid "Most Like Tab title"
+msgstr ""
+
+#: includes/libraries/vidi-metabox-shortcode.php:801
+#: includes/libraries/vidi-metabox-shortcode.php:950
+msgid "Most Liked"
+msgstr ""
+
+#: includes/libraries/vidi-metabox-shortcode.php:823
+#: includes/libraries/vidi-metabox-shortcode.php:972
+msgid "Most View Tab title"
+msgstr ""
+
+#: includes/libraries/vidi-metabox-shortcode.php:800
+#: includes/libraries/vidi-metabox-shortcode.php:949
+msgid "Most Views"
+msgstr ""
+
+#: includes/libraries/vidi-metabox-cpt.php:332
+#: includes/libraries/vidi-metabox-cpt.php:408
+msgid "Movie"
+msgstr ""
+
+#: haru-vidi.php:128 templates/vidi/shortcodes/user-menu.php:75
+msgid "My Channels"
+msgstr ""
+
+#: includes/libraries/vidi-settings.php:84 includes/vidi/vidi-functions.php:482
+msgid "My Channels Page"
+msgstr ""
+
+#: haru-vidi.php:162 templates/vidi/shortcodes/user-menu.php:78
+msgid "My Playlists"
+msgstr ""
+
+#: includes/libraries/vidi-settings.php:108
+#: includes/vidi/vidi-functions.php:490
+msgid "My Playlists Page"
+msgstr ""
+
+#: templates/vidi/shortcodes/user-menu.php:65
+msgid "My Profile"
+msgstr ""
+
+#: includes/libraries/vidi-settings.php:132
+#: includes/vidi/vidi-functions.php:498
+msgid "My Series Page"
+msgstr ""
+
+#: haru-vidi.php:196 templates/vidi/shortcodes/user-menu.php:81
+msgid "My Seriess"
+msgstr ""
+
+#: haru-vidi.php:94 templates/vidi/shortcodes/user-menu.php:72
+msgid "My Videos"
+msgstr ""
+
+#: includes/libraries/vidi-settings.php:60 includes/vidi/vidi-functions.php:474
+msgid "My Videos Page"
+msgstr ""
+
+#: templates/vidi/video/single-video.php:154
+msgid "My Watch Later list"
+msgstr ""
+
+#: includes/libraries/vidi-metabox-shortcode.php:1361
+#: includes/libraries/vidi-metabox-shortcode.php:2851
+#: includes/widgets/haru-video-categories.php:58
+msgid "Name"
+msgstr ""
+
+#: includes/libraries/vidi-metabox-shortcode.php:292
+msgid "Nav Thumbnail - Slick"
+msgstr ""
+
+#: includes/posttypes/actor.php:141
+msgid "New Actor Category Name"
+msgstr ""
+
+#: includes/libraries/vidi-metabox-submit-channel.php:40
+msgid "New Channel"
+msgstr ""
+
+#: includes/posttypes/channel.php:141
+msgid "New Channel Category Name"
+msgstr ""
+
+#: includes/libraries/vidi-metabox-submit-channel.php:56
+msgid "New Channel Content"
+msgstr ""
+
+#: includes/libraries/vidi-metabox-submit-channel.php:48
+msgid "New Channel Title"
+msgstr ""
+
+#: includes/posttypes/director.php:141
+msgid "New Director Category Name"
+msgstr ""
+
+#: includes/libraries/vidi-metabox-submit-playlist.php:40
+msgid "New Playlist"
+msgstr ""
+
+#: includes/posttypes/playlist.php:141
+msgid "New Playlist Category Name"
+msgstr ""
+
+#: includes/libraries/vidi-metabox-submit-playlist.php:56
+msgid "New Playlist Content"
+msgstr ""
+
+#: includes/libraries/vidi-metabox-submit-playlist.php:48
+msgid "New Playlist Title"
+msgstr ""
+
+#: includes/libraries/vidi-metabox-submit-series.php:40
+msgid "New Series"
+msgstr ""
+
+#: includes/posttypes/series.php:141
+msgid "New Series Category Name"
+msgstr ""
+
+#: includes/libraries/vidi-metabox-submit-series.php:56
+msgid "New Series Content"
+msgstr ""
+
+#: includes/libraries/vidi-metabox-submit-series.php:48
+msgid "New Series Title"
+msgstr ""
+
+#: includes/posttypes/shortcode-generate.php:93
+msgid "New Shortcode Category Name"
+msgstr ""
+
+#: includes/libraries/vidi-metabox-submit-video.php:40
+msgid "New Video"
+msgstr ""
+
+#: includes/posttypes/video.php:171
+msgid "New Video Category Name"
+msgstr ""
+
+#: includes/libraries/vidi-metabox-submit-video.php:59
+msgid "New Video Content"
+msgstr ""
+
+#: includes/posttypes/video.php:257
+msgid "New Video Label Name"
+msgstr ""
+
+#: includes/posttypes/video.php:214
+msgid "New Video Tag Name"
+msgstr ""
+
+#: includes/libraries/vidi-metabox-submit-video.php:48
+msgid "New Video Title"
+msgstr ""
+
+#: includes/vidi/vidi-hooks.php:595 templates/vidi/series/single-series.php:213
+#: templates/vidi/video/single-video.php:593
+#: templates/vidi/playlist/single-playlist.php:167
+#: templates/vidi/director/single-director.php:173
+#: templates/vidi/channel/single-channel.php:469
+#: templates/vidi/elements/video-player-toolbar-action-next-prev.php:21
+#: templates/vidi/actor/single-actor.php:173
+#: includes/libraries/cmb2/includes/CMB2_JS.php:213
+msgid "Next"
+msgstr ""
+
+#: templates/vidi/elements/single-video-player.php:51
+msgid "Next Video"
+msgstr ""
+
+#: includes/libraries/vidi-metabox-shortcode.php:747
+#: includes/libraries/vidi-metabox-shortcode.php:1312
+#: includes/libraries/vidi-metabox-shortcode.php:2894
+msgid "No"
+msgstr ""
+
+#: includes/posttypes/actor.php:149
+msgid "No Actor Categories found"
+msgstr ""
+
+#: includes/posttypes/actor.php:99
+msgid "No Actor items found"
+msgstr ""
+
+#: includes/posttypes/actor.php:100
+msgid "No Actor items found in trash"
+msgstr ""
+
+#: includes/posttypes/channel.php:149
+msgid "No Channel Categories found"
+msgstr ""
+
+#: includes/posttypes/channel.php:99
+msgid "No Channel items found"
+msgstr ""
+
+#: includes/posttypes/channel.php:100
+msgid "No Channel items found in trash"
+msgstr ""
+
+#: includes/posttypes/director.php:149
+msgid "No Director Categories found"
+msgstr ""
+
+#: includes/posttypes/director.php:99
+msgid "No Director items found"
+msgstr ""
+
+#: includes/posttypes/director.php:100
+msgid "No Director items found in trash"
+msgstr ""
+
+#: templates/vidi/shortcodes/series-top.php:125
+#: templates/vidi/shortcodes/channel-category.php:151
+#: templates/vidi/shortcodes/series-slideshow.php:71
+#: templates/vidi/shortcodes/playlist-slideshow.php:71
+#: templates/vidi/shortcodes/video-list.php:130
+#: templates/vidi/shortcodes/video-order-single.php:118
+#: templates/vidi/shortcodes/video-slideshow.php:160
+#: templates/vidi/shortcodes/video-category-single.php:118
+#: templates/vidi/shortcodes/video-order.php:119
+#: templates/vidi/shortcodes/channel-top.php:140
+#: templates/vidi/shortcodes/channel-slideshow.php:71
+#: templates/vidi/shortcodes/author-top.php:144
+#: templates/vidi/shortcodes/video-top.php:126
+#: templates/vidi/shortcodes/series-category.php:151
+#: templates/vidi/shortcodes/playlist-top.php:125
+#: templates/vidi/shortcodes/playlist-category.php:151
+#: templates/vidi/shortcodes/video-category.php:151
+#: templates/vidi/shortcodes/video-featured.php:155
+msgid "No item found"
+msgstr ""
+
+#: templates/vidi/series/archive-series.php:82
+#: templates/vidi/video/archive-video.php:89
+#: templates/vidi/playlist/archive-playlist.php:82
+#: templates/vidi/director/archive-director.php:82
+#: templates/vidi/channel/archive-channel.php:82
+#: templates/vidi/actor/archive-actor.php:82
+msgid "No Item Found!"
+msgstr ""
+
+#: includes/posttypes/playlist.php:149
+msgid "No Playlist Categories found"
+msgstr ""
+
+#: includes/posttypes/playlist.php:99
+msgid "No Playlist items found"
+msgstr ""
+
+#: includes/posttypes/playlist.php:100
+msgid "No Playlist items found in trash"
+msgstr ""
+
+#: includes/posttypes/series.php:149
+msgid "No Series Categories found"
+msgstr ""
+
+#: includes/posttypes/series.php:99
+msgid "No Series items found"
+msgstr ""
+
+#: includes/posttypes/series.php:100
+msgid "No Series items found in trash"
+msgstr ""
+
+#: includes/posttypes/shortcode-generate.php:101
+msgid "No Shortcode Categories found"
+msgstr ""
+
+#: templates/vidi/shortcodes/single-shortcode.php:38
+msgid "No Shortcode Found."
+msgstr ""
+
+#: includes/posttypes/shortcode-generate.php:53
+msgid "No Shortcode items found"
+msgstr ""
+
+#: includes/posttypes/shortcode-generate.php:54
+msgid "No Shortcode items found in trash"
+msgstr ""
+
+#: includes/libraries/vidi-settings.php:260
+#: includes/libraries/vidi-settings.php:363
+#: includes/libraries/vidi-settings.php:465
+#: includes/libraries/vidi-settings.php:568
+#: includes/libraries/vidi-settings.php:668
+#: includes/libraries/vidi-settings.php:771
+#: includes/libraries/vidi-settings.php:871
+#: includes/libraries/vidi-settings.php:974
+#: includes/libraries/vidi-settings.php:1074
+#: includes/libraries/vidi-settings.php:1177
+#: includes/libraries/vidi-settings.php:1277
+#: includes/libraries/vidi-settings.php:1380
+#: includes/libraries/vidi-settings.php:1481
+msgid "No Sidebar"
+msgstr ""
+
+#: includes/widgets/haru-video-categories.php:215
+#: templates/vidi/shortcodes/video-list-category.php:133
+msgid "No video categories exist."
+msgstr ""
+
+#: includes/posttypes/video.php:179
+msgid "No Video Categories found"
+msgstr ""
+
+#: templates/vidi/video/single-video.php:670
+msgid "No Video Found."
+msgstr ""
+
+#: includes/posttypes/video.php:129
+msgid "No Video items found"
+msgstr ""
+
+#: includes/posttypes/video.php:130
+msgid "No Video items found in trash"
+msgstr ""
+
+#: includes/posttypes/video.php:265
+msgid "No Video Labels found"
+msgstr ""
+
+#: includes/posttypes/video-report.php:50
+msgid "No Video Report items found"
+msgstr ""
+
+#: includes/posttypes/video-report.php:51
+msgid "No Video Report items found in trash"
+msgstr ""
+
+#: includes/posttypes/video.php:222
+msgid "No Video Tags found"
+msgstr ""
+
+#: templates/vidi/shortcodes/watch-later.php:32
+#: templates/vidi/shortcodes/watch-later.php:89
+msgid "No videos in Watch Later list!"
+msgstr ""
+
+#: includes/libraries/vidi-settings.php:2037
+msgid "Non-members will not see videos in these categories."
+msgstr ""
+
+#: includes/libraries/vidi-metabox-shortcode.php:268
+#: includes/libraries/vidi-settings.php:217
+msgid "None"
+msgstr ""
+
+#: includes/libraries/cmb2/includes/CMB2_JS.php:225
+msgid "Now"
+msgstr ""
+
+#: includes/libraries/vidi-metabox-shortcode.php:2877
+msgid "Number"
+msgstr ""
+
+#: includes/libraries/vidi-settings.php:1134
+msgid "Number of actors per page"
+msgstr ""
+
+#: includes/libraries/vidi-settings.php:931
+msgid "Number of channels per page"
+msgstr ""
+
+#: includes/widgets/haru-channel-top.php:46
+msgid "Number of channels to show"
+msgstr ""
+
+#: includes/modules/import/youtube/views/import_videos.php:72
+msgid "Number of comments"
+msgstr ""
+
+#: includes/libraries/vidi-settings.php:1337
+msgid "Number of directors per page"
+msgstr ""
+
+#: includes/libraries/vidi-settings.php:525
+msgid "Number of playlists per page"
+msgstr ""
+
+#: includes/widgets/haru-playlist-top.php:45
+msgid "Number of playlists to show"
+msgstr ""
+
+#: includes/libraries/vidi-settings.php:728
+msgid "Number of seriess per page"
+msgstr ""
+
+#: includes/widgets/haru-series-top.php:45
+msgid "Number of seriess to show"
+msgstr ""
+
+#: includes/libraries/vidi-settings.php:320
+msgid "Number of videos per page"
+msgstr ""
+
+#: includes/modules/import/youtube/views/import_videos.php:34
+msgid "Number of videos to retrieve"
+msgstr ""
+
+#: includes/widgets/haru-video-videos.php:46
+#: includes/widgets/haru-video-top.php:46
+msgid "Number of videos to show"
+msgstr ""
+
+#: includes/modules/import/youtube/views/import_videos.php:69
+msgid "Number of views"
+msgstr ""
+
+#: includes/libraries/vidi-metabox-shortcode.php:1392
+#: includes/libraries/vidi-metabox-shortcode.php:1394
+#: includes/widgets/haru-video-categories.php:74
+msgid "Only show children of the current category"
+msgstr ""
+
+#: includes/libraries/vidi-metabox-shortcode.php:230
+#: includes/libraries/vidi-metabox-shortcode.php:238
+#: includes/libraries/vidi-metabox-shortcode.php:428
+#: includes/libraries/vidi-metabox-shortcode.php:436
+#: includes/libraries/vidi-metabox-shortcode.php:517
+#: includes/libraries/vidi-metabox-shortcode.php:525
+#: includes/libraries/vidi-metabox-shortcode.php:675
+#: includes/libraries/vidi-metabox-shortcode.php:683
+#: includes/libraries/vidi-metabox-shortcode.php:1146
+#: includes/libraries/vidi-metabox-shortcode.php:1154
+#: includes/libraries/vidi-metabox-shortcode.php:1552
+#: includes/libraries/vidi-metabox-shortcode.php:1560
+#: includes/libraries/vidi-metabox-shortcode.php:1774
+#: includes/libraries/vidi-metabox-shortcode.php:1782
+#: includes/libraries/vidi-metabox-shortcode.php:2015
+#: includes/libraries/vidi-metabox-shortcode.php:2023
+#: includes/libraries/vidi-metabox-shortcode.php:2237
+#: includes/libraries/vidi-metabox-shortcode.php:2245
+#: includes/libraries/vidi-metabox-shortcode.php:2475
+#: includes/libraries/vidi-metabox-shortcode.php:2483
+#: includes/libraries/vidi-metabox-shortcode.php:2700
+#: includes/libraries/vidi-metabox-shortcode.php:2708
+msgid "Order"
+msgstr ""
+
+#: includes/libraries/vidi-metabox-shortcode.php:213
+#: includes/libraries/vidi-metabox-shortcode.php:221
+#: includes/libraries/vidi-metabox-shortcode.php:411
+#: includes/libraries/vidi-metabox-shortcode.php:419
+#: includes/libraries/vidi-metabox-shortcode.php:500
+#: includes/libraries/vidi-metabox-shortcode.php:508
+#: includes/libraries/vidi-metabox-shortcode.php:658
+#: includes/libraries/vidi-metabox-shortcode.php:666
+#: includes/libraries/vidi-metabox-shortcode.php:1129
+#: includes/libraries/vidi-metabox-shortcode.php:1137
+#: includes/libraries/vidi-metabox-shortcode.php:1535
+#: includes/libraries/vidi-metabox-shortcode.php:1543
+#: includes/libraries/vidi-metabox-shortcode.php:1757
+#: includes/libraries/vidi-metabox-shortcode.php:1765
+#: includes/libraries/vidi-metabox-shortcode.php:1998
+#: includes/libraries/vidi-metabox-shortcode.php:2006
+#: includes/libraries/vidi-metabox-shortcode.php:2220
+#: includes/libraries/vidi-metabox-shortcode.php:2228
+#: includes/libraries/vidi-metabox-shortcode.php:2458
+#: includes/libraries/vidi-metabox-shortcode.php:2466
+#: includes/libraries/vidi-metabox-shortcode.php:2683
+#: includes/libraries/vidi-metabox-shortcode.php:2691
+#: includes/widgets/haru-playlist-top.php:50
+#: includes/widgets/haru-video-videos.php:51
+#: includes/widgets/haru-channel-top.php:51
+#: includes/widgets/haru-video-categories.php:56
+#: includes/widgets/haru-video-top.php:51
+#: includes/widgets/haru-series-top.php:50
+#: includes/modules/import/youtube/views/import_videos.php:65
+msgid "Order by"
+msgstr ""
+
+#: includes/libraries/vidi-settings.php:1848
+msgid "Other"
+msgstr ""
+
+#: includes/libraries/vidi-settings.php:1849
+msgid "Other appearance settings."
+msgstr ""
+
+#: includes/libraries/vidi-settings.php:156
+msgid "Other Settings"
+msgstr ""
+
+#: includes/libraries/vidi-metabox-shortcode.php:264
+#: includes/libraries/vidi-settings.php:328
+#: includes/libraries/vidi-settings.php:533
+#: includes/libraries/vidi-settings.php:736
+#: includes/libraries/vidi-settings.php:939
+#: includes/libraries/vidi-settings.php:1142
+#: includes/libraries/vidi-settings.php:1345
+msgid "Paging Style"
+msgstr ""
+
+#: includes/libraries/vidi-metabox-shortcode.php:274
+msgid "Paging style"
+msgstr ""
+
+#: includes/libraries/vidi-settings.php:1964
+#: includes/libraries/vidi-settings.php:1980
+msgid "PaidMembershipsPro"
+msgstr ""
+
+#: includes/posttypes/actor.php:142
+msgid "Parent Actor Category"
+msgstr ""
+
+#: includes/posttypes/actor.php:143
+msgid "Parent Actor Category:"
+msgstr ""
+
+#: includes/posttypes/channel.php:142
+msgid "Parent Channel Category"
+msgstr ""
+
+#: includes/posttypes/channel.php:143
+msgid "Parent Channel Category:"
+msgstr ""
+
+#: includes/posttypes/director.php:142
+msgid "Parent Director Category"
+msgstr ""
+
+#: includes/posttypes/director.php:143
+msgid "Parent Director Category:"
+msgstr ""
+
+#: includes/posttypes/playlist.php:142
+msgid "Parent Playlist Category"
+msgstr ""
+
+#: includes/posttypes/playlist.php:143
+msgid "Parent Playlist Category:"
+msgstr ""
+
+#: includes/posttypes/series.php:142
+msgid "Parent Series Category"
+msgstr ""
+
+#: includes/posttypes/series.php:143
+msgid "Parent Series Category:"
+msgstr ""
+
+#: includes/posttypes/shortcode-generate.php:94
+msgid "Parent Shortcode Category"
+msgstr ""
+
+#: includes/posttypes/shortcode-generate.php:95
+msgid "Parent Shortcode Category:"
+msgstr ""
+
+#: includes/posttypes/video.php:172
+msgid "Parent Video Category"
+msgstr ""
+
+#: includes/posttypes/video.php:173
+msgid "Parent Video Category:"
+msgstr ""
+
+#: includes/posttypes/video.php:258
+msgid "Parent Video Label"
+msgstr ""
+
+#: includes/posttypes/video.php:259
+msgid "Parent Video Label:"
+msgstr ""
+
+#: includes/posttypes/video.php:215
+msgid "Parent Video Tag"
+msgstr ""
+
+#: includes/posttypes/video.php:216
+msgid "Parent Video Tag:"
+msgstr ""
+
+#: includes/libraries/vidi-settings.php:173
+#: includes/libraries/vidi-settings.php:174
+msgid "Pinterest"
+msgstr ""
+
+#: templates/vidi/series/single-series.php:140
+#: templates/vidi/playlist/single-playlist.php:94
+#: templates/vidi/director/single-director.php:101
+#: templates/vidi/shortcodes/watch-later.php:68
+#: templates/vidi/actor/single-actor.php:100
+msgid "Play All Videos"
+msgstr ""
+
+#: includes/libraries/vidi-settings.php:184
+#: includes/libraries/vidi-settings.php:190
+msgid "Player"
+msgstr ""
+
+#: includes/libraries/vidi-settings.php:185
+msgid "Player Settings"
+msgstr ""
+
+#: includes/posttypes/playlist.php:92 includes/vidi/vidi-hooks.php:802
+msgid "Playlist"
+msgstr ""
+
+#: includes/posttypes/playlist.php:51
+msgid "Playlist base"
+msgstr ""
+
+#: includes/posttypes/playlist.php:133
+#: includes/libraries/vidi-metabox-shortcode.php:1939
+#: includes/libraries/vidi-metabox-shortcode.php:2149
+#: includes/libraries/vidi-metabox-shortcode.php:2292
+msgid "Playlist Categories"
+msgstr ""
+
+#: includes/posttypes/playlist.php:134
+#: includes/libraries/vidi-metabox-shortcode.php:63
+msgid "Playlist Category"
+msgstr ""
+
+#: includes/posttypes/playlist.php:62
+msgid "Playlist category base"
+msgstr ""
+
+#: includes/libraries/vidi-metabox-shortcode.php:1920
+msgid "Playlist Category Columns"
+msgstr ""
+
+#: includes/libraries/vidi-metabox-shortcode.php:1923
+msgid "Playlist Category Columns."
+msgstr ""
+
+#: includes/libraries/vidi-metabox-shortcode.php:1891
+msgid "Playlist Category Layout"
+msgstr ""
+
+#: includes/libraries/vidi-metabox-shortcode.php:1894
+msgid "Playlist Category Layout."
+msgstr ""
+
+#: includes/libraries/vidi-metabox-shortcode.php:1999
+msgid "Playlist Category Order by."
+msgstr ""
+
+#: includes/libraries/vidi-metabox-shortcode.php:2016
+msgid "Playlist Category Order."
+msgstr ""
+
+#: includes/libraries/vidi-metabox-shortcode.php:1955
+msgid ""
+"Playlist Category playlist style. With Video style 6 Column auto equal 1."
+msgstr ""
+
+#: includes/libraries/vidi-metabox-shortcode.php:1986
+msgid "Playlist Category posts per page."
+msgstr ""
+
+#: includes/libraries/vidi-metabox-shortcode.php:1943
+msgid "Playlist Category select Categories"
+msgstr ""
+
+#: includes/libraries/vidi-metabox-shortcode.php:2050
+msgid "Playlist Category Show/hide All Filter."
+msgstr ""
+
+#: includes/libraries/vidi-metabox-shortcode.php:2033
+msgid "Playlist Category Show/hide Filter."
+msgstr ""
+
+#: includes/libraries/vidi-metabox-shortcode.php:1907
+msgid "Playlist Category Title"
+msgstr ""
+
+#: includes/libraries/vidi-metabox-shortcode.php:1910
+msgid "Playlist Category Title."
+msgstr ""
+
+#: includes/libraries/vidi-metabox-shortcode.php:2067
+msgid ""
+"Playlist Category view more button will go to category page. Ajax Arrow will "
+"load more playlists via Ajax."
+msgstr ""
+
+#: includes/modules/import/youtube/views/import_videos.php:24
+msgid "Playlist feed"
+msgstr ""
+
+#: includes/libraries/vidi-metabox-shortcode.php:2163
+msgid "Playlist IDs"
+msgstr ""
+
+#: includes/libraries/vidi-metabox-shortcode.php:2321
+msgid "Playlist Order"
+msgstr ""
+
+#: includes/libraries/vidi-metabox-shortcode.php:2304
+msgid "Playlist Order By"
+msgstr ""
+
+#: includes/libraries/vidi-metabox-shortcode.php:64
+msgid "Playlist Slideshow"
+msgstr ""
+
+#: includes/libraries/vidi-metabox-shortcode.php:2153
+msgid "Playlist Slideshow Categories."
+msgstr ""
+
+#: includes/libraries/vidi-metabox-shortcode.php:2112
+msgid "Playlist Slideshow Columns"
+msgstr ""
+
+#: includes/libraries/vidi-metabox-shortcode.php:2115
+msgid ""
+"Playlist Slideshow Columns. With Featured List layout please set 1 Columns."
+msgstr ""
+
+#: includes/libraries/vidi-metabox-shortcode.php:2135
+msgid "Playlist Slideshow Data Source."
+msgstr ""
+
+#: includes/libraries/vidi-metabox-shortcode.php:2096
+msgid "Playlist Slideshow Layout"
+msgstr ""
+
+#: includes/libraries/vidi-metabox-shortcode.php:2099
+msgid "Playlist Slideshow Layout."
+msgstr ""
+
+#: includes/libraries/vidi-metabox-shortcode.php:2221
+msgid "Playlist Slideshow Order by."
+msgstr ""
+
+#: includes/libraries/vidi-metabox-shortcode.php:2238
+msgid "Playlist Slideshow Order."
+msgstr ""
+
+#: includes/libraries/vidi-metabox-shortcode.php:2207
+msgid "Playlist Slideshow select Playlist per page."
+msgstr ""
+
+#: includes/libraries/vidi-metabox-shortcode.php:2178
+msgid "Playlist Slideshow select playlist style."
+msgstr ""
+
+#: includes/libraries/vidi-metabox-shortcode.php:2164
+msgid "Playlist Slideshow select Playlists."
+msgstr ""
+
+#: includes/libraries/vidi-metabox-shortcode.php:2083
+msgid "Playlist Slideshow Title"
+msgstr ""
+
+#: includes/libraries/vidi-metabox-shortcode.php:2086
+msgid "Playlist Slideshow Title."
+msgstr ""
+
+#: includes/libraries/vidi-metabox-shortcode.php:1954
+#: includes/libraries/vidi-metabox-shortcode.php:2177
+msgid "Playlist Style"
+msgstr ""
+
+#: haru-vidi.php:179
+msgid "Playlist Submit"
+msgstr ""
+
+#: includes/libraries/vidi-metabox-submit-playlist.php:188
+#: includes/libraries/vidi-metabox-submit-playlist.php:307
+msgid "Playlist Submit information depend on your account Level"
+msgstr ""
+
+#: includes/libraries/vidi-metabox-shortcode.php:65
+msgid "Playlist TOP"
+msgstr ""
+
+#: includes/libraries/vidi-metabox-shortcode.php:2255
+msgid "Playlist TOP Layout"
+msgstr ""
+
+#: includes/libraries/vidi-metabox-shortcode.php:2256
+msgid "Playlist TOP Layout."
+msgstr ""
+
+#: includes/libraries/vidi-metabox-shortcode.php:2282
+msgid "Playlist TOP title"
+msgstr ""
+
+#: includes/posttypes/playlist.php:90 includes/libraries/vidi-settings.php:427
+#: includes/libraries/vidi-settings.php:433
+#: includes/vidi/buddypress-functions.php:38
+#: templates/vidi/author/single-author.php:76
+#: templates/vidi/channel/single-channel.php:112
+msgid "Playlists"
+msgstr ""
+
+#: includes/libraries/vidi-settings.php:428
+msgid "Playlists Settings"
+msgstr ""
+
+#: includes/libraries/vidi-metabox-submit-channel.php:302
+#: includes/libraries/vidi-metabox-submit-channel.php:418
+#: includes/libraries/vidi-metabox-submit-playlist.php:250
+#: includes/libraries/vidi-metabox-submit-playlist.php:366
+#: includes/libraries/vidi-metabox-submit-series.php:250
+#: includes/libraries/vidi-metabox-submit-series.php:366
+#: includes/libraries/vidi-metabox-submit-video.php:515
+#: includes/libraries/vidi-metabox-submit-video.php:638
+msgid "Please logged in to submit."
+msgstr ""
+
+#: templates/vidi/elements/video-player-toolbar-group-report.php:17
+msgid "Please login to report!"
+msgstr ""
+
+#: templates/vidi/shortcodes/channel-my-channels.php:99
+msgid "Please login to see your channels!"
+msgstr ""
+
+#: templates/vidi/shortcodes/playlist-my-playlists.php:99
+msgid "Please login to see your playlists!"
+msgstr ""
+
+#: templates/vidi/shortcodes/series-my-seriess.php:99
+msgid "Please login to see your series!"
+msgstr ""
+
+#: templates/vidi/shortcodes/video-my-videos.php:102
+msgid "Please login to see your videos!"
+msgstr ""
+
+#: includes/vidi/vidi-hooks.php:202
+msgid "Please login to subscribe."
+msgstr ""
+
+#: includes/vidi/class-rating-system.php:331
+#: includes/vidi/class-rating-system.php:332
+#: includes/vidi/class-rating-system.php:333
+#: includes/vidi/class-rating-system.php:334
+msgid "Please login to vote"
+msgstr ""
+
+#: includes/vidi/class-rating-system.php:64
+msgid "Please login to vote."
+msgstr ""
+
+#: includes/libraries/vidi-metabox-cpt.php:525
+msgid "Please note Twitch video required HTTPS to works."
+msgstr ""
+
+#: includes/modules/import/video/class.importer.php:86
+msgid "Please select a source"
+msgstr ""
+
+#: templates/vidi/elements/video-player-toolbar-group-report.php:22
+msgid "Please tell us the reason you want to report."
+msgstr ""
+
+#: includes/posttypes/actor.php:145
+msgid "Popular Actor Categories"
+msgstr ""
+
+#: includes/posttypes/channel.php:145
+msgid "Popular Channel Categories"
+msgstr ""
+
+#: includes/posttypes/director.php:145
+msgid "Popular Director Categories"
+msgstr ""
+
+#: includes/posttypes/playlist.php:145
+msgid "Popular Playlist Categories"
+msgstr ""
+
+#: includes/posttypes/series.php:145
+msgid "Popular Series Categories"
+msgstr ""
+
+#: includes/posttypes/shortcode-generate.php:97
+msgid "Popular Shortcode Categories"
+msgstr ""
+
+#: includes/posttypes/video.php:175
+msgid "Popular Video Categories"
+msgstr ""
+
+#: includes/posttypes/video.php:261
+msgid "Popular Video Labels"
+msgstr ""
+
+#: includes/posttypes/video.php:218
+msgid "Popular Video Tags"
+msgstr ""
+
+#: templates/vidi/elements/single-video-player.php:80
+msgid "Popup"
+msgstr ""
+
+#: includes/modules/import/youtube/views/import_videos.php:71
+msgid "Position in playlist"
+msgstr ""
+
+#: includes/vidi/vidi-hooks.php:800
+msgid "Posts"
+msgstr ""
+
+#: includes/libraries/vidi-metabox-shortcode.php:199
+#: includes/libraries/vidi-metabox-shortcode.php:397
+#: includes/libraries/vidi-metabox-shortcode.php:487
+#: includes/libraries/vidi-metabox-shortcode.php:645
+#: includes/libraries/vidi-metabox-shortcode.php:898
+#: includes/libraries/vidi-metabox-shortcode.php:1066
+#: includes/libraries/vidi-metabox-shortcode.php:1295
+#: includes/libraries/vidi-metabox-shortcode.php:1522
+#: includes/libraries/vidi-metabox-shortcode.php:1743
+#: includes/libraries/vidi-metabox-shortcode.php:1878
+#: includes/libraries/vidi-metabox-shortcode.php:1985
+#: includes/libraries/vidi-metabox-shortcode.php:2206
+#: includes/libraries/vidi-metabox-shortcode.php:2336
+#: includes/libraries/vidi-metabox-shortcode.php:2445
+#: includes/libraries/vidi-metabox-shortcode.php:2669
+#: includes/libraries/vidi-metabox-shortcode.php:2799
+msgid "Posts Per Page"
+msgstr ""
+
+#: includes/vidi/vidi-hooks.php:594 templates/vidi/series/single-series.php:187
+#: templates/vidi/video/single-video.php:567
+#: templates/vidi/playlist/single-playlist.php:141
+#: templates/vidi/director/single-director.php:147
+#: templates/vidi/channel/single-channel.php:443
+#: templates/vidi/elements/video-player-toolbar-action-next-prev.php:16
+#: templates/vidi/actor/single-actor.php:147
+#: includes/libraries/cmb2/includes/CMB2_JS.php:214
+msgid "Prev"
+msgstr ""
+
+#: includes/libraries/vidi-settings.php:1798
+msgid "Primary Color"
+msgstr ""
+
+#: includes/libraries/vidi-metabox-shortcode.php:802
+#: includes/libraries/vidi-metabox-shortcode.php:951
+#: includes/widgets/haru-video-videos.php:55
+msgid "Random"
+msgstr ""
+
+#: includes/libraries/vidi-metabox-shortcode.php:845
+#: includes/libraries/vidi-metabox-shortcode.php:994
+msgid "Random Tab title"
+msgstr ""
+
+#: includes/modules/import/youtube/class.list-table.php:189
+#: includes/modules/import/youtube/views/import_videos.php:78
+msgid "Rating"
+msgstr ""
+
+#: includes/libraries/vidi-settings.php:1753
+#: includes/libraries/vidi-settings.php:1764
+msgid "Ratio 16:9"
+msgstr ""
+
+#: includes/libraries/vidi-settings.php:1754
+msgid "Ratio 4:3"
+msgstr ""
+
+#: includes/libraries/vidi-settings.php:1919
+msgid "Register Page"
+msgstr ""
+
+#: templates/vidi/video/single-video.php:265
+msgid "Related Videos"
+msgstr ""
+
+#: includes/libraries/cmb2/includes/CMB2_JS.php:236
+msgid "Remove"
+msgstr ""
+
+#: includes/libraries/vidi-metabox-cpt.php:317
+#: includes/libraries/vidi-metabox-cpt.php:393
+msgid "Remove Filmography"
+msgstr ""
+
+#: includes/libraries/cmb2/includes/CMB2_JS.php:235
+msgid "Remove Image"
+msgstr ""
+
+#: includes/libraries/vidi-settings.php:1985
+msgid "Remove Level"
+msgstr ""
+
+#: templates/vidi/video/single-video.php:490
+#: templates/vidi/elements/video-player-direct.php:154
+msgid "Renew Subcription"
+msgstr ""
+
+#: templates/vidi/elements/video-player-toolbar-action-report.php:13
+msgid "Report"
+msgstr ""
+
+#: includes/vidi/class-membership-pmpro.php:26
+msgid "Require Membership"
+msgstr ""
+
+#: includes/modules/import/youtube/views/import_videos.php:74
+msgid "Reversed position in playlist"
+msgstr ""
+
+#: includes/libraries/vidi-settings.php:262
+#: includes/libraries/vidi-settings.php:365
+#: includes/libraries/vidi-settings.php:467
+#: includes/libraries/vidi-settings.php:570
+#: includes/libraries/vidi-settings.php:670
+#: includes/libraries/vidi-settings.php:773
+#: includes/libraries/vidi-settings.php:873
+#: includes/libraries/vidi-settings.php:976
+#: includes/libraries/vidi-settings.php:1076
+#: includes/libraries/vidi-settings.php:1179
+#: includes/libraries/vidi-settings.php:1279
+#: includes/libraries/vidi-settings.php:1382
+#: includes/libraries/vidi-settings.php:1483
+msgid "Right Sidebar"
+msgstr ""
+
+#: includes/libraries/vidi-metabox-submit-channel.php:300
+msgid "Save Channel"
+msgstr ""
+
+#: includes/libraries/vidi-metabox-submit-playlist.php:248
+msgid "Save Playlist"
+msgstr ""
+
+#: includes/libraries/vidi-metabox-submit-series.php:248
+msgid "Save Series"
+msgstr ""
+
+#: includes/libraries/vidi-metabox-submit-video.php:513
+msgid "Save Video"
+msgstr ""
+
+#: includes/libraries/vidi-metabox-cpt.php:688
+msgid "ScreenShot Images"
+msgstr ""
+
+#: templates/vidi/video/single-video.php:105
+msgid "Screenshots"
+msgstr ""
+
+#: includes/libraries/cmb2-attached-posts/init.php:162
+msgid "Search"
+msgstr ""
+
+#: includes/posttypes/actor.php:98
+msgid "Search Actor"
+msgstr ""
+
+#: includes/posttypes/actor.php:144
+msgid "Search Actor Categories"
+msgstr ""
+
+#: includes/modules/import/youtube/views/import_videos.php:56
+msgid "Search by"
+msgstr ""
+
+#: includes/posttypes/channel.php:98
+msgid "Search Channel"
+msgstr ""
+
+#: includes/posttypes/channel.php:144
+msgid "Search Channel Categories"
+msgstr ""
+
+#: includes/posttypes/director.php:98
+msgid "Search Director"
+msgstr ""
+
+#: includes/posttypes/director.php:144
+msgid "Search Director Categories"
+msgstr ""
+
+#: templates/vidi/shortcodes/video-search.php:25
+#: templates/vidi/shortcodes/video-search.php:38
+#: templates/vidi/widgets/widget-search-form.php:21
+msgid "Search for:"
+msgstr ""
+
+#: includes/posttypes/playlist.php:98
+msgid "Search Playlist"
+msgstr ""
+
+#: includes/posttypes/playlist.php:144
+msgid "Search Playlist Categories"
+msgstr ""
+
+#: includes/modules/import/youtube/views/import_videos.php:25
+msgid "Search query"
+msgstr ""
+
+#: includes/modules/import/youtube/views/import_videos.php:25
+msgid "Search query feed"
+msgstr ""
+
+#: includes/vidi/vidi-functions.php:282
+msgid "Search query for: "
+msgstr ""
+
+#: includes/modules/import/youtube/views/import_videos.php:77
+msgid "Search relevance"
+msgstr ""
+
+#: includes/posttypes/series.php:98
+msgid "Search Series"
+msgstr ""
+
+#: includes/posttypes/series.php:144
+msgid "Search Series Categories"
+msgstr ""
+
+#: includes/posttypes/shortcode-generate.php:52
+msgid "Search Shortcode"
+msgstr ""
+
+#: includes/posttypes/shortcode-generate.php:96
+msgid "Search Shortcode Categories"
+msgstr ""
+
+#: includes/posttypes/video.php:128
+msgid "Search Video"
+msgstr ""
+
+#: includes/posttypes/video.php:174
+msgid "Search Video Categories"
+msgstr ""
+
+#: includes/posttypes/video.php:260
+msgid "Search Video Labels"
+msgstr ""
+
+#: includes/posttypes/video-report.php:49
+msgid "Search Video Report"
+msgstr ""
+
+#: includes/posttypes/video.php:217
+msgid "Search Video Tags"
+msgstr ""
+
+#: templates/vidi/shortcodes/video-search.php:26
+#: templates/vidi/shortcodes/video-search.php:39
+#: templates/vidi/widgets/widget-search-form.php:22
+msgid "Search videos&hellip;"
+msgstr ""
+
+#: includes/libraries/cmb2/includes/CMB2_JS.php:224
+msgid "Second"
+msgstr ""
+
+#: includes/libraries/cmb2/includes/CMB2_JS.php:239
+msgid "Select / Deselect All"
+msgstr ""
+
+#: includes/libraries/vidi-settings.php:276
+#: includes/libraries/vidi-settings.php:290
+#: includes/libraries/vidi-settings.php:379
+#: includes/libraries/vidi-settings.php:393
+#: includes/libraries/vidi-settings.php:481
+#: includes/libraries/vidi-settings.php:495
+#: includes/libraries/vidi-settings.php:584
+#: includes/libraries/vidi-settings.php:598
+#: includes/libraries/vidi-settings.php:684
+#: includes/libraries/vidi-settings.php:698
+#: includes/libraries/vidi-settings.php:787
+#: includes/libraries/vidi-settings.php:801
+#: includes/libraries/vidi-settings.php:887
+#: includes/libraries/vidi-settings.php:901
+#: includes/libraries/vidi-settings.php:990
+#: includes/libraries/vidi-settings.php:1004
+#: includes/libraries/vidi-settings.php:1090
+#: includes/libraries/vidi-settings.php:1104
+#: includes/libraries/vidi-settings.php:1193
+#: includes/libraries/vidi-settings.php:1207
+#: includes/libraries/vidi-settings.php:1293
+#: includes/libraries/vidi-settings.php:1307
+#: includes/libraries/vidi-settings.php:1396
+#: includes/libraries/vidi-settings.php:1410
+#: includes/libraries/vidi-settings.php:1497
+#: includes/libraries/vidi-settings.php:1511
+msgid "Select a sidebar to display if use layout have sidebar"
+msgstr ""
+
+#: includes/modules/import/youtube/class.list-table.php:221
+msgid "Select category (optional)"
+msgstr ""
+
+#: includes/libraries/vidi-metabox-shortcode.php:1879
+msgid "Select Channel per page."
+msgstr ""
+
+#: includes/libraries/vidi-metabox-shortcode.php:1513
+#: includes/libraries/vidi-metabox-shortcode.php:1734
+msgid "Select Channel style"
+msgstr ""
+
+#: includes/libraries/vidi-metabox-shortcode.php:1705
+msgid "Select Channels"
+msgstr ""
+
+#: includes/libraries/cmb2/includes/CMB2_JS.php:174
+msgid "Select Color"
+msgstr ""
+
+#: includes/libraries/vidi-metabox-cpt.php:691
+msgid ""
+"Select images screenshot. This will use for Vidi Settings -> Thumbnail -> "
+"Video Thumbnail Type option Slideshow."
+msgstr ""
+
+#: includes/libraries/vidi-settings.php:1998
+#: includes/libraries/vidi-settings.php:2004
+msgid "Select Membership Level"
+msgstr ""
+
+#: includes/libraries/vidi-settings.php:1999
+msgid "Select Membership Level."
+msgstr ""
+
+#: includes/libraries/vidi-metabox-shortcode.php:2337
+msgid "Select Playlist per page."
+msgstr ""
+
+#: includes/libraries/vidi-metabox-shortcode.php:1976
+#: includes/libraries/vidi-metabox-shortcode.php:2197
+msgid "Select Playlist style"
+msgstr ""
+
+#: includes/libraries/vidi-metabox-shortcode.php:2168
+msgid "Select Playlists"
+msgstr ""
+
+#: includes/libraries/vidi-metabox-shortcode.php:2631
+msgid "Select Series"
+msgstr ""
+
+#: includes/libraries/vidi-metabox-shortcode.php:2800
+msgid "Select Series per page."
+msgstr ""
+
+#: includes/libraries/vidi-metabox-shortcode.php:2436
+#: includes/libraries/vidi-metabox-shortcode.php:2660
+msgid "Select Series style"
+msgstr ""
+
+#: includes/libraries/vidi-metabox-shortcode.php:1814
+msgid "Select Shortcode style"
+msgstr ""
+
+#: includes/libraries/vidi-metabox-shortcode.php:46
+msgid "Select Shortcode type."
+msgstr ""
+
+#: includes/libraries/vidi-settings.php:1095
+msgid "Select sidebar Left for Archive Actor"
+msgstr ""
+
+#: includes/libraries/vidi-settings.php:892
+msgid "Select sidebar Left for Archive Channel"
+msgstr ""
+
+#: includes/libraries/vidi-settings.php:1298
+msgid "Select sidebar Left for Archive Director"
+msgstr ""
+
+#: includes/libraries/vidi-settings.php:486
+msgid "Select sidebar Left for Archive Playlist"
+msgstr ""
+
+#: includes/libraries/vidi-settings.php:689
+msgid "Select sidebar Left for Archive Series"
+msgstr ""
+
+#: includes/libraries/vidi-settings.php:281
+msgid "Select sidebar Left for Archive Video"
+msgstr ""
+
+#: includes/libraries/vidi-settings.php:1198
+msgid "Select sidebar Left for Single Actor"
+msgstr ""
+
+#: includes/libraries/vidi-settings.php:1502
+msgid "Select sidebar Left for Single Author"
+msgstr ""
+
+#: includes/libraries/vidi-settings.php:995
+msgid "Select sidebar Left for Single Channel"
+msgstr ""
+
+#: includes/libraries/vidi-settings.php:1401
+msgid "Select sidebar Left for Single Director"
+msgstr ""
+
+#: includes/libraries/vidi-settings.php:589
+msgid "Select sidebar Left for Single Playlist"
+msgstr ""
+
+#: includes/libraries/vidi-settings.php:792
+msgid "Select sidebar Left for Single Series"
+msgstr ""
+
+#: includes/libraries/vidi-settings.php:384
+msgid "Select sidebar Left for Single Video"
+msgstr ""
+
+#: includes/libraries/vidi-settings.php:1109
+msgid "Select sidebar Right for Archive Actor"
+msgstr ""
+
+#: includes/libraries/vidi-settings.php:906
+msgid "Select sidebar Right for Archive Channel"
+msgstr ""
+
+#: includes/libraries/vidi-settings.php:1312
+msgid "Select sidebar Right for Archive Director"
+msgstr ""
+
+#: includes/libraries/vidi-settings.php:500
+msgid "Select sidebar Right for Archive Playlist"
+msgstr ""
+
+#: includes/libraries/vidi-settings.php:703
+msgid "Select sidebar Right for Archive Series"
+msgstr ""
+
+#: includes/libraries/vidi-settings.php:295
+msgid "Select sidebar Right for Archive Video"
+msgstr ""
+
+#: includes/libraries/vidi-settings.php:1212
+msgid "Select sidebar Right for Single Actor"
+msgstr ""
+
+#: includes/libraries/vidi-settings.php:1516
+msgid "Select sidebar Right for Single Author"
+msgstr ""
+
+#: includes/libraries/vidi-settings.php:1009
+msgid "Select sidebar Right for Single Channel"
+msgstr ""
+
+#: includes/libraries/vidi-settings.php:1415
+msgid "Select sidebar Right for Single Director"
+msgstr ""
+
+#: includes/libraries/vidi-settings.php:603
+msgid "Select sidebar Right for Single Playlist"
+msgstr ""
+
+#: includes/libraries/vidi-settings.php:806
+msgid "Select sidebar Right for Single Series"
+msgstr ""
+
+#: includes/libraries/vidi-settings.php:398
+msgid "Select sidebar Right for Single Video"
+msgstr ""
+
+#: includes/modules/import/video/class.wizard.php:73
+#: includes/modules/import/video/class.wizard.php:110
+msgid "Select Source"
+msgstr ""
+
+#: includes/modules/import/youtube/views/import_videos.php:18
+msgid "Select the type of feed to load."
+msgstr ""
+
+#: includes/libraries/vidi-metabox-shortcode.php:2878
+msgid "Select Top Number to show."
+msgstr ""
+
+#: includes/libraries/vidi-metabox-shortcode.php:899
+#: includes/libraries/vidi-metabox-shortcode.php:1067
+#: includes/libraries/vidi-metabox-shortcode.php:1296
+msgid "Select Video per page."
+msgstr ""
+
+#: includes/libraries/vidi-metabox-shortcode.php:889
+#: includes/libraries/vidi-metabox-shortcode.php:1038
+msgid "Select Video style"
+msgstr ""
+
+#: includes/libraries/vidi-metabox-shortcode.php:161
+#: includes/libraries/vidi-metabox-shortcode.php:388
+msgid "Select Videos"
+msgstr ""
+
+#: includes/modules/import/video/class.wizard.php:95
+msgid "Select Videos & Import"
+msgstr ""
+
+#: includes/modules/import/video/class.wizard.php:137
+msgid "Select Videos to Import"
+msgstr ""
+
+#: includes/libraries/vidi-metabox-submit-video.php:85
+#: includes/libraries/vidi-metabox-cpt.php:533
+msgid "Self Host"
+msgstr ""
+
+#: templates/vidi/elements/video-player-toolbar-group-report.php:36
+msgid "Send Report"
+msgstr ""
+
+#: includes/posttypes/actor.php:146
+msgid "Separate Actor Categories with commas"
+msgstr ""
+
+#: includes/posttypes/channel.php:146
+msgid "Separate Channel Categories with commas"
+msgstr ""
+
+#: includes/posttypes/director.php:146
+msgid "Separate Director Categories with commas"
+msgstr ""
+
+#: includes/posttypes/playlist.php:146
+msgid "Separate Playlist Categories with commas"
+msgstr ""
+
+#: includes/posttypes/series.php:146
+msgid "Separate Series Categories with commas"
+msgstr ""
+
+#: includes/posttypes/shortcode-generate.php:98
+msgid "Separate Shortcode Categories with commas"
+msgstr ""
+
+#: includes/posttypes/video.php:176
+msgid "Separate Video Categories with commas"
+msgstr ""
+
+#: includes/posttypes/video.php:262
+msgid "Separate Video Labels with commas"
+msgstr ""
+
+#: includes/posttypes/video.php:219
+msgid "Separate Video Tags with commas"
+msgstr ""
+
+#: includes/posttypes/series.php:90 includes/posttypes/series.php:92
+#: includes/libraries/vidi-settings.php:630
+#: includes/libraries/vidi-settings.php:636 includes/vidi/vidi-hooks.php:803
+#: includes/vidi/buddypress-functions.php:58
+#: templates/vidi/author/single-author.php:81
+#: templates/vidi/channel/single-channel.php:117
+msgid "Series"
+msgstr ""
+
+#: includes/posttypes/series.php:51
+msgid "Series base"
+msgstr ""
+
+#: includes/posttypes/series.php:133
+#: includes/libraries/vidi-metabox-shortcode.php:2399
+#: includes/libraries/vidi-metabox-shortcode.php:2612
+#: includes/libraries/vidi-metabox-shortcode.php:2755
+msgid "Series Categories"
+msgstr ""
+
+#: includes/posttypes/series.php:134
+#: includes/libraries/vidi-metabox-shortcode.php:60
+msgid "Series Category"
+msgstr ""
+
+#: includes/posttypes/series.php:62
+msgid "Series category base"
+msgstr ""
+
+#: includes/libraries/vidi-metabox-shortcode.php:2379
+msgid "Series Category Columns"
+msgstr ""
+
+#: includes/libraries/vidi-metabox-shortcode.php:2382
+msgid "Series Category Columns."
+msgstr ""
+
+#: includes/libraries/vidi-metabox-shortcode.php:2349
+msgid "Series Category Layout"
+msgstr ""
+
+#: includes/libraries/vidi-metabox-shortcode.php:2352
+msgid "Series Category Layout."
+msgstr ""
+
+#: includes/libraries/vidi-metabox-shortcode.php:2459
+msgid "Series Category Order by."
+msgstr ""
+
+#: includes/libraries/vidi-metabox-shortcode.php:2476
+msgid "Series Category Order."
+msgstr ""
+
+#: includes/libraries/vidi-metabox-shortcode.php:2446
+msgid "Series Category posts per page."
+msgstr ""
+
+#: includes/libraries/vidi-metabox-shortcode.php:2403
+msgid "Series Category select Categories"
+msgstr ""
+
+#: includes/libraries/vidi-metabox-shortcode.php:2415
+msgid "Series Category series style. With Video style 6 Column auto equal 1."
+msgstr ""
+
+#: includes/libraries/vidi-metabox-shortcode.php:2510
+msgid "Series Category Show/hide All Filter."
+msgstr ""
+
+#: includes/libraries/vidi-metabox-shortcode.php:2493
+msgid "Series Category Show/hide Filter."
+msgstr ""
+
+#: includes/libraries/vidi-metabox-shortcode.php:2366
+msgid "Series Category Title"
+msgstr ""
+
+#: includes/libraries/vidi-metabox-shortcode.php:2369
+msgid "Series Category Title."
+msgstr ""
+
+#: includes/libraries/vidi-metabox-shortcode.php:2527
+msgid ""
+"Series Category view more button will go to category page. Ajax arrow will "
+"load more series via Ajax."
+msgstr ""
+
+#: includes/libraries/vidi-metabox-shortcode.php:2626
+msgid "Series IDs"
+msgstr ""
+
+#: includes/libraries/vidi-metabox-shortcode.php:2784
+msgid "Series Order"
+msgstr ""
+
+#: includes/libraries/vidi-metabox-shortcode.php:2767
+msgid "Series Order By"
+msgstr ""
+
+#: includes/libraries/vidi-settings.php:631
+msgid "Series Settings"
+msgstr ""
+
+#: includes/libraries/vidi-metabox-shortcode.php:61
+msgid "Series Slideshow"
+msgstr ""
+
+#: includes/libraries/vidi-metabox-shortcode.php:2616
+msgid "Series Slideshow Categories."
+msgstr ""
+
+#: includes/libraries/vidi-metabox-shortcode.php:2573
+msgid "Series Slideshow Columns"
+msgstr ""
+
+#: includes/libraries/vidi-metabox-shortcode.php:2576
+msgid ""
+"Series Slideshow Columns. With Featured List layout please set 1 Columns."
+msgstr ""
+
+#: includes/libraries/vidi-metabox-shortcode.php:2597
+msgid "Series Slideshow Data Source."
+msgstr ""
+
+#: includes/libraries/vidi-metabox-shortcode.php:2556
+msgid "Series Slideshow Layout"
+msgstr ""
+
+#: includes/libraries/vidi-metabox-shortcode.php:2559
+msgid "Series Slideshow Layout."
+msgstr ""
+
+#: includes/libraries/vidi-metabox-shortcode.php:2684
+msgid "Series Slideshow Order by."
+msgstr ""
+
+#: includes/libraries/vidi-metabox-shortcode.php:2701
+msgid "Series Slideshow Order."
+msgstr ""
+
+#: includes/libraries/vidi-metabox-shortcode.php:2670
+msgid "Series Slideshow select Series per page."
+msgstr ""
+
+#: includes/libraries/vidi-metabox-shortcode.php:2641
+msgid "Series Slideshow select series style."
+msgstr ""
+
+#: includes/libraries/vidi-metabox-shortcode.php:2627
+msgid "Series Slideshow select Series."
+msgstr ""
+
+#: includes/libraries/vidi-metabox-shortcode.php:2543
+msgid "Series Slideshow Title"
+msgstr ""
+
+#: includes/libraries/vidi-metabox-shortcode.php:2546
+msgid "Series Slideshow Title."
+msgstr ""
+
+#: includes/libraries/vidi-metabox-shortcode.php:2414
+#: includes/libraries/vidi-metabox-shortcode.php:2640
+msgid "Series Style"
+msgstr ""
+
+#: haru-vidi.php:213
+msgid "Series Submit"
+msgstr ""
+
+#: includes/libraries/vidi-metabox-submit-series.php:188
+#: includes/libraries/vidi-metabox-submit-series.php:307
+msgid "Series Submit information depend on your account Level"
+msgstr ""
+
+#: includes/libraries/vidi-metabox-shortcode.php:62
+msgid "Series TOP"
+msgstr ""
+
+#: includes/libraries/vidi-metabox-shortcode.php:2718
+msgid "Series TOP Layout"
+msgstr ""
+
+#: includes/libraries/vidi-metabox-shortcode.php:2719
+msgid "Series TOP Layout."
+msgstr ""
+
+#: includes/libraries/vidi-metabox-shortcode.php:2745
+msgid "Series TOP title"
+msgstr ""
+
+#: includes/libraries/vidi-settings.php:1590
+msgid ""
+"Set admin email address, if not set email in General Settings will be used."
+msgstr ""
+
+#: includes/libraries/vidi-settings.php:1629
+msgid "Set admin email content."
+msgstr ""
+
+#: includes/libraries/vidi-settings.php:1616
+msgid "Set admin email header."
+msgstr ""
+
+#: includes/libraries/vidi-settings.php:1603
+msgid "Set admin email subject."
+msgstr ""
+
+#: includes/libraries/vidi-metabox-cpt.php:778
+msgid "Set Dislike Count Start. Example: 10"
+msgstr ""
+
+#: includes/libraries/vidi-settings.php:2024
+msgid "Set Image Max File Size when user submit (MB)."
+msgstr ""
+
+#: includes/libraries/vidi-settings.php:2110
+msgid ""
+"Set Image Max File Size when user submit (MB). It maybe override by "
+"Membership plugin."
+msgstr ""
+
+#: includes/libraries/vidi-settings.php:1069
+msgid "Set layout for Archive Actor page"
+msgstr ""
+
+#: includes/libraries/vidi-settings.php:866
+msgid "Set layout for Archive Channel page"
+msgstr ""
+
+#: includes/libraries/vidi-settings.php:1272
+msgid "Set layout for Archive Director page"
+msgstr ""
+
+#: includes/libraries/vidi-settings.php:460
+msgid "Set layout for Archive Playlist page"
+msgstr ""
+
+#: includes/libraries/vidi-settings.php:663
+msgid "Set layout for Archive Series page"
+msgstr ""
+
+#: includes/libraries/vidi-settings.php:255
+msgid "Set layout for Archive Video page"
+msgstr ""
+
+#: includes/libraries/vidi-settings.php:1172
+msgid "Set layout for Single Actor page"
+msgstr ""
+
+#: includes/libraries/vidi-settings.php:1476
+msgid "Set layout for Single Author page"
+msgstr ""
+
+#: includes/libraries/vidi-settings.php:969
+msgid "Set layout for Single Channel page"
+msgstr ""
+
+#: includes/libraries/vidi-settings.php:1375
+msgid "Set layout for Single Director page"
+msgstr ""
+
+#: includes/libraries/vidi-settings.php:563
+msgid "Set layout for Single Playlist page"
+msgstr ""
+
+#: includes/libraries/vidi-settings.php:766
+msgid "Set layout for Single Series page"
+msgstr ""
+
+#: includes/libraries/vidi-settings.php:358
+msgid "Set layout for Single Video page"
+msgstr ""
+
+#: includes/libraries/vidi-settings.php:248
+#: includes/libraries/vidi-settings.php:351
+#: includes/libraries/vidi-settings.php:453
+#: includes/libraries/vidi-settings.php:556
+#: includes/libraries/vidi-settings.php:656
+#: includes/libraries/vidi-settings.php:759
+#: includes/libraries/vidi-settings.php:859
+#: includes/libraries/vidi-settings.php:962
+#: includes/libraries/vidi-settings.php:1062
+#: includes/libraries/vidi-settings.php:1165
+#: includes/libraries/vidi-settings.php:1265
+#: includes/libraries/vidi-settings.php:1368
+#: includes/libraries/vidi-settings.php:1469
+msgid "Set layout Fullwidth or use Container"
+msgstr ""
+
+#: includes/libraries/vidi-metabox-cpt.php:765
+msgid "Set Like Count Start. Example: 30"
+msgstr ""
+
+#: includes/libraries/vidi-settings.php:1937
+msgid "Set Logout Redirect Page"
+msgstr ""
+
+#: includes/libraries/vidi-settings.php:1967
+msgid "Set Memberships plugin"
+msgstr ""
+
+#: includes/libraries/vidi-settings.php:1959
+msgid "Set Memberships plugin."
+msgstr ""
+
+#: includes/libraries/vidi-settings.php:90
+msgid "Set My Channels Page"
+msgstr ""
+
+#: includes/libraries/vidi-settings.php:114
+msgid "Set My Playlists Page"
+msgstr ""
+
+#: includes/libraries/vidi-settings.php:138
+msgid "Set My Series Page"
+msgstr ""
+
+#: includes/libraries/vidi-settings.php:66
+msgid "Set My Videos Page"
+msgstr ""
+
+#: includes/libraries/vidi-settings.php:1932
+msgid "Set Page after for Redirect after use Logout."
+msgstr ""
+
+#: includes/libraries/vidi-settings.php:85
+msgid "Set Page for My Channels."
+msgstr ""
+
+#: includes/libraries/vidi-settings.php:109
+msgid "Set Page for My Playlists."
+msgstr ""
+
+#: includes/libraries/vidi-settings.php:133
+msgid "Set Page for My Series."
+msgstr ""
+
+#: includes/libraries/vidi-settings.php:61
+msgid "Set Page for My Videos."
+msgstr ""
+
+#: includes/libraries/vidi-settings.php:97
+msgid "Set Page for Submit Channel."
+msgstr ""
+
+#: includes/libraries/vidi-settings.php:121
+msgid "Set Page for Submit Playlist."
+msgstr ""
+
+#: includes/libraries/vidi-settings.php:145
+msgid "Set Page for Submit Series."
+msgstr ""
+
+#: includes/libraries/vidi-settings.php:73
+msgid "Set Page for Submit Video."
+msgstr ""
+
+#: includes/libraries/vidi-settings.php:1908
+msgid "Set Page for user Login."
+msgstr ""
+
+#: includes/libraries/vidi-settings.php:1920
+msgid "Set Page for user Register."
+msgstr ""
+
+#: includes/libraries/vidi-settings.php:49
+msgid "Set Page for Watch Later Videos."
+msgstr ""
+
+#: includes/libraries/vidi-settings.php:1143
+msgid "Set paging style for Archive Actor"
+msgstr ""
+
+#: includes/libraries/vidi-settings.php:940
+msgid "Set paging style for Archive Channel"
+msgstr ""
+
+#: includes/libraries/vidi-settings.php:1346
+msgid "Set paging style for Archive Director"
+msgstr ""
+
+#: includes/libraries/vidi-settings.php:534
+msgid "Set paging style for Archive Playlist"
+msgstr ""
+
+#: includes/libraries/vidi-settings.php:737
+msgid "Set paging style for Archive Series"
+msgstr ""
+
+#: includes/libraries/vidi-settings.php:329
+msgid "Set paging style for Archive Video"
+msgstr ""
+
+#: includes/modules/import/video/class.wizard.php:84
+#: includes/modules/import/video/class.wizard.php:122
+msgid "Set Parameters"
+msgstr ""
+
+#: includes/libraries/vidi-settings.php:213
+msgid "Set Player JS to play SelfHost, Google Drive video."
+msgstr ""
+
+#: includes/libraries/vidi-settings.php:1221
+msgid "Set Style for Single Actor page"
+msgstr ""
+
+#: includes/libraries/vidi-settings.php:1525
+msgid "Set Style for Single Author page"
+msgstr ""
+
+#: includes/libraries/vidi-settings.php:1018
+msgid "Set Style for Single Channel page"
+msgstr ""
+
+#: includes/libraries/vidi-settings.php:1424
+msgid "Set Style for Single Director page"
+msgstr ""
+
+#: includes/libraries/vidi-settings.php:612
+msgid "Set Style for Single Playlist page"
+msgstr ""
+
+#: includes/libraries/vidi-settings.php:815
+msgid "Set Style for Single Series page"
+msgstr ""
+
+#: includes/libraries/vidi-settings.php:407
+msgid "Set Style for Single Video page"
+msgstr ""
+
+#: includes/libraries/vidi-settings.php:102
+msgid "Set Submit Channel Page"
+msgstr ""
+
+#: includes/libraries/vidi-settings.php:126
+msgid "Set Submit Playlist Page"
+msgstr ""
+
+#: includes/libraries/vidi-settings.php:150
+msgid "Set Submit Series Page"
+msgstr ""
+
+#: includes/libraries/vidi-settings.php:78
+msgid "Set Submit Video Page"
+msgstr ""
+
+#: includes/libraries/vidi-metabox-cpt.php:828
+msgid "Set Subscribe Count Start. Example: 10"
+msgstr ""
+
+#: includes/libraries/vidi-settings.php:1697
+msgid "Set user email content."
+msgstr ""
+
+#: includes/libraries/vidi-settings.php:1684
+msgid "Set user email header."
+msgstr ""
+
+#: includes/libraries/vidi-settings.php:1671
+msgid "Set user email subject."
+msgstr ""
+
+#: includes/libraries/vidi-settings.php:1913
+msgid "Set User Login Page"
+msgstr ""
+
+#: includes/libraries/vidi-settings.php:1925
+msgid "Set User Register Page"
+msgstr ""
+
+#: includes/libraries/vidi-settings.php:2012
+msgid "Set Video Max File Size when user submit (MB)."
+msgstr ""
+
+#: includes/libraries/vidi-settings.php:2095
+msgid ""
+"Set Video Max File Size when user submit (MB). It maybe override by "
+"Membership plugin."
+msgstr ""
+
+#: includes/libraries/vidi-metabox-cpt.php:798
+msgid "Set View Count Start. Example: 10"
+msgstr ""
+
+#: includes/libraries/vidi-settings.php:54
+msgid "Set Watch Later Videos Page"
+msgstr ""
+
+#: includes/libraries/vidi-settings.php:1054
+msgid "Settings display for Archive Actors"
+msgstr ""
+
+#: includes/libraries/vidi-settings.php:851
+msgid "Settings display for Archive Channels"
+msgstr ""
+
+#: includes/libraries/vidi-settings.php:1257
+msgid "Settings display for Archive Directors"
+msgstr ""
+
+#: includes/libraries/vidi-settings.php:445
+msgid "Settings display for Archive Playlists"
+msgstr ""
+
+#: includes/libraries/vidi-settings.php:648
+msgid "Settings display for Archive Series"
+msgstr ""
+
+#: includes/libraries/vidi-settings.php:240
+msgid "Settings display for Archive Videos"
+msgstr ""
+
+#: includes/libraries/vidi-settings.php:157
+msgid "Settings display for Others"
+msgstr ""
+
+#: includes/libraries/vidi-settings.php:1157
+msgid "Settings display for Single Actor"
+msgstr ""
+
+#: includes/libraries/vidi-settings.php:1461
+msgid ""
+"Settings display for Single Author. If you installed and actived BuddyPress "
+"plugin, author will be auto redirect to Member Profile page."
+msgstr ""
+
+#: includes/libraries/vidi-settings.php:954
+msgid "Settings display for Single Channel"
+msgstr ""
+
+#: includes/libraries/vidi-settings.php:1360
+msgid "Settings display for Single Director"
+msgstr ""
+
+#: includes/libraries/vidi-settings.php:548
+msgid "Settings display for Single Playlist"
+msgstr ""
+
+#: includes/libraries/vidi-settings.php:751
+msgid "Settings display for Single Series"
+msgstr ""
+
+#: includes/libraries/vidi-settings.php:343
+msgid "Settings display for Single Video"
+msgstr ""
+
+#: includes/libraries/vidi-settings.php:42
+msgid "Settings display for some special pages"
+msgstr ""
+
+#: templates/vidi/elements/video-player-toolbar-action-share.php:13
+msgid "Share"
+msgstr ""
+
+#: templates/vidi/social-share.php:26
+msgid "Share: "
+msgstr ""
+
+#: includes/modules/import/youtube/views/import_videos.php:47
+msgid "Short (under 4min.)"
+msgstr ""
+
+#: includes/posttypes/shortcode-generate.php:46
+#: includes/posttypes/shortcode-generate.php:134
+msgid "Shortcode"
+msgstr ""
+
+#: includes/posttypes/shortcode-generate.php:85
+msgid "Shortcode Categories"
+msgstr ""
+
+#: includes/posttypes/shortcode-generate.php:86
+msgid "Shortcode Category"
+msgstr ""
+
+#: includes/libraries/vidi-metabox-shortcode.php:33
+msgid "Shortcode Code"
+msgstr ""
+
+#: includes/libraries/vidi-metabox-shortcode.php:25
+msgid "Shortcode Generate"
+msgstr ""
+
+#: includes/libraries/vidi-metabox-shortcode.php:43
+msgid "Shortcode Type"
+msgstr ""
+
+#: includes/posttypes/shortcode-generate.php:44
+msgid "Shortcodes"
+msgstr ""
+
+#: includes/libraries/vidi-metabox-shortcode.php:251
+#: includes/libraries/vidi-metabox-shortcode.php:696
+#: includes/libraries/vidi-metabox-shortcode.php:713
+#: includes/libraries/vidi-metabox-shortcode.php:915
+#: includes/libraries/vidi-metabox-shortcode.php:1167
+#: includes/libraries/vidi-metabox-shortcode.php:1184
+#: includes/libraries/vidi-metabox-shortcode.php:1573
+#: includes/libraries/vidi-metabox-shortcode.php:1590
+#: includes/libraries/vidi-metabox-shortcode.php:2036
+#: includes/libraries/vidi-metabox-shortcode.php:2053
+#: includes/libraries/vidi-metabox-shortcode.php:2496
+#: includes/libraries/vidi-metabox-shortcode.php:2513
+msgid "Show"
+msgstr ""
+
+#: includes/libraries/vidi-metabox-shortcode.php:1371
+msgid "Show Count"
+msgstr ""
+
+#: includes/libraries/vidi-metabox-shortcode.php:1381
+msgid "Show hierarchical"
+msgstr ""
+
+#: includes/widgets/haru-video-categories.php:69
+msgid "Show hierarchy"
+msgstr ""
+
+#: templates/vidi/video/single-video.php:506
+msgid "Show less"
+msgstr ""
+
+#: templates/vidi/video/single-video.php:506
+msgid "Show more"
+msgstr ""
+
+#: includes/widgets/haru-video-categories.php:64
+msgid "Show video counts"
+msgstr ""
+
+#: includes/libraries/vidi-metabox-shortcode.php:1372
+msgid "Show/Hide Video Count"
+msgstr ""
+
+#: includes/libraries/vidi-metabox-shortcode.php:1383
+msgid "Show/Hide Video Hierarchical"
+msgstr ""
+
+#: includes/libraries/vidi-settings.php:275
+#: includes/libraries/vidi-settings.php:378
+#: includes/libraries/vidi-settings.php:480
+#: includes/libraries/vidi-settings.php:583
+#: includes/libraries/vidi-settings.php:683
+#: includes/libraries/vidi-settings.php:786
+#: includes/libraries/vidi-settings.php:886
+#: includes/libraries/vidi-settings.php:989
+#: includes/libraries/vidi-settings.php:1089
+#: includes/libraries/vidi-settings.php:1192
+#: includes/libraries/vidi-settings.php:1292
+#: includes/libraries/vidi-settings.php:1395
+#: includes/libraries/vidi-settings.php:1496
+msgid "Sidebar Left"
+msgstr ""
+
+#: includes/libraries/vidi-settings.php:289
+#: includes/libraries/vidi-settings.php:392
+#: includes/libraries/vidi-settings.php:494
+#: includes/libraries/vidi-settings.php:597
+#: includes/libraries/vidi-settings.php:697
+#: includes/libraries/vidi-settings.php:800
+#: includes/libraries/vidi-settings.php:900
+#: includes/libraries/vidi-settings.php:1003
+#: includes/libraries/vidi-settings.php:1103
+#: includes/libraries/vidi-settings.php:1206
+#: includes/libraries/vidi-settings.php:1306
+#: includes/libraries/vidi-settings.php:1409
+#: includes/libraries/vidi-settings.php:1510
+msgid "Sidebar Right"
+msgstr ""
+
+#: includes/posttypes/actor.php:91
+msgid "Single Actor"
+msgstr ""
+
+#: includes/libraries/vidi-settings.php:1156
+msgid "Single Actor Settings"
+msgstr ""
+
+#: includes/libraries/vidi-settings.php:1460
+msgid "Single Author Settings"
+msgstr ""
+
+#: includes/posttypes/channel.php:91
+msgid "Single Channel"
+msgstr ""
+
+#: includes/libraries/vidi-settings.php:953
+msgid "Single Channel Settings"
+msgstr ""
+
+#: includes/posttypes/director.php:91
+msgid "Single Director"
+msgstr ""
+
+#: includes/libraries/vidi-settings.php:1359
+msgid "Single Director Settings"
+msgstr ""
+
+#: includes/libraries/vidi-settings.php:357
+#: includes/libraries/vidi-settings.php:562
+#: includes/libraries/vidi-settings.php:765
+#: includes/libraries/vidi-settings.php:968
+#: includes/libraries/vidi-settings.php:1171
+#: includes/libraries/vidi-settings.php:1374
+#: includes/libraries/vidi-settings.php:1475
+msgid "Single Layout"
+msgstr ""
+
+#: includes/posttypes/playlist.php:91
+msgid "Single Playlist"
+msgstr ""
+
+#: includes/libraries/vidi-settings.php:547
+msgid "Single Playlist Settings"
+msgstr ""
+
+#: includes/posttypes/series.php:91
+msgid "Single Series"
+msgstr ""
+
+#: includes/libraries/vidi-settings.php:750
+msgid "Single Series Settings"
+msgstr ""
+
+#: includes/posttypes/shortcode-generate.php:45
+msgid "Single Shortcode"
+msgstr ""
+
+#: includes/libraries/vidi-settings.php:406
+#: includes/libraries/vidi-settings.php:611
+#: includes/libraries/vidi-settings.php:814
+#: includes/libraries/vidi-settings.php:1017
+#: includes/libraries/vidi-settings.php:1220
+#: includes/libraries/vidi-settings.php:1423
+#: includes/libraries/vidi-settings.php:1524
+msgid "Single Style"
+msgstr ""
+
+#: includes/posttypes/video.php:121
+msgid "Single Video"
+msgstr ""
+
+#: includes/posttypes/video-report.php:42
+msgid "Single Video Report"
+msgstr ""
+
+#: includes/libraries/vidi-settings.php:342
+msgid "Single Video Settings"
+msgstr ""
+
+#: includes/libraries/vidi-settings.php:1760
+msgid "Single Video Thumbnail Size"
+msgstr ""
+
+#: includes/libraries/vidi-settings.php:1742
+msgid "Slideshow"
+msgstr ""
+
+#: includes/libraries/vidi-settings.php:163
+msgid "Social Sharing"
+msgstr ""
+
+#: includes/widgets/haru-playlist-top.php:60
+#: includes/widgets/haru-video-videos.php:61
+#: includes/widgets/haru-channel-top.php:62
+#: includes/widgets/haru-video-top.php:61
+#: includes/widgets/haru-series-top.php:60
+msgctxt "Sorting order"
+msgid "Order"
+msgstr ""
+
+#: includes/libraries/vidi-metabox-submit-video.php:74
+#: includes/libraries/vidi-metabox-cpt.php:521
+msgid "Source Server"
+msgstr ""
+
+#: includes/libraries/vidi-settings.php:41
+msgid "Special Pages Settings"
+msgstr ""
+
+#: includes/libraries/vidi-settings.php:1981
+msgid "Special settings for PaidMembershipsPro Levels"
+msgstr ""
+
+#: includes/modules/import/video/class.wizard.php:116
+msgid "Start"
+msgstr ""
+
+#: includes/modules/import/video/class.wizard.php:155
+msgid "Start Over"
+msgstr ""
+
+#: includes/widgets/haru-playlist-top.php:34
+#: includes/widgets/haru-video-videos.php:34
+#: includes/widgets/haru-video-tags.php:34
+#: includes/widgets/haru-channel-top.php:34
+#: includes/widgets/haru-video-categories.php:48
+#: includes/widgets/haru-video-top.php:34
+#: includes/widgets/haru-video-search.php:34
+#: includes/widgets/haru-series-top.php:34
+msgid "Style"
+msgstr ""
+
+#: includes/libraries/vidi-settings.php:411
+#: includes/libraries/vidi-settings.php:616
+#: includes/libraries/vidi-settings.php:819
+#: includes/libraries/vidi-settings.php:1022
+#: includes/libraries/vidi-settings.php:1225
+#: includes/libraries/vidi-settings.php:1428
+#: includes/libraries/vidi-settings.php:1529
+msgid "Style 1"
+msgstr ""
+
+#: includes/libraries/vidi-metabox-shortcode.php:176
+#: includes/libraries/vidi-metabox-shortcode.php:452
+#: includes/libraries/vidi-metabox-shortcode.php:620
+#: includes/libraries/vidi-metabox-shortcode.php:873
+#: includes/libraries/vidi-metabox-shortcode.php:1022
+#: includes/libraries/vidi-metabox-shortcode.php:1099
+#: includes/libraries/vidi-metabox-shortcode.php:1497
+#: includes/libraries/vidi-metabox-shortcode.php:1720
+#: includes/libraries/vidi-metabox-shortcode.php:1960
+#: includes/libraries/vidi-metabox-shortcode.php:2183
+#: includes/libraries/vidi-metabox-shortcode.php:2420
+#: includes/libraries/vidi-metabox-shortcode.php:2646
+#: includes/libraries/vidi-settings.php:412
+msgid "Style 2"
+msgstr ""
+
+#: includes/libraries/vidi-metabox-shortcode.php:177
+#: includes/libraries/vidi-metabox-shortcode.php:621
+#: includes/libraries/vidi-metabox-shortcode.php:874
+#: includes/libraries/vidi-metabox-shortcode.php:1023
+#: includes/libraries/vidi-metabox-shortcode.php:1498
+#: includes/libraries/vidi-metabox-shortcode.php:1721
+#: includes/libraries/vidi-metabox-shortcode.php:1961
+#: includes/libraries/vidi-metabox-shortcode.php:2184
+#: includes/libraries/vidi-metabox-shortcode.php:2421
+#: includes/libraries/vidi-metabox-shortcode.php:2647
+msgid "Style 3"
+msgstr ""
+
+#: includes/libraries/vidi-metabox-shortcode.php:178
+#: includes/libraries/vidi-metabox-shortcode.php:622
+#: includes/libraries/vidi-metabox-shortcode.php:875
+#: includes/libraries/vidi-metabox-shortcode.php:1024
+#: includes/libraries/vidi-metabox-shortcode.php:1499
+#: includes/libraries/vidi-metabox-shortcode.php:1722
+#: includes/libraries/vidi-metabox-shortcode.php:1962
+#: includes/libraries/vidi-metabox-shortcode.php:2185
+#: includes/libraries/vidi-metabox-shortcode.php:2422
+#: includes/libraries/vidi-metabox-shortcode.php:2648
+msgid "Style 4"
+msgstr ""
+
+#: includes/libraries/vidi-metabox-shortcode.php:179
+#: includes/libraries/vidi-metabox-shortcode.php:623
+#: includes/libraries/vidi-metabox-shortcode.php:876
+#: includes/libraries/vidi-metabox-shortcode.php:1025
+#: includes/libraries/vidi-metabox-shortcode.php:1500
+#: includes/libraries/vidi-metabox-shortcode.php:1723
+#: includes/libraries/vidi-metabox-shortcode.php:1963
+#: includes/libraries/vidi-metabox-shortcode.php:2186
+#: includes/libraries/vidi-metabox-shortcode.php:2423
+#: includes/libraries/vidi-metabox-shortcode.php:2649
+msgid "Style 5"
+msgstr ""
+
+#: includes/libraries/vidi-metabox-shortcode.php:624
+#: includes/libraries/vidi-metabox-shortcode.php:877
+#: includes/libraries/vidi-metabox-shortcode.php:1026
+#: includes/libraries/vidi-metabox-shortcode.php:1501
+#: includes/libraries/vidi-metabox-shortcode.php:1964
+#: includes/libraries/vidi-metabox-shortcode.php:2424
+msgid "Style 6"
+msgstr ""
+
+#: includes/libraries/cmb2/includes/CMB2_JS.php:209
+msgid "Su, Mo, Tu, We, Th, Fr, Sa"
+msgstr ""
+
+#: includes/libraries/vidi-settings.php:2049
+#: includes/libraries/vidi-settings.php:2055
+#: includes/libraries/vidi-settings.php:2066
+msgid "Submit"
+msgstr ""
+
+#: templates/vidi/shortcodes/video-search.php:28
+#: templates/vidi/shortcodes/video-search.php:29
+#: templates/vidi/shortcodes/video-search.php:41
+#: templates/vidi/shortcodes/video-search.php:42
+#: templates/vidi/widgets/widget-search-form.php:24
+#: templates/vidi/widgets/widget-search-form.php:25
+msgctxt "submit button"
+msgid "Search"
+msgstr ""
+
+#: includes/libraries/vidi-metabox-submit-channel.php:416
+#: templates/vidi/shortcodes/user-menu.php:87
+msgid "Submit Channel"
+msgstr ""
+
+#: includes/libraries/vidi-settings.php:96 includes/vidi/vidi-functions.php:486
+msgid "Submit Channel Page"
+msgstr ""
+
+#: includes/libraries/vidi-metabox-submit-playlist.php:364
+#: templates/vidi/shortcodes/user-menu.php:90
+msgid "Submit Playlist"
+msgstr ""
+
+#: includes/libraries/vidi-settings.php:120
+#: includes/vidi/vidi-functions.php:494
+msgid "Submit Playlist Page"
+msgstr ""
+
+#: includes/libraries/vidi-metabox-submit-series.php:364
+#: templates/vidi/shortcodes/user-menu.php:93
+msgid "Submit Series"
+msgstr ""
+
+#: includes/libraries/vidi-settings.php:144
+#: includes/vidi/vidi-functions.php:502
+msgid "Submit Series Page"
+msgstr ""
+
+#: includes/libraries/vidi-settings.php:2050
+msgid "Submit Settings"
+msgstr ""
+
+#: includes/libraries/vidi-settings.php:2067
+msgid ""
+"Submit settings. You can set file size,... when user submit new video, "
+"playlist,..."
+msgstr ""
+
+#: includes/libraries/vidi-metabox-submit-video.php:636
+#: templates/vidi/shortcodes/user-menu.php:84
+msgid "Submit Video"
+msgstr ""
+
+#: includes/libraries/vidi-settings.php:72 includes/vidi/vidi-functions.php:478
+msgid "Submit Video Page"
+msgstr ""
+
+#: includes/vidi/vidi-hooks.php:139 includes/vidi/vidi-hooks.php:144
+#: includes/widgets/haru-channel-top.php:53
+msgid "Subscribe"
+msgstr ""
+
+#: includes/libraries/vidi-metabox-shortcode.php:1853
+msgid "Subscriber"
+msgstr ""
+
+#: includes/libraries/cmb2/includes/CMB2_JS.php:210
+msgid "Sun, Mon, Tue, Wed, Thu, Fri, Sat"
+msgstr ""
+
+#: includes/libraries/cmb2/includes/CMB2_JS.php:208
+msgid "Sunday, Monday, Tuesday, Wednesday, Thursday, Friday, Saturday"
+msgstr ""
+
+#: includes/posttypes/video.php:208
+msgid "Tags"
+msgstr ""
+
+#: templates/vidi/elements/video-player-direct.php:169
+#: templates/vidi/elements/video-player-direct.php:199
+#: templates/vidi/elements/video-player-direct.php:206
+msgid "Tap to Unmute"
+msgstr ""
+
+#: includes/libraries/vidi-settings.php:1812
+msgid "Text Color"
+msgstr ""
+
+#: includes/libraries/vidi-settings.php:1819
+msgid "Text Color Secondary"
+msgstr ""
+
+#: includes/libraries/vidi-metabox-submit-channel.php:354
+#: includes/libraries/vidi-metabox-submit-playlist.php:302
+#: includes/libraries/vidi-metabox-submit-series.php:302
+#: includes/libraries/vidi-metabox-submit-video.php:567
+#, php-format
+msgid ""
+"Thank you%s, your new post has been submitted and is pending review by a "
+"site administrator."
+msgstr ""
+
+#: includes/libraries/vidi-metabox-submit-channel.php:236
+#: includes/libraries/vidi-metabox-submit-channel.php:345
+#: includes/libraries/vidi-metabox-submit-playlist.php:184
+#: includes/libraries/vidi-metabox-submit-playlist.php:293
+#: includes/libraries/vidi-metabox-submit-series.php:184
+#: includes/libraries/vidi-metabox-submit-series.php:293
+#: includes/libraries/vidi-metabox-submit-video.php:443
+#: includes/libraries/vidi-metabox-submit-video.php:557
+#, php-format
+msgid "There was an error in the submission: %s"
+msgstr ""
+
+#: templates/vidi/video/single-video.php:449
+#: templates/vidi/video/single-video.php:462
+#: templates/vidi/elements/video-player-direct.php:113
+#: templates/vidi/elements/video-player-direct.php:126
+msgid "This content is for "
+msgstr ""
+
+#: includes/libraries/vidi-settings.php:206
+msgid ""
+"This option in Develope Mode and doesn't work now. Play Video on Popup. "
+"Please note Ads don't support in popup and Popup not support Single Video "
+"page."
+msgstr ""
+
+#: includes/libraries/vidi-metabox-submit-channel.php:305
+#: includes/libraries/vidi-metabox-submit-channel.php:421
+msgid "This site doesn't allow to submit channel."
+msgstr ""
+
+#: includes/libraries/vidi-metabox-submit-playlist.php:253
+#: includes/libraries/vidi-metabox-submit-playlist.php:369
+msgid "This site doesn't allow to submit playlist."
+msgstr ""
+
+#: includes/libraries/vidi-metabox-submit-series.php:253
+#: includes/libraries/vidi-metabox-submit-series.php:369
+msgid "This site doesn't allow to submit series."
+msgstr ""
+
+#: includes/libraries/vidi-metabox-submit-video.php:518
+#: includes/libraries/vidi-metabox-submit-video.php:641
+msgid "This site doesn't allow to submit video."
+msgstr ""
+
+#: templates/vidi/author/single-author.php:266
+msgid "This user haven't created any channels yet!"
+msgstr ""
+
+#: templates/vidi/author/single-author.php:174
+msgid "This user haven't created any playlists yet!"
+msgstr ""
+
+#: templates/vidi/author/single-author.php:220
+msgid "This user haven't created any series yet!"
+msgstr ""
+
+#: templates/vidi/author/single-author.php:128
+msgid "This user haven't created any videos yet!"
+msgstr ""
+
+#: includes/posttypes/series.php:183 includes/posttypes/playlist.php:183
+#: includes/posttypes/actor.php:182 includes/posttypes/channel.php:183
+#: includes/posttypes/video.php:299 includes/posttypes/director.php:182
+#: includes/libraries/vidi-settings.php:1712
+#: includes/libraries/vidi-settings.php:1718
+msgid "Thumbnail"
+msgstr ""
+
+#: includes/libraries/vidi-settings.php:1713
+msgid "Thumbnail Settings"
+msgstr ""
+
+#: includes/libraries/cmb2/includes/CMB2_JS.php:221
+msgid "Time"
+msgstr ""
+
+#: includes/posttypes/series.php:181 includes/posttypes/playlist.php:181
+#: includes/posttypes/shortcode-generate.php:133
+#: includes/posttypes/actor.php:181 includes/posttypes/channel.php:181
+#: includes/posttypes/video-report.php:89 includes/posttypes/video.php:297
+#: includes/posttypes/director.php:181
+#: includes/libraries/vidi-metabox-shortcode.php:218
+#: includes/libraries/vidi-metabox-shortcode.php:416
+#: includes/libraries/vidi-metabox-shortcode.php:505
+#: includes/libraries/vidi-metabox-shortcode.php:663
+#: includes/libraries/vidi-metabox-shortcode.php:1134
+#: includes/libraries/vidi-metabox-shortcode.php:1540
+#: includes/libraries/vidi-metabox-shortcode.php:1762
+#: includes/libraries/vidi-metabox-shortcode.php:2003
+#: includes/libraries/vidi-metabox-shortcode.php:2225
+#: includes/libraries/vidi-metabox-shortcode.php:2463
+#: includes/libraries/vidi-metabox-shortcode.php:2688
+#: includes/widgets/haru-playlist-top.php:29
+#: includes/widgets/haru-video-videos.php:29
+#: includes/widgets/haru-video-videos.php:54
+#: includes/widgets/haru-video-tags.php:29
+#: includes/widgets/haru-channel-top.php:29
+#: includes/widgets/haru-video-categories.php:43
+#: includes/widgets/haru-video-top.php:29
+#: includes/widgets/haru-video-search.php:29
+#: includes/widgets/haru-series-top.php:29
+#: templates/vidi/series/archive-series.php:65
+#: templates/vidi/video/archive-video.php:63
+#: templates/vidi/video/archive-video.php:72
+#: templates/vidi/playlist/archive-playlist.php:65
+#: templates/vidi/director/archive-director.php:65
+#: templates/vidi/channel/archive-channel.php:65
+#: templates/vidi/channel/single-channel.php:165
+#: templates/vidi/channel/single-channel.php:258
+#: templates/vidi/channel/single-channel.php:351
+#: templates/vidi/actor/archive-actor.php:65
+#: includes/modules/import/youtube/class.list-table.php:185
+msgid "Title"
+msgstr ""
+
+#: includes/libraries/cmb2/includes/CMB2_JS.php:215
+msgid "Today"
+msgstr ""
+
+#: includes/widgets/haru-channel-top.php:28
+msgid "Top Channels"
+msgstr ""
+
+#: includes/widgets/haru-playlist-top.php:28
+msgid "Top Playlists"
+msgstr ""
+
+#: includes/widgets/haru-series-top.php:28
+msgid "Top Series"
+msgstr ""
+
+#: includes/widgets/haru-video-top.php:28
+msgid "Top Videos"
+msgstr ""
+
+#: includes/libraries/vidi-settings.php:172
+msgid "Tumblr"
+msgstr ""
+
+#: templates/vidi/elements/video-player-toolbar-action-light.php:13
+msgid "Turn Off Light"
+msgstr ""
+
+#: includes/libraries/vidi-metabox-submit-video.php:81
+#: includes/libraries/vidi-metabox-cpt.php:529
+msgid "Twitch"
+msgstr ""
+
+#: includes/libraries/vidi-settings.php:169
+msgid "Twitter"
+msgstr ""
+
+#: includes/libraries/vidi-metabox-submit-channel.php:158
+#: includes/libraries/vidi-metabox-cpt.php:248
+#: includes/libraries/vidi-metabox-cpt.php:731
+msgid "Twitter URL"
+msgstr ""
+
+#: includes/libraries/vidi-settings.php:263
+#: includes/libraries/vidi-settings.php:366
+#: includes/libraries/vidi-settings.php:468
+#: includes/libraries/vidi-settings.php:571
+#: includes/libraries/vidi-settings.php:671
+#: includes/libraries/vidi-settings.php:774
+#: includes/libraries/vidi-settings.php:874
+#: includes/libraries/vidi-settings.php:977
+#: includes/libraries/vidi-settings.php:1077
+#: includes/libraries/vidi-settings.php:1180
+#: includes/libraries/vidi-settings.php:1280
+#: includes/libraries/vidi-settings.php:1383
+#: includes/libraries/vidi-settings.php:1484
+msgid "Two Sidebar"
+msgstr ""
+
+#: includes/vidi/vidi-hooks.php:140 includes/vidi/vidi-hooks.php:144
+msgid "Unsubscribe"
+msgstr ""
+
+#: includes/posttypes/actor.php:139
+msgid "Update Actor Category"
+msgstr ""
+
+#: includes/posttypes/channel.php:139
+msgid "Update Channel Category"
+msgstr ""
+
+#: includes/posttypes/director.php:139
+msgid "Update Director Category"
+msgstr ""
+
+#: includes/posttypes/playlist.php:139
+msgid "Update Playlist Category"
+msgstr ""
+
+#: includes/posttypes/series.php:139
+msgid "Update Series Category"
+msgstr ""
+
+#: includes/posttypes/shortcode-generate.php:91
+msgid "Update Shortcode Category"
+msgstr ""
+
+#: includes/posttypes/video.php:169
+msgid "Update Video Category"
+msgstr ""
+
+#: includes/posttypes/video.php:255
+msgid "Update Video Label"
+msgstr ""
+
+#: includes/posttypes/video.php:212
+msgid "Update Video Tag"
+msgstr ""
+
+#: includes/libraries/vidi-metabox-submit-video.php:141
+#: includes/libraries/vidi-metabox-cpt.php:583
+msgid "Upload File"
+msgstr ""
+
+#: includes/libraries/vidi-metabox-submit-video.php:191
+#: includes/libraries/vidi-metabox-cpt.php:611
+msgid "Upload your video file (MP4)."
+msgstr ""
+
+#: includes/libraries/vidi-metabox-submit-video.php:206
+#: includes/libraries/vidi-metabox-cpt.php:635
+msgid "Upload your video file (WebM)."
+msgstr ""
+
+#: includes/libraries/vidi-settings.php:1844
+msgid "Use for some Button,..."
+msgstr ""
+
+#: includes/libraries/vidi-settings.php:1836
+msgid "Use for some Heading,..."
+msgstr ""
+
+#: includes/libraries/cmb2/includes/CMB2_JS.php:234
+msgid "Use these files"
+msgstr ""
+
+#: includes/libraries/cmb2/includes/CMB2_JS.php:233
+msgid "Use this file"
+msgstr ""
+
+#: includes/libraries/vidi-metabox-submit-video.php:136
+#: includes/libraries/vidi-metabox-cpt.php:578
+msgid "Use Upload video or Insert Video Url from other server (mp4 and webm)."
+msgstr ""
+
+#: includes/libraries/vidi-settings.php:1696
+msgid "User Email Content"
+msgstr ""
+
+#: includes/libraries/vidi-settings.php:1683
+msgid "User Email Header"
+msgstr ""
+
+#: includes/libraries/vidi-settings.php:1670
+msgid "User Email Subject"
+msgstr ""
+
+#: includes/modules/import/youtube/views/import_videos.php:23
+msgid "User feed"
+msgstr ""
+
+#: includes/libraries/vidi-metabox-cpt.php:707
+msgid "User Metaboxes"
+msgstr ""
+
+#: includes/posttypes/video-report.php:118
+msgid "User Name: "
+msgstr ""
+
+#: includes/posttypes/video-report.php:91
+msgid "User Report"
+msgstr ""
+
+#: includes/libraries/cmb2/includes/CMB2_JS.php:207
+msgctxt "Valid formatDate string for jquery-ui datepicker"
+msgid "mm/dd/yy"
+msgstr ""
+
+#: includes/libraries/cmb2/includes/CMB2_JS.php:227
+msgctxt ""
+"Valid formatting string, as per http://trentrichardson."
+"com/examples/timepicker/"
+msgid "hh:mm TT"
+msgstr ""
+
+#: includes/posttypes/video.php:122 includes/vidi/vidi-hooks.php:801
+msgid "Video"
+msgstr ""
+
+#: includes/posttypes/video.php:59
+msgid "Video base"
+msgstr ""
+
+#: includes/posttypes/video.php:163 includes/posttypes/video.php:165
+#: includes/libraries/vidi-metabox-shortcode.php:142
+#: includes/libraries/vidi-metabox-shortcode.php:369
+#: includes/libraries/vidi-metabox-shortcode.php:599
+#: includes/libraries/vidi-metabox-shortcode.php:855
+#: includes/libraries/vidi-metabox-shortcode.php:1004
+#: includes/libraries/vidi-metabox-shortcode.php:1114
+#: includes/libraries/vidi-metabox-shortcode.php:1251
+#: includes/libraries/vidi-settings.php:2036
+msgid "Video Categories"
+msgstr ""
+
+#: includes/posttypes/video.php:164
+#: includes/libraries/vidi-metabox-shortcode.php:51
+#: includes/libraries/vidi-metabox-shortcode.php:468
+msgid "Video Category"
+msgstr ""
+
+#: includes/posttypes/video.php:70
+msgid "Video category base"
+msgstr ""
+
+#: includes/libraries/vidi-metabox-shortcode.php:554
+msgid "Video Category Category Title."
+msgstr ""
+
+#: includes/libraries/vidi-metabox-shortcode.php:580
+msgid "Video Category Columns"
+msgstr ""
+
+#: includes/libraries/vidi-metabox-shortcode.php:583
+msgid "Video Category Columns."
+msgstr ""
+
+#: includes/libraries/vidi-metabox-shortcode.php:564
+msgid "Video Category Layout"
+msgstr ""
+
+#: includes/libraries/vidi-metabox-shortcode.php:567
+msgid "Video Category Layout."
+msgstr ""
+
+#: includes/libraries/vidi-metabox-custom-taxonomy.php:26
+msgid "Video Category Metabox"
+msgstr ""
+
+#: includes/libraries/vidi-metabox-shortcode.php:659
+msgid "Video Category Order by."
+msgstr ""
+
+#: includes/libraries/vidi-metabox-shortcode.php:676
+msgid "Video Category Order."
+msgstr ""
+
+#: includes/libraries/vidi-metabox-shortcode.php:646
+msgid "Video Category posts per page."
+msgstr ""
+
+#: includes/libraries/vidi-metabox-shortcode.php:603
+msgid "Video Category select Categories"
+msgstr ""
+
+#: includes/libraries/vidi-metabox-shortcode.php:710
+msgid "Video Category Show/hide All Filter."
+msgstr ""
+
+#: includes/libraries/vidi-metabox-shortcode.php:693
+msgid "Video Category Show/hide Filter."
+msgstr ""
+
+#: includes/libraries/vidi-metabox-shortcode.php:52
+msgid "Video Category Single"
+msgstr ""
+
+#: includes/libraries/vidi-metabox-shortcode.php:446
+msgid "Video Category Single Layout"
+msgstr ""
+
+#: includes/libraries/vidi-metabox-shortcode.php:447
+msgid "Video Category Single Layout."
+msgstr ""
+
+#: includes/libraries/vidi-metabox-shortcode.php:501
+msgid "Video Category Single Order by."
+msgstr ""
+
+#: includes/libraries/vidi-metabox-shortcode.php:518
+msgid "Video Category Single Order."
+msgstr ""
+
+#: includes/libraries/vidi-metabox-shortcode.php:488
+msgid "Video Category Single posts per page."
+msgstr ""
+
+#: includes/libraries/vidi-metabox-shortcode.php:472
+msgid "Video Category Single select Category"
+msgstr ""
+
+#: includes/libraries/vidi-metabox-shortcode.php:551
+msgid "Video Category Title"
+msgstr ""
+
+#: includes/libraries/vidi-metabox-shortcode.php:615
+msgid "Video Category video style. With Video style 6 Column auto equal 1."
+msgstr ""
+
+#: includes/libraries/vidi-metabox-shortcode.php:535
+#: includes/libraries/vidi-metabox-shortcode.php:727
+msgid ""
+"Video Category view more button link will go to category page. Video "
+"Category Arrow click show more video via Ajax."
+msgstr ""
+
+#. Publish box date format, see http://php.net/date
+#: includes/modules/import/video/class.importer.php:84
+#, php-format
+msgid "Video draft saved. <a target=\"_blank\" href=\"%s\">See video</a>"
+msgstr ""
+
+#: includes/libraries/vidi-metabox-submit-video.php:246
+#: includes/libraries/vidi-metabox-cpt.php:699
+msgid "Video Duration"
+msgstr ""
+
+#: includes/modules/import/youtube/views/import_videos.php:43
+msgid "Video duration"
+msgstr ""
+
+#: includes/libraries/vidi-metabox-submit-video.php:107
+#: includes/libraries/vidi-metabox-cpt.php:553
+msgid "Video Facebook Url"
+msgstr ""
+
+#: includes/libraries/vidi-metabox-shortcode.php:50
+msgid "Video Featured"
+msgstr ""
+
+#: includes/libraries/vidi-metabox-shortcode.php:1094
+msgid "Video Featured Category Layout."
+msgstr ""
+
+#: includes/libraries/vidi-metabox-shortcode.php:1130
+msgid "Video Featured Category Order by."
+msgstr ""
+
+#: includes/libraries/vidi-metabox-shortcode.php:1147
+msgid "Video Featured Category Order."
+msgstr ""
+
+#: includes/libraries/vidi-metabox-shortcode.php:1118
+msgid "Video Featured Category select Categories"
+msgstr ""
+
+#: includes/libraries/vidi-metabox-shortcode.php:1181
+msgid "Video Featured Category Show/hide All Filter."
+msgstr ""
+
+#: includes/libraries/vidi-metabox-shortcode.php:1164
+msgid "Video Featured Category Show/hide Filter."
+msgstr ""
+
+#: includes/libraries/vidi-metabox-shortcode.php:1082
+msgid "Video Featured Category Title."
+msgstr ""
+
+#: includes/libraries/vidi-metabox-shortcode.php:1198
+msgid ""
+"Video Featured Category view more button will go to category page.  Arrow "
+"click show more video via Ajax"
+msgstr ""
+
+#: includes/libraries/vidi-metabox-shortcode.php:1093
+msgid "Video Featured Layout"
+msgstr ""
+
+#: includes/libraries/vidi-metabox-shortcode.php:1079
+msgid "Video Featured Title"
+msgstr ""
+
+#: includes/libraries/vidi-metabox-submit-video.php:120
+#: includes/libraries/vidi-metabox-cpt.php:565
+msgid "Video Google Url"
+msgstr ""
+
+#: includes/libraries/vidi-metabox-submit-video.php:94
+#: includes/libraries/vidi-metabox-cpt.php:541
+#: includes/modules/import/youtube/class.list-table.php:187
+msgid "Video ID"
+msgstr ""
+
+#: includes/libraries/vidi-metabox-shortcode.php:156
+#: includes/libraries/vidi-metabox-shortcode.php:383
+msgid "Video IDs"
+msgstr ""
+
+#: includes/modules/import/video/class.wizard.php:59
+msgid "Video Import Wizard"
+msgstr ""
+
+#: includes/posttypes/video.php:250
+msgid "Video Label"
+msgstr ""
+
+#: includes/libraries/vidi-metabox-cpt.php:34
+msgid "Video Label Background"
+msgstr ""
+
+#: includes/posttypes/video.php:92
+msgid "Video label base"
+msgstr ""
+
+#: includes/libraries/vidi-metabox-cpt.php:27
+msgid "Video Label Metabox"
+msgstr ""
+
+#: includes/posttypes/video.php:249
+msgid "Video Labels"
+msgstr ""
+
+#: includes/libraries/vidi-metabox-shortcode.php:48
+msgid "Video List - Isotope Grid"
+msgstr ""
+
+#: includes/libraries/vidi-metabox-shortcode.php:56
+msgid "Video List Category"
+msgstr ""
+
+#: includes/libraries/vidi-metabox-shortcode.php:1326
+msgid "Video List Category Layout"
+msgstr ""
+
+#: includes/libraries/vidi-metabox-shortcode.php:1327
+msgid "Video List Category Layout."
+msgstr ""
+
+#: includes/libraries/vidi-metabox-shortcode.php:1346
+msgid "Video List Category title"
+msgstr ""
+
+#: includes/libraries/vidi-metabox-shortcode.php:105
+msgid "Video List Columns"
+msgstr ""
+
+#: includes/libraries/vidi-metabox-shortcode.php:108
+msgid "Video List Columns."
+msgstr ""
+
+#: includes/libraries/vidi-metabox-shortcode.php:128
+msgid "Video List Data Source."
+msgstr ""
+
+#: includes/libraries/vidi-metabox-shortcode.php:76
+msgid "Video List Layout"
+msgstr ""
+
+#: includes/libraries/vidi-metabox-shortcode.php:79
+msgid "Video List layout."
+msgstr ""
+
+#: includes/libraries/vidi-metabox-shortcode.php:214
+msgid "Video List Order by."
+msgstr ""
+
+#: includes/libraries/vidi-metabox-shortcode.php:231
+msgid "Video List Order."
+msgstr ""
+
+#: includes/libraries/vidi-metabox-shortcode.php:146
+msgid "Video List select Video Categories."
+msgstr ""
+
+#: includes/libraries/vidi-metabox-shortcode.php:171
+msgid "Video List select Video style."
+msgstr ""
+
+#: includes/libraries/vidi-metabox-shortcode.php:157
+msgid "Video List select Videos."
+msgstr ""
+
+#: includes/libraries/vidi-metabox-shortcode.php:265
+msgid "Video List set Paging style."
+msgstr ""
+
+#: includes/libraries/vidi-metabox-shortcode.php:200
+msgid "Video List set Video per page."
+msgstr ""
+
+#: includes/libraries/vidi-metabox-shortcode.php:248
+msgid "Video List Show/hide Filter."
+msgstr ""
+
+#: includes/libraries/vidi-metabox-shortcode.php:92
+msgid "Video List Title"
+msgstr ""
+
+#: includes/libraries/vidi-metabox-shortcode.php:95
+msgid "Video List Title."
+msgstr ""
+
+#: includes/libraries/vidi-settings.php:2010
+#: includes/libraries/vidi-settings.php:2094
+msgid "Video Max File Size"
+msgstr ""
+
+#: includes/libraries/vidi-metabox-cpt.php:513
+msgid "Video Metaboxes"
+msgstr ""
+
+#: includes/libraries/vidi-metabox-submit-video.php:190
+#: includes/libraries/vidi-metabox-cpt.php:610
+msgid "Video MP4 File"
+msgstr ""
+
+#: includes/libraries/vidi-metabox-shortcode.php:53
+#: includes/libraries/vidi-metabox-shortcode.php:1280
+msgid "Video Order"
+msgstr ""
+
+#: includes/libraries/vidi-metabox-shortcode.php:912
+msgid "Video Order Arrow click show more video via Ajax."
+msgstr ""
+
+#: includes/libraries/vidi-metabox-shortcode.php:1263
+msgid "Video Order By"
+msgstr ""
+
+#: includes/libraries/vidi-metabox-shortcode.php:775
+msgid "Video Order Columns"
+msgstr ""
+
+#: includes/libraries/vidi-metabox-shortcode.php:760
+msgid "Video Order Layout"
+msgstr ""
+
+#: includes/libraries/vidi-metabox-shortcode.php:54
+msgid "Video Order Single"
+msgstr ""
+
+#: includes/libraries/vidi-metabox-shortcode.php:1046
+msgid "Video Order Single Columns"
+msgstr ""
+
+#: includes/libraries/vidi-metabox-shortcode.php:928
+msgid "Video Order Single Layout"
+msgstr ""
+
+#: includes/libraries/vidi-metabox-shortcode.php:944
+msgid "Video Order Single Tabs"
+msgstr ""
+
+#: includes/libraries/vidi-metabox-shortcode.php:795
+msgid "Video Order Tabs"
+msgstr ""
+
+#: includes/libraries/vidi-metabox-shortcode.php:868
+#: includes/libraries/vidi-metabox-shortcode.php:1017
+msgid "Video Order video style. With Video style 6 Column auto equal 1."
+msgstr ""
+
+#: includes/libraries/vidi-settings.php:196
+msgid "Video Player Autoplay"
+msgstr ""
+
+#: includes/libraries/vidi-settings.php:212
+msgid "Video Player JS Library"
+msgstr ""
+
+#: includes/libraries/vidi-settings.php:204
+msgid "Video Player Popup"
+msgstr ""
+
+#: includes/modules/import/video/class.importer.php:78
+#, php-format
+msgid "Video published. <a href=\"%s\">See video</a>"
+msgstr ""
+
+#: includes/posttypes/video-report.php:43
+msgid "Video Report"
+msgstr ""
+
+#: includes/libraries/vidi-metabox-cpt.php:849
+msgid "Video Report Content"
+msgstr ""
+
+#: includes/libraries/vidi-metabox-cpt.php:840
+msgid "Video Report Metaboxes"
+msgstr ""
+
+#: includes/vidi/vidi-hooks.php:270
+msgid "Video Report: "
+msgstr ""
+
+#: includes/vidi/vidi-hooks.php:285
+msgid "Video reported failed! Please try again later!"
+msgstr ""
+
+#: includes/posttypes/video-report.php:41
+msgid "Video Reports"
+msgstr ""
+
+#. %s: date and time of the revision
+#: includes/modules/import/video/class.importer.php:77
+#, php-format
+msgid "Video restored to version %s"
+msgstr ""
+
+#: includes/modules/import/video/class.importer.php:79
+msgid "Video saved."
+msgstr ""
+
+#: includes/modules/import/video/class.importer.php:80
+#, php-format
+msgid "Video saved. <a target=\"_blank\" href=\"%s\">See video</a>"
+msgstr ""
+
+#: includes/widgets/haru-video-search.php:28
+msgid "Video search"
+msgstr ""
+
+#: includes/libraries/vidi-metabox-shortcode.php:49
+msgid "Video Slideshow"
+msgstr ""
+
+#: includes/libraries/vidi-metabox-shortcode.php:373
+msgid "Video Slideshow Categories."
+msgstr ""
+
+#: includes/libraries/vidi-metabox-shortcode.php:332
+msgid "Video Slideshow Columns"
+msgstr ""
+
+#: includes/libraries/vidi-metabox-shortcode.php:335
+msgid ""
+"Video Slideshow Columns. With Featured List layout please set 1 Columns."
+msgstr ""
+
+#: includes/libraries/vidi-metabox-shortcode.php:355
+msgid "Video Slideshow Data Source."
+msgstr ""
+
+#: includes/libraries/vidi-metabox-shortcode.php:284
+msgid "Video Slideshow Layout"
+msgstr ""
+
+#: includes/libraries/vidi-metabox-shortcode.php:285
+msgid "Video Slideshow Layout."
+msgstr ""
+
+#: includes/libraries/vidi-metabox-shortcode.php:412
+msgid "Video Slideshow Order by."
+msgstr ""
+
+#: includes/libraries/vidi-metabox-shortcode.php:429
+msgid "Video Slideshow Order."
+msgstr ""
+
+#: includes/libraries/vidi-metabox-shortcode.php:398
+msgid "Video Slideshow select Video per page."
+msgstr ""
+
+#: includes/libraries/vidi-metabox-shortcode.php:384
+msgid "Video Slideshow select Videos."
+msgstr ""
+
+#: includes/libraries/vidi-metabox-shortcode.php:319
+msgid "Video Slideshow Title"
+msgstr ""
+
+#: includes/libraries/vidi-metabox-shortcode.php:322
+msgid "Video Slideshow Title."
+msgstr ""
+
+#: includes/libraries/vidi-metabox-submit-video.php:134
+#: includes/libraries/vidi-metabox-submit-video.php:153
+#: includes/libraries/vidi-metabox-cpt.php:577
+msgid "Video Source"
+msgstr ""
+
+#: includes/libraries/vidi-metabox-shortcode.php:169
+#: includes/libraries/vidi-metabox-shortcode.php:614
+#: includes/libraries/vidi-metabox-shortcode.php:867
+#: includes/libraries/vidi-metabox-shortcode.php:1016
+msgid "Video Style"
+msgstr ""
+
+#: haru-vidi.php:111
+msgid "Video Submit"
+msgstr ""
+
+#: includes/libraries/vidi-metabox-submit-video.php:447
+#: includes/libraries/vidi-metabox-submit-video.php:572
+msgid "Video Submit information depend on your account Level"
+msgstr ""
+
+#: includes/posttypes/video.php:207
+msgid "Video Tag"
+msgstr ""
+
+#: includes/posttypes/video.php:81
+msgid "Video tag base"
+msgstr ""
+
+#: includes/posttypes/video.php:206
+msgid "Video Tags"
+msgstr ""
+
+#: includes/widgets/haru-video-tags.php:28
+msgid "Video tags"
+msgstr ""
+
+#: includes/libraries/vidi-settings.php:1729
+msgid "Video Thumbnail"
+msgstr ""
+
+#: includes/libraries/vidi-settings.php:1730
+msgid "Video Thumbnail settings."
+msgstr ""
+
+#: includes/libraries/vidi-settings.php:1748
+msgid "Video Thumbnail Size"
+msgstr ""
+
+#: includes/libraries/vidi-settings.php:1737
+msgid "Video Thumbnail Type"
+msgstr ""
+
+#: includes/modules/import/youtube/views/import_videos.php:75
+msgid "Video title"
+msgstr ""
+
+#: includes/libraries/vidi-metabox-shortcode.php:55
+msgid "Video TOP"
+msgstr ""
+
+#: includes/libraries/vidi-metabox-shortcode.php:1214
+msgid "Video TOP Layout"
+msgstr ""
+
+#: includes/libraries/vidi-metabox-shortcode.php:1241
+msgid "Video TOP title"
+msgstr ""
+
+#: includes/modules/import/video/class.importer.php:72
+#, php-format
+msgid "Video updated <a href=\"%s\">See video</a>"
+msgstr ""
+
+#: includes/modules/import/video/class.importer.php:75
+msgid "Video updated."
+msgstr ""
+
+#: includes/libraries/vidi-metabox-submit-video.php:493
+#: includes/libraries/vidi-metabox-submit-video.php:619
+msgid "Video Upload max file size is "
+msgstr ""
+
+#: includes/libraries/vidi-metabox-submit-video.php:173
+#: includes/libraries/vidi-metabox-cpt.php:594
+msgid "Video Url"
+msgstr ""
+
+#: includes/libraries/vidi-metabox-submit-video.php:205
+#: includes/libraries/vidi-metabox-cpt.php:634
+msgid "Video WebM File"
+msgstr ""
+
+#: includes/modules/import/video/class.importer.php:81
+#, php-format
+msgid ""
+"Video will be published at: <strong>%1$s</strong>. <a target=\"_blank\" "
+"href=\"%2$s\">See video</a>"
+msgstr ""
+
+#: includes/posttypes/video.php:120 includes/libraries/vidi-settings.php:227
+#: includes/libraries/vidi-settings.php:233
+#: includes/vidi/buddypress-functions.php:18
+#: includes/widgets/haru-video-videos.php:28
+#: templates/vidi/author/single-author.php:71
+#: templates/vidi/channel/single-channel.php:107
+msgid "Videos"
+msgstr ""
+
+#: includes/libraries/vidi-metabox-shortcode.php:2852
+msgid "Videos Created Count"
+msgstr ""
+
+#: includes/libraries/vidi-settings.php:228
+msgid "Videos Settings"
+msgstr ""
+
+#. Section ID
+#: includes/posttypes/_init.php:34
+msgid "Vidi permalinks slug"
+msgstr ""
+
+#: includes/libraries/vidi-settings.php:20
+msgid "Vidi Settings"
+msgstr ""
+
+#: haru-vidi.php:52
+msgid "Vidi Shortcodes"
+msgstr ""
+
+#: haru-vidi.php:241
+msgid "Vidi Sidebar"
+msgstr ""
+
+#: includes/posttypes/actor.php:97
+msgid "View Actor"
+msgstr ""
+
+#: includes/posttypes/actor.php:138
+msgid "View Actor Category"
+msgstr ""
+
+#: templates/vidi/elements/watch-later-videos.php:35
+#: templates/vidi/elements/watch-later-videos.php:85
+msgid "View all videos"
+msgstr ""
+
+#: includes/posttypes/channel.php:97
+msgid "View Channel"
+msgstr ""
+
+#: includes/posttypes/channel.php:138
+msgid "View Channel Category"
+msgstr ""
+
+#: includes/posttypes/director.php:97
+msgid "View Director"
+msgstr ""
+
+#: includes/posttypes/director.php:138
+msgid "View Director Category"
+msgstr ""
+
+#: includes/libraries/vidi-metabox-shortcode.php:534
+#: includes/libraries/vidi-metabox-shortcode.php:726
+#: includes/libraries/vidi-metabox-shortcode.php:1197
+#: includes/libraries/vidi-metabox-shortcode.php:1205
+#: includes/libraries/vidi-metabox-shortcode.php:1603
+#: includes/libraries/vidi-metabox-shortcode.php:1611
+#: includes/libraries/vidi-metabox-shortcode.php:2066
+#: includes/libraries/vidi-metabox-shortcode.php:2074
+#: includes/libraries/vidi-metabox-shortcode.php:2526
+#: includes/libraries/vidi-metabox-shortcode.php:2534
+msgid "View More"
+msgstr ""
+
+#: includes/vidi/vidi-ajax-actions.php:60
+#: includes/vidi/vidi-ajax-actions.php:134
+#: includes/vidi/vidi-ajax-actions.php:196
+#: includes/vidi/vidi-ajax-actions.php:270
+#: includes/vidi/vidi-ajax-actions.php:340
+#: includes/vidi/vidi-ajax-actions.php:720
+#: includes/vidi/vidi-ajax-actions.php:794
+#: includes/vidi/vidi-ajax-actions.php:958
+#: includes/vidi/vidi-ajax-actions.php:1032
+#: includes/vidi/vidi-ajax-actions.php:1183
+#: includes/vidi/vidi-ajax-actions.php:1257
+#: templates/vidi/shortcodes/channel-category.php:112
+#: templates/vidi/shortcodes/video-category-single.php:94
+#: templates/vidi/shortcodes/series-category.php:112
+#: templates/vidi/shortcodes/playlist-category.php:112
+#: templates/vidi/shortcodes/video-category.php:112
+#: templates/vidi/shortcodes/video-featured.php:116
+msgid "View more"
+msgstr ""
+
+#: includes/libraries/vidi-metabox-shortcode.php:542
+#: includes/libraries/vidi-metabox-shortcode.php:734
+msgid "View More Style"
+msgstr ""
+
+#: includes/modules/import/youtube/class.list-table.php:105
+msgid "View on YouTube"
+msgstr ""
+
+#: includes/posttypes/playlist.php:97
+msgid "View Playlist"
+msgstr ""
+
+#: includes/posttypes/playlist.php:138
+msgid "View Playlist Category"
+msgstr ""
+
+#: includes/posttypes/series.php:97
+msgid "View Series"
+msgstr ""
+
+#: includes/posttypes/series.php:138
+msgid "View Series Category"
+msgstr ""
+
+#: includes/posttypes/shortcode-generate.php:51
+msgid "View Shortcode"
+msgstr ""
+
+#: includes/posttypes/shortcode-generate.php:90
+msgid "View Shortcode Category"
+msgstr ""
+
+#: includes/posttypes/video-report.php:118
+msgid "View User"
+msgstr ""
+
+#: includes/posttypes/video.php:127
+msgid "View Video"
+msgstr ""
+
+#: includes/posttypes/video.php:168
+msgid "View Video Category"
+msgstr ""
+
+#: includes/posttypes/video.php:254
+msgid "View Video Label"
+msgstr ""
+
+#: includes/posttypes/video-report.php:48
+msgid "View Video Report"
+msgstr ""
+
+#: includes/posttypes/video.php:211
+msgid "View Video Tag"
+msgstr ""
+
+#: includes/libraries/vidi-metabox-shortcode.php:1268
+#: includes/libraries/vidi-metabox-shortcode.php:1850
+#: includes/libraries/vidi-metabox-shortcode.php:2309
+#: includes/libraries/vidi-metabox-shortcode.php:2772
+#: includes/widgets/haru-playlist-top.php:54
+#: includes/widgets/haru-channel-top.php:56
+#: includes/widgets/haru-video-top.php:55
+#: includes/widgets/haru-series-top.php:54
+#: includes/modules/import/youtube/class.list-table.php:190
+msgid "Views"
+msgstr ""
+
+#: includes/vidi/class-rating-system.php:481
+msgid "views"
+msgstr ""
+
+#: includes/libraries/vidi-metabox-submit-video.php:80
+#: includes/libraries/vidi-metabox-cpt.php:528
+msgid "Vimeo"
+msgstr ""
+
+#: includes/libraries/vidi-settings.php:175
+msgid "VK"
+msgstr ""
+
+#: haru-vidi.php:77
+#: templates/vidi/elements/video-player-toolbar-action-watch-later.php:30
+msgid "Watch Later"
+msgstr ""
+
+#: templates/vidi/shortcodes/watch-later.php:56
+msgid "Watch Later List has total"
+msgstr ""
+
+#: includes/libraries/vidi-settings.php:48
+msgid "Watch Later Page"
+msgstr ""
+
+#: haru-vidi.php:243
+msgid "Widget Area for Vidi plugin"
+msgstr ""
+
+#: includes/widgets/haru-channel-top.php:21
+msgid "Widget display top channels."
+msgstr ""
+
+#: includes/widgets/haru-playlist-top.php:21
+msgid "Widget display top playlists."
+msgstr ""
+
+#: includes/widgets/haru-series-top.php:21
+msgid "Widget display top seriess."
+msgstr ""
+
+#: includes/widgets/haru-video-top.php:21
+msgid "Widget display top videos."
+msgstr ""
+
+#: includes/widgets/haru-video-categories.php:35
+msgid "Widget display video categories."
+msgstr ""
+
+#: includes/widgets/haru-video-search.php:21
+msgid "Widget display video search."
+msgstr ""
+
+#: includes/widgets/haru-video-tags.php:21
+msgid "Widget display video tags."
+msgstr ""
+
+#: includes/widgets/haru-video-videos.php:21
+msgid "Widget display videos."
+msgstr ""
+
+#: includes/libraries/vidi-metabox-cpt.php:325
+#: includes/libraries/vidi-metabox-cpt.php:401
+msgid "Year"
+msgstr ""
+
+#: includes/libraries/vidi-metabox-shortcode.php:748
+#: includes/libraries/vidi-metabox-shortcode.php:1313
+#: includes/libraries/vidi-metabox-shortcode.php:2895
+msgid "Yes"
+msgstr ""
+
+#: includes/vidi/vidi-hooks.php:264
+#: templates/vidi/elements/video-player-toolbar-group-report.php:20
+msgid "You already reported this video!"
+msgstr ""
+
+#: includes/libraries/vidi-metabox-submit-video.php:248
+#: includes/libraries/vidi-metabox-cpt.php:701
+msgid "You can set Video duration. Example: 3:15"
+msgstr ""
+
+#: templates/vidi/shortcodes/channel-my-channels.php:89
+msgid "You don't created any channels yet!"
+msgstr ""
+
+#: templates/vidi/shortcodes/playlist-my-playlists.php:89
+msgid "You don't created any playlists yet!"
+msgstr ""
+
+#: templates/vidi/shortcodes/series-my-seriess.php:89
+msgid "You don't created any series yet!"
+msgstr ""
+
+#: templates/vidi/shortcodes/video-my-videos.php:92
+msgid "You don't created any videos yet!"
+msgstr ""
+
+#: includes/vidi/class-rating-system.php:113
+#: includes/vidi/class-rating-system.php:148
+#: includes/vidi/class-rating-system.php:326
+msgid "You has just disliked"
+msgstr ""
+
+#: includes/vidi/class-rating-system.php:100
+#: includes/vidi/class-rating-system.php:134
+#: includes/vidi/class-rating-system.php:324
+msgid "You has just liked"
+msgstr ""
+
+#: includes/vidi/class-rating-system.php:182
+msgid "You has just unvote dislike"
+msgstr ""
+
+#: includes/vidi/class-rating-system.php:169
+msgid "You has just unvote like"
+msgstr ""
+
+#: templates/vidi/shortcodes/playlist-my-playlists.php:50
+#: templates/vidi/shortcodes/video-my-videos.php:53
+#: templates/vidi/shortcodes/channel-my-channels.php:50
+#: templates/vidi/shortcodes/series-my-seriess.php:50
+msgid "You has total"
+msgstr ""
+
+#: includes/vidi/vidi-hooks.php:281
+msgid "You have just reported this video. Thanks so much!"
+msgstr ""
+
+#: templates/vidi/video/single-video.php:618
+msgid "You may also like this"
+msgstr ""
+
+#: templates/vidi/series/single-series.php:238
+#: templates/vidi/playlist/single-playlist.php:192
+#: templates/vidi/director/single-director.php:198
+#: templates/vidi/channel/single-channel.php:493
+#: templates/vidi/actor/single-actor.php:198
+msgid "You Might Be Interested In"
+msgstr ""
+
+#: includes/libraries/vidi-metabox-submit-channel.php:262
+#: includes/libraries/vidi-metabox-submit-channel.php:381
+#: includes/libraries/vidi-metabox-submit-playlist.php:210
+#: includes/libraries/vidi-metabox-submit-playlist.php:329
+#: includes/libraries/vidi-metabox-submit-series.php:210
+#: includes/libraries/vidi-metabox-submit-series.php:329
+#: includes/libraries/vidi-metabox-submit-video.php:470
+#: includes/libraries/vidi-metabox-submit-video.php:594
+msgid "Your current Subcription is "
+msgstr ""
+
+#: includes/libraries/vidi-metabox-submit-channel.php:266
+#: includes/libraries/vidi-metabox-submit-channel.php:385
+#: includes/libraries/vidi-metabox-submit-playlist.php:214
+#: includes/libraries/vidi-metabox-submit-playlist.php:333
+#: includes/libraries/vidi-metabox-submit-series.php:214
+#: includes/libraries/vidi-metabox-submit-series.php:333
+#: includes/libraries/vidi-metabox-submit-video.php:474
+#: includes/libraries/vidi-metabox-submit-video.php:600
+msgid "Your Subcription does not have End date."
+msgstr ""
+
+#: includes/libraries/vidi-metabox-submit-channel.php:268
+#: includes/libraries/vidi-metabox-submit-channel.php:387
+#: includes/libraries/vidi-metabox-submit-playlist.php:216
+#: includes/libraries/vidi-metabox-submit-playlist.php:335
+#: includes/libraries/vidi-metabox-submit-series.php:216
+#: includes/libraries/vidi-metabox-submit-series.php:335
+#: includes/libraries/vidi-metabox-submit-video.php:476
+#: includes/libraries/vidi-metabox-submit-video.php:602
+msgid "Your Subcription end at "
+msgstr ""
+
+#: templates/vidi/video/single-video.php:480
+#: templates/vidi/elements/video-player-direct.php:144
+msgid "Your Subcription has expired on "
+msgstr ""
+
+#: includes/libraries/vidi-metabox-submit-video.php:598
+msgid "Your Subcription has expired!"
+msgstr ""
+
+#: includes/libraries/vidi-metabox-submit-channel.php:263
+#: includes/libraries/vidi-metabox-submit-channel.php:382
+#: includes/libraries/vidi-metabox-submit-playlist.php:211
+#: includes/libraries/vidi-metabox-submit-playlist.php:330
+#: includes/libraries/vidi-metabox-submit-series.php:211
+#: includes/libraries/vidi-metabox-submit-series.php:330
+#: includes/libraries/vidi-metabox-submit-video.php:471
+#: includes/libraries/vidi-metabox-submit-video.php:595
+msgid "Your Subcription start at "
+msgstr ""
+
+#: includes/libraries/vidi-metabox-submit-video.php:79
+#: includes/libraries/vidi-metabox-cpt.php:527
+msgid "Youtube"
+msgstr ""
+
+#: includes/modules/import/youtube/class.list-table.php:316
+msgid "YouTube feed is empty."
+msgstr ""
+
+#: includes/modules/import/youtube/views/import_videos.php:23
+msgid "YouTube ID"
+msgstr ""
+
+#: includes/modules/import/youtube/views/import_videos.php:24
+msgid "YouTube playlist ID"
+msgstr ""
+
+#: includes/libraries/vidi-metabox-submit-channel.php:151
+#: includes/libraries/vidi-metabox-cpt.php:241
+msgid "Youtube URL"
+msgstr ""

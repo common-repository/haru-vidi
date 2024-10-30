@@ -1,0 +1,136 @@
+// BuddyPress
+#buddypress {
+	.archive-video,
+	.archive-playlist,
+	.archive-series,
+	.archive-channel,
+	.archive-actor,
+	.archive-director {
+	    &__title {
+	    	color: $heading_color;
+	        font-size: 20px;
+	        margin: 0!important; // Issue with BuddyPress
+	    }
+	}
+
+	.haru-archive-layout-toggle {
+		margin-right: 0;
+	}
+
+	.video-item,
+	.playlist-item,
+	.series-item,
+	.channel-item {
+		&__title {
+			padding-top: 5px;
+		    margin-bottom: 5px;
+		    margin-top: 10px;
+		}
+	}
+
+	.layout-wrap {
+		&.style-list {
+			.video-item,
+			.playlist-item,
+			.series-item,
+			.channel-item {
+				&__title {
+					padding-top: 0;
+    				margin-top: 0;
+				}
+			}
+		}
+	}
+}
+
+// Videos
+.bd-tab-videos {
+	margin: 0 -15px;
+	
+	.video-item {
+		padding: 0 15px;
+		margin-bottom: 15px;
+	}
+}
+
+// Playlists
+.bd-tab-playlists {
+	margin: 0 -15px;
+	
+	.playlist-item {
+		padding: 0 15px;
+		margin-bottom: 15px;
+	}
+}
+
+// Series
+.bd-tab-seriess {
+	margin: 0 -15px;
+	
+	.series-item {
+		padding: 0 15px;
+		margin-bottom: 15px;
+	}
+}
+
+// Channels
+.bd-tab-channels {
+	margin: 0 -15px;
+	
+	.channel-item {
+		padding: 0 15px;
+		margin-bottom: 15px;
+	}
+}
+
+// Channels
+.bd-tab-channels {
+	margin: 0 -15px;
+	
+	.channel-item {
+		padding: 0 15px;
+		margin-bottom: 15px;
+	}
+}
+
+.bp-no-item {
+	padding-bottom: 10px;
+}
+
+.bd-pagination-cpt {
+	margin: 30px 0;
+	text-align: center;
+
+	.bp-video-load-more,
+	.bp-playlist-load-more,
+	.bp-channel-load-more,
+	.bp-series-load-more {
+		background-color: $primary_color!important;
+		color: $white!important;
+		display: inline-block;
+		font-weight: $fw-medium!important;
+		height: 40px;
+		line-height: 40px!important;
+		padding: 0 25px!important;
+		border-radius: $border_radius!important;
+		border: none!important;
+
+		&:hover {
+			color: $white;
+		}
+
+		&:focus {
+			outline: none;
+		}
+
+		i {
+			display: none;
+		}
+
+		&.loading {
+			i {
+				display: inline-block;
+			}
+		}
+	}
+}

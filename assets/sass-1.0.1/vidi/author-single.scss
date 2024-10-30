@@ -1,0 +1,173 @@
+// Author Single
+.haru-single-author {
+	margin-bottom: 80px;
+
+	.haru-archive-top {
+		display: none;
+	}
+
+	.single-author {
+		&__tabs {
+			margin: 30px 0;
+			border-bottom: 1px solid $border_color;
+		}
+
+		&__tab {
+			display: inline-block;
+			position: relative;
+			padding: 5px 0;
+			margin: 0 10px;
+
+			&:first-child {
+				margin-left: 0;
+			}
+
+			&:last-child {
+				margin-right: 0;
+			}
+
+			&.active {
+				&:before {
+					content: '';
+					position: absolute;
+					height: 2px;
+					width: 100%;
+					left: 0;
+					bottom: -1px;
+					background-color: $primary_color;
+				}
+
+				a {
+					color: $heading_color;
+				}
+			}
+
+			&-link {
+				color: $text_color_secondary;
+				display: block;
+				font-weight: $fw-medium;
+				font-size: 16px;
+			}
+		}
+
+		&__videos,
+		&__playlists,
+		&__seriess,
+		&__channels, {
+			margin: 0 -15px;
+		}
+	}
+
+	.author-info {
+		display: flex;
+	}
+
+	.author-name {
+		margin-top: 0;
+	}
+
+	.author-meta {
+		padding-left: 20px;
+	}
+
+	.author-social {
+		padding: 5px 0 0;
+		margin: 0;
+		list-style: none;
+
+		li {
+			display: inline-block;
+			margin-right: 5px;
+
+			&:last-child {
+				margin-right: 0;
+			}
+		}
+
+		a {
+			color: $white;
+			display: block;
+			width: 30px;
+			height: 30px;
+			line-height: 30px;
+			text-align: center;
+			border-radius: $border_radius_small;
+
+			&:hover {
+				color: $white;
+				background-color: $primary_color;
+				transition: all .3s;
+			}
+		}
+
+		&__email {
+			background-color: #333;
+		}
+
+		&__facebook {
+			background-color: #3b5998;
+		}
+
+		&__youtube {
+			background-color: #c4302b;
+		}
+
+		&__twitter {
+			background-color: #00acee;
+		}
+
+		&__instagram {
+			background-color: #3f729b;
+		}
+	}
+
+	.video-item,
+	.playlist-item,
+	.series-item,
+	.channel-item {
+		padding: 0 15px;
+		margin-bottom: 15px;
+	}
+
+	.haru-no-item {
+		padding-bottom: 10px;
+	}
+
+	.author-pagination-cpt {
+		margin: 30px 0;
+		text-align: center;
+
+		.author-video-load-more,
+		.author-playlist-load-more,
+		.author-channel-load-more,
+		.author-series-load-more {
+			background-color: $primary_color;
+			color: $white;
+			display: inline-block;
+			font-weight: $fw-medium;
+			height: 40px;
+			line-height: 40px;
+			padding: 0 25px;
+			border-radius: $border_radius;
+			border: none;
+
+			&:hover {
+				color: $white;
+			}
+
+			&:focus {
+				outline: none;
+			}
+
+			i {
+				display: none;
+			}
+
+			&.loading {
+				i {
+					display: inline-block;
+				}
+			}
+		}
+	}
+}

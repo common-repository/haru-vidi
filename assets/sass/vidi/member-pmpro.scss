@@ -1,0 +1,496 @@
+// Single Video
+.pmpro-require-membership {
+	position: absolute;
+	width: 100%;
+	height: 100%;
+	top: 0;
+	left: 0;
+	background-color: rgba($black, .6);
+}
+
+.pmpro-require-content {
+	position: absolute;
+    top: 50%;
+    left: 50%;
+    text-align: center;
+    width: 100%;
+    transform: translate(-50%, -50%);
+}
+
+.pmpro-require-message {
+	color: $white;
+	font-weight: $fw_normal;
+	line-height: 1.4;
+
+	span {
+		font-weight: $fw_medium;
+	}
+}
+
+.pmpro-require-actions {
+	margin-top: 25px;
+}
+
+.pmpro-require-btn {
+	min-width: 95px;
+	margin: 0 6px;
+
+	&:first-child {
+		margin-left: 0;
+	}
+
+	&:last-child {
+		margin-right: 0;
+	}
+}
+
+.pmpro_content_message {
+	a {
+		background-color: $primary_color!important;
+		display: inline-block!important;
+		height: 32px;
+		border: 1px solid $primary_color!important;
+		border-radius: $border_radius!important;
+		padding: 0 20px!important;
+		line-height: 30px!important;
+		font-weight: $fw_medium!important;
+		font-size: $fs_small;
+		color: $white!important;
+		margin-top: 25px!important;
+		transition: all .3s;
+		min-width: 95px;
+
+		&:hover {
+			background-color: transparent!important;
+			border: 1px solid $primary_color!important;
+			color: $primary_color!important;
+			transition: all .3s;
+		}
+	}
+}
+
+.pmpro-require-message-2 {
+	font-weight: $fw_normal;
+	line-height: 1.4;
+
+	span {
+		font-weight: $fw_medium;
+	}
+}
+
+.pmpro-require-actions-2 {
+	margin-top: 20px;
+
+	a {
+		text-align: center;
+	}
+}
+
+form.pmpro_form .input, 
+form.pmpro_form textarea, 
+form.pmpro_form select, 
+#loginform input[type=text], 
+#loginform input[type=password] {
+	max-width: 100%!important;
+}
+
+// Login
+.pmpro_login_wrap {
+	margin-bottom: 75px!important;
+
+	@media screen and(max-width: $screen-xs-max) {
+        margin-bottom: 50px!important;
+    }
+
+
+	label {
+		font-weight: $fw_medium!important;
+		color: $heading_color;
+		margin-bottom: 10px!important;
+	}
+
+	input[type="text"],
+	input[type="password"] {
+        border: 1px solid $border_color;
+        padding: 8px 15px;
+        width: 100%;
+        border-radius: $border_radius;
+
+        @media screen and(max-width: $screen-xs-max) {
+        	max-width: 100%!important;
+        	width: 100%!important;
+        }
+
+        &:focus {
+            outline: none;
+            border: 1px solid $primary_color;
+        }
+    }
+
+    input[type=submit] {
+    	background-color: $primary_color;
+		display: inline-block;
+		height: 40px;
+		border: 1px solid $primary_color;
+		border-radius: $border_radius;
+		padding: 0 30px;
+		line-height: 38px;
+		font-weight: $fw_medium;
+		color: $white;
+		transition: all .3s;
+
+		&:hover {
+			background-color: transparent;
+			border: 1px solid $primary_color;
+			color: $primary_color;
+			transition: all .3s;
+		}
+    }
+
+    .login-remember {
+    	label {
+			font-weight: $fw_medium!important;
+		}
+    }
+}
+
+// Membership Levels
+#pmpro_levels_table {
+	thead {
+		background: #f7f8f9;
+
+		tr {
+			> * {
+				padding: 10px 20px 9px 20px;
+				font-weight: $fw_medium;
+				color: $heading_color;
+
+				@media screen and(max-width: $screen-xs-max) {
+					padding: 10px 10px 9px 10px;
+				}
+			}
+		}
+	}
+
+	tbody {
+		tr {
+			> * {
+				padding: 10px 20px 9px 20px;
+
+				@media screen and(max-width: $screen-xs-max) {
+					padding: 10px 10px 9px 10px;
+				}
+			}
+		}
+
+		strong {
+			color: $heading_color;
+			font-weight: $fw_medium;
+		}
+	}
+
+	.pmpro_btn {
+		background-color: $primary_color;
+		display: inline-block;
+		height: 40px;
+		border: 1px solid $primary_color;
+		border-radius: $border_radius;
+		padding: 0 30px;
+		line-height: 38px;
+		font-weight: $fw_medium;
+		color: $white;
+		transition: all .3s;
+
+		@media screen and(max-width: $screen-xs-max) {
+			height: 32px;
+			padding: 0 15px;
+			line-height: 30px;
+		}
+
+		&:hover {
+			background-color: transparent;
+			border: 1px solid $primary_color;
+			color: $primary_color;
+			transition: all .3s;
+		}
+	}
+
+	~ p {
+		margin-top: 10px;
+		margin-bottom: 75px;
+
+		@media screen and(max-width: $screen-xs-max) {
+	        margin-bottom: 50px;
+	    }
+	}
+}
+
+// Membership Profile
+.pmpro_form {
+	margin-bottom: 75px;
+
+	@media screen and(max-width: $screen-xs-max) {
+        margin-bottom: 45px;
+    }
+
+	label {
+		font-weight: $fw_medium!important;
+		color: $heading_color;
+		margin-bottom: 10px!important;
+	}
+	
+	.pmpro_asterisk {
+		color: red;
+
+		@media screen and(max-width: $screen-xs-max) {
+			position: absolute;
+			top: 3px;
+			right: 0;
+		}
+	}
+
+	.lite {
+		color: $text_color_secondary!important;
+		font-style: italic;
+		margin-top: 5px;
+	}
+
+	input[type="text"],
+	input[type="password"] {
+        border: 1px solid $border_color;
+        padding: 8px 15px;
+        width: 100%;
+        border-radius: $border_radius;
+
+        @media screen and(max-width: $screen-xs-max) {
+        	max-width: 100%!important;
+        	width: 100%!important;
+        }
+
+        &:focus {
+            outline: none;
+            border: 1px solid $primary_color;
+        }
+    }
+
+    input[type=submit] {
+    	background-color: $primary_color;
+		display: inline-block;
+		height: 40px;
+		border: 1px solid $primary_color;
+		border-radius: $border_radius;
+		padding: 0 30px;
+		line-height: 38px;
+		font-weight: $fw_medium;
+		color: $white;
+		transition: all .3s;
+
+		&:hover {
+			background-color: transparent;
+			border: 1px solid $primary_color;
+			color: $primary_color;
+			transition: all .3s;
+		}
+    }
+
+    .pmpro_member_profile_edit-field {
+    	position: relative;
+    }
+
+    .pmpro_btn-cancel {
+    	font-weight: $fw_medium;
+    }
+}
+
+// Membership Account
+#pmpro_account {
+	margin-bottom: 55px;
+
+	@media screen and(max-width: $screen-xs-max) {
+        margin-bottom: 45px;
+    }
+
+    #pmpro_account-membership {
+		margin-top: 0!important;
+	}
+
+	h3 {
+		font-size: 20px;
+
+		@media screen and(max-width: $screen-xs-max) {
+			font-size: 18px;
+		}
+	}
+
+	.pmpro_table {
+		margin-top: 25px;
+	}
+
+	.pmpro_actionlinks {
+		margin-top: 5px;
+	}
+
+	thead {
+		background: #f7f8f9;
+
+		tr {
+			> * {
+				padding: 10px 20px 9px 20px;
+				font-weight: $fw_medium;
+				color: $heading_color;
+
+				@media screen and(max-width: $screen-xs-max) {
+					padding: 10px 10px 9px 10px;
+				}
+			}
+		}
+	}
+
+	tbody {
+		tr {
+			> * {
+				padding: 10px 20px 9px 20px;
+
+				@media screen and(max-width: $screen-xs-max) {
+					padding: 10px 10px 9px 10px;
+				}
+			}
+		}
+
+		
+
+		p {
+			margin: 0!important;
+		}
+	}
+
+	strong {
+		color: $heading_color;
+		font-weight: $fw_medium;
+	}
+}
+
+// Billing
+.pmpro_billing_wrap {
+	margin-bottom: 75px!important;
+
+	@media screen and(max-width: $screen-xs-max) {
+        margin-bottom: 50px!important;
+    }
+
+    strong {
+		color: $heading_color;
+		font-weight: $fw_medium;
+	}
+}
+
+// Cancel
+.pmpro_cancel_wrap {
+	h2 {
+		font-size: 20px;
+		padding-bottom: 10px;
+		margin-top: 0;
+
+		@media screen and(max-width: $screen-xs-max) {
+			font-size: 18px;
+		}
+	}
+
+	thead {
+		background: #f7f8f9;
+
+		tr {
+			> * {
+				padding: 10px 20px 9px 20px;
+				font-weight: $fw_medium;
+				color: $heading_color;
+			}
+		}
+	}
+
+	tbody {
+		tr {
+			> * {
+				padding: 10px 20px 9px 20px;
+			}
+		}
+
+		
+
+		p {
+			margin: 0!important;
+		}
+	}
+
+	strong {
+		color: $heading_color;
+		font-weight: $fw_medium;
+	}
+
+	.pmpro_actions_nav {
+		margin-top: 10px;
+		margin-bottom: 75px;
+
+		@media screen and(max-width: $screen-xs-max) {
+	        margin-bottom: 50px;
+	    }
+	}
+}
+
+// Invoice
+.pmpro_invoice_wrap {
+	margin-bottom: 90px;
+
+	@media screen and(max-width: $screen-xs-max) {
+        margin-bottom: 80px;
+    }
+
+	thead {
+		background: #f7f8f9;
+
+		tr {
+			> * {
+				padding: 10px 20px 9px 20px;
+				font-weight: $fw_medium;
+				color: $heading_color;
+
+				@media screen and(max-width: $screen-xs-max) {
+					padding: 10px 10px 9px 10px;
+				}
+			}
+		}
+	}
+
+	tbody {
+		tr {
+			> * {
+				padding: 10px 20px 9px 20px;
+
+				@media screen and(max-width: $screen-xs-max) {
+					padding: 10px 10px 9px 10px;
+				}
+			}
+		}
+
+		
+
+		p {
+			margin: 0!important;
+		}
+	}
+
+	strong {
+		color: $heading_color;
+		font-weight: $fw_medium;
+	}
+
+	.pmpro_actions_nav {
+		margin-top: 10px;
+	}
+
+	.pmpro_actions_nav-right {
+		@media screen and(max-width: $screen-xs-max) {
+			width: 100%;
+		}
+	}
+}

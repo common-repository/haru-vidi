@@ -1,0 +1,96 @@
+// Youzer
+#youzer {
+	div.item-list-tabs {
+		padding: 15px 20px;
+	    margin: 0 0 35px;
+	    background-color: $white;
+	    border-radius: 3px;
+	}
+
+	.archive-video,
+	.archive-playlist,
+	.archive-series,
+	.archive-channel,
+	.archive-actor,
+	.archive-director {
+	    &__title {
+	    	color: $heading_color;
+	        font-size: 20px;
+	        margin: 0!important; // Issue with BuddyPress
+	    }
+	}
+
+	.haru-archive-layout-toggle {
+		margin-right: 0;
+	}
+
+	.video-item,
+	.playlist-item,
+	.series-item,
+	.channel-item {
+		&__title {
+			padding-top: 5px;
+		    margin-bottom: 5px;
+		    margin-top: 10px;
+		}
+	}
+
+	.layout-wrap {
+		&.style-list {
+			.video-item,
+			.playlist-item,
+			.series-item,
+			.channel-item {
+				&__title {
+					padding-top: 0;
+    				margin-top: 0;
+				}
+			}
+		}
+	}
+
+	// Fix icons
+	.haru-clock {
+		height: 10px;
+	}
+
+	.haru-grid {
+		height: 14px;
+	}
+
+	.haru-list-small {
+		height: 11px;
+	}
+
+	.haru-play {
+		height: 48px;
+	}
+
+	// Fix other
+	.video-item__duration {
+		line-height: normal;
+	}
+}
+
+.logy-page-box {
+	padding: 80px 0!important;
+
+	@media screen and (max-width: $screen-sm-max) {
+		padding: 70px 0!important;
+	}
+
+	@media screen and (max-width: $screen-xs-max) {
+		padding: 60px 0!important;
+	}
+}
+
+.yz-page {
+	padding-bottom: 40px;
+}
+
+// Other
+.buddypress {
+	&.media {
+		overflow-y: auto;
+	}
+}

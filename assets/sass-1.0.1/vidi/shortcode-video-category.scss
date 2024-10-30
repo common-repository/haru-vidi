@@ -1,0 +1,215 @@
+.video-category-shortcode {
+	.video-category-top {
+		display: flex;
+		margin-bottom: 35px;
+
+		@media screen and (max-width: $screen-sm-max) {
+			margin-bottom: 25px;
+		}
+
+		@media screen and (max-width: $screen-xs-max) {
+			display: block;
+		}
+	}
+
+	.haru-shortcode-title {
+		margin: 0;
+		font-size: 24px;
+		padding-right: 30px;
+
+		@media screen and (max-width: $screen-sm-max) {
+            font-size: 20px;
+            flex: 175px 0 0;
+            padding-right: 15px;
+        }
+
+        @media screen and (max-width: $screen-xs-max) {
+			padding-right: 0;
+			margin-bottom: 15px;
+        }
+	}
+
+	.video-filter {
+		list-style: none;
+		padding: 0 130px 0 0;
+		margin: 0;
+
+		@media screen and (max-width: $screen-sm-max) {
+			text-align: center;
+		}
+
+		@media screen and (max-width: $screen-xs-max) {
+			padding: 0;
+			text-align: left;
+		}
+
+		li {
+			display: inline-block;
+			margin: 0 10px;
+
+			&:first-child {
+				margin-left: 0;
+			}
+
+			&:last-child {
+				margin-right: 0;
+			}
+		}
+
+		a {
+			display: block;
+			color: $text_color;
+			position: relative;
+			font-weight: $fw-medium;
+			text-decoration: none!important;
+			text-transform: uppercase;
+			transition: all .3s;
+
+			&:before {
+				content: '';
+				position: absolute;
+				left: 0;
+				bottom: 0;
+				width: 0;
+				height: 2px;
+				background-color: $primary_color;
+			}
+			
+			&:hover,
+			&.active {
+				color: $heading_color;
+				transition: all .3s;
+
+				&:before {
+					width: 100%;
+					transition: all .3s;
+				}
+			}
+
+			&:focus {
+				outline: none;
+			}
+		}
+	}
+
+	&.default {
+		.video-list {
+			margin: 0 -15px;
+		}
+
+		.video-item {
+			padding: 0 15px;
+			margin-bottom: 20px;
+		}
+		
+	}
+
+	.videos-ajax-view-more {
+		position: absolute;
+		right: 0;
+		top: -70px;
+
+		@media screen and (max-width: $screen-xs-max) {
+			position: relative;
+			top: 0;
+			text-align: center;
+		}
+	}
+
+	.video-control {
+		margin-top: 20px;
+		text-align: center;
+
+		.video-control-item {
+			display: inline-block;
+			width: 30px;
+			height: 30px;
+			line-height: 32px;
+			text-align: center;
+			border: 1px solid #ccc;
+			margin: 0 2px;
+
+			&:first-child {
+				margin-left: 0;
+			}
+
+			&:last-child {
+				margin-right: 0;
+			}
+
+			&:hover {
+				cursor: pointer;
+				background-color: $primary_color;
+				border: 1px solid $primary_color;
+				transition: all .3s;
+
+				i {
+					color: $white;
+				}
+			}
+
+			&.disable {
+				opacity: .5;
+				pointer-events: none;
+			}
+		}
+	}
+
+	&.dark-style {
+		.haru-shortcode-title {
+			color: $white;
+		}
+
+		.video-filter {
+			a {
+				color: $white;
+
+				&:hover,
+				&.active {
+					color: $primary_color;
+				}
+			}
+		}
+
+		.video-item {
+			&__title {
+				a {
+					color: $white;
+
+					&:hover {
+						color: $primary_color;
+					}
+				}
+			}
+
+			&__meta {
+				color: $white;
+
+				a {
+					color: $white;
+
+					&:hover {
+						color: $primary_color;
+					}
+				}
+
+				> div:after {
+					background-color: $white;
+				}
+			}
+		}
+
+		.video-control {
+			.video-control-item {
+				&:hover {
+
+				}
+
+				i {
+					color: $white;
+				}
+			}
+		}
+	}
+}
+

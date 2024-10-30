@@ -1,0 +1,178 @@
+// Watch later archive
+.video-watch-later-archive {
+	ul {
+		list-style: none;
+		background-color: #f8f8f8;
+		margin: 0;
+		padding: 0;
+
+		li {
+			display: flex;
+			justify-content: space-between;
+
+			.video-content {
+				display: flex;
+			}
+
+			.video-img {
+				max-width: 60px;
+			}
+
+			.video-title {
+				padding-left: 10px;
+				align-self: center;
+
+				a {
+					color: $heading_color;
+				}
+			}
+		}
+	}
+}
+
+.haru-archive-watch-later {
+    .grid-columns {
+        margin: 0 -15px;
+    }
+    
+    .archive-video-list {
+        .video-item {
+            margin-bottom: 20px;
+            padding: 0 15px;
+        }
+    }
+}
+
+// Watch later element
+.watch-later-element {
+	display: inline-block;
+	position: relative;
+
+	&:hover {
+		.haru-watch-later-list {
+			top: 100%;
+			opacity: 1;
+			visibility: visible;
+			transition: all .3s;
+		}
+	}
+
+	.watch-later-icon {
+		display: block;
+		border: 1px solid $border_color;
+		width: 40px;
+		height: 40px;
+		line-height: 40px;
+		position: relative;
+		text-align: center;
+		font-size: $fs_base;
+	}
+
+	.watch-later-status {
+		position: absolute;
+		top: 10px;
+		right: 10px;
+		border-radius: 50%;
+		display: inline-block;
+		width: 5px;
+		height: 5px;
+		background-color: transparent;
+
+		&.has-videos {
+			background-color: red;
+		}
+	}
+}
+
+.haru-watch-later-list {
+	list-style: none;
+	width: 350px;
+	background-color: #f8f8f8;
+	margin: 0;
+	padding: 10px;
+	position: absolute;
+	top: calc(100% + 20px);
+	right: 0;
+	opacity: 0;
+	visibility: hidden;
+	z-index: 9999;
+
+	@media screen and (max-width: $screen-xs-max) {
+		width: 280px;
+	}
+}
+
+.haru-watch-later-videos {
+	&.empty-video {
+		display: none;
+
+		~ .haru-watch-later-empty-video {
+			display: block;
+		}
+
+		~ .haru-watch-later-view-all {
+			display: none;
+		}
+	}
+}
+
+.video-watch-later-item {
+	display: flex;
+	margin-bottom: 10px;
+
+	&:last-child {
+		margin-bottom: 0;
+	}
+
+	.video-content {
+		display: flex;
+	}
+
+	.video-thumb {
+		flex: 0 0 90px;
+
+		@media screen and (max-width: $screen-xs-max) {
+			flex: 0 0 80px;
+		}
+	}
+
+	.video-title {
+		padding-left: 10px;
+		margin: 0;
+		line-height: 1.4;
+		align-self: center;
+
+		a {
+			color: $heading_color;
+			transition: all .3s;
+
+			&:hover {
+				color: $primary_color;
+				transition: all .3s;
+			}
+		}
+	}
+}
+
+.video-watch-later-delete {
+	align-self: center;
+	margin-left: auto;
+	flex: 0 0 25px;
+	text-align: center;
+
+	&:hover {
+		cursor: pointer;
+		color: $primary_color;
+	}
+}
+
+.haru-watch-later-empty-video {
+	display: none;
+	padding: 10px;
+	text-align: center;
+}
+
+.haru-watch-later-view-all {
+	margin: 30px 0 10px;
+	text-align: center;
+}

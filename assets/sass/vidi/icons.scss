@@ -1,0 +1,197 @@
+.haru-icon {
+	background-repeat: no-repeat;
+    background-size: cover;
+    display: inline-block;
+    background-color: $text_color;
+}
+
+.haru-arrow-left {
+	-webkit-mask-image: url(../images/icon-arrow-left.svg);
+    mask-image: url(../images/icon-arrow-left.svg);
+    width: 4.69px;
+    height: 8px;
+    background-color: $text_color_secondary;
+}
+
+.haru-arrow-right {
+	-webkit-mask-image: url(../images/icon-arrow-right.svg);
+    mask-image: url(../images/icon-arrow-right.svg);
+    width: 4.69px;
+    height: 8px;
+    background-color: $text_color_secondary;
+}
+
+.haru-clock {
+	-webkit-mask-image: url(../images/icon-clock.svg);
+    mask-image: url(../images/icon-clock.svg);
+    width: 10px;
+    height: 10px;
+}
+
+.haru-clock-o {
+    -webkit-mask-image: url(../images/icon-clock-o.svg);
+    mask-image: url(../images/icon-clock-o.svg);
+    width: 20px;
+    height: 20px;
+}
+
+.haru-play {
+	-webkit-mask-image: url(../images/icon-play.svg);
+    mask-image: url(../images/icon-play.svg);
+    width: 43px;
+    height: 48px;
+}
+
+.haru-grid {
+    -webkit-mask-image: url(../images/icon-grid.svg);
+    mask-image: url(../images/icon-grid.svg);
+    width: 14px;
+    height: 14px;
+}
+
+.haru-list-small {
+    -webkit-mask-image: url(../images/icon-list-small.svg);
+    mask-image: url(../images/icon-list-small.svg);
+    width: 16px;
+    height: 11px;
+}
+
+.haru-arrow-order {
+    -webkit-mask-image: url(../images/icon-arrow-order.svg);
+    mask-image: url(../images/icon-arrow-order.svg);
+    width: 10px;
+    height: 6px;
+}
+
+.haru-search {
+    -webkit-mask-image: url(../images/icon-search.svg);
+    mask-image: url(../images/icon-search.svg);
+    width: 14px;
+    height: 14px;
+}
+
+.haru-videos {
+    -webkit-mask-image: url(../images/icon-videos.svg);
+    mask-image: url(../images/icon-videos.svg);
+    width: 12px;
+    height: 12px;
+}
+
+.haru-times {
+    -webkit-mask-image: url(../images/icon-times.svg);
+    mask-image: url(../images/icon-times.svg);
+    width: 10px;
+    height: 17px;
+}
+
+.haru-file-video {
+    -webkit-mask-image: url(../images/icon-file-video.svg);
+    mask-image: url(../images/icon-file-video.svg);
+    width: 15px;
+    height: 20px;
+}
+
+.haru-file-image {
+    -webkit-mask-image: url(../images/icon-file-image.svg);
+    mask-image: url(../images/icon-file-image.svg);
+    width: 14px;
+    height: 14px;
+}
+
+.haru-like {
+    -webkit-mask-image: url(../images/icon-like.svg);
+    mask-image: url(../images/icon-like.svg);
+    width: 14px;
+    height: 14px;
+}
+
+.haru-dislike {
+    -webkit-mask-image: url(../images/icon-dislike.svg);
+    mask-image: url(../images/icon-dislike.svg);
+    width: 14px;
+    height: 14px;
+}
+
+.haru-flag {
+    -webkit-mask-image: url(../images/icon-flag.svg);
+    mask-image: url(../images/icon-flag.svg);
+    width: 14px;
+    height: 14px;
+}
+
+.haru-light {
+    -webkit-mask-image: url(../images/icon-light.svg);
+    mask-image: url(../images/icon-light.svg);
+    width: 14px;
+    height: 14px;
+}
+
+.haru-fast-backward {
+    -webkit-mask-image: url(../images/icon-fast-backward.svg);
+    mask-image: url(../images/icon-fast-backward.svg);
+    width: 14px;
+    height: 14px;
+}
+
+.haru-fast-forward {
+    -webkit-mask-image: url(../images/icon-fast-forward.svg);
+    mask-image: url(../images/icon-fast-forward.svg);
+    width: 14px;
+    height: 14px;
+}
+
+.haru-dots {
+    -webkit-mask-image: url(../images/icon-dots.svg);
+    mask-image: url(../images/icon-dots.svg);
+    width: 16px;
+    height: 16px;
+}
+
+.haru-share {
+    -webkit-mask-image: url(../images/icon-share.svg);
+    mask-image: url(../images/icon-share.svg);
+    width: 14px;
+    height: 14px;
+}
+
+.haru-tags {
+    -webkit-mask-image: url(../images/icon-tags.svg);
+    mask-image: url(../images/icon-tags.svg);
+    width: 12px;
+    height: 12px;
+}
+
+.haru-user-plus {
+    -webkit-mask-image: url(../images/icon-user-plus.svg);
+    mask-image: url(../images/icon-user-plus.svg);
+    width: 20px;
+    height: 16px;
+}
+
+.haru-user {
+    -webkit-mask-image: url(../images/icon-user.svg);
+    mask-image: url(../images/icon-user.svg);
+    width: 14px;
+    height: 16px;
+}
+
+.haru-user-times {
+    -webkit-mask-image: url(../images/icon-user-times.svg);
+    mask-image: url(../images/icon-user-times.svg);
+    width: 20px;
+    height: 16px;
+}
+
+.haru-edit {
+    -webkit-mask-image: url(../images/icon-edit.svg);
+    mask-image: url(../images/icon-edit.svg);
+    width: 18px;
+    height: 16px;
+}
+
+.haru-volume-off {
+    -webkit-mask-image: url(../images/icon-volume-off.svg);
+    mask-image: url(../images/icon-volume-off.svg);
+    width: 8px;
+    height: 16px;
+}

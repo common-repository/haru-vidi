@@ -1,0 +1,135 @@
+// Playlist Slideshow
+.playlist-slideshow-shortcode {
+    .playlist-slideshow-title {
+        font-size: 20px;
+        padding-bottom: 10px;
+    }
+
+	// Slick general
+	.haru-slick {
+		display: none;
+
+		&.slick-initialized {
+			display: block;
+		}
+
+		&:hover {
+			.slick-arrow {
+		        &.slick-prev, 
+		        &.slick-next {
+					opacity: 1;
+					transition: all .3s;
+		        }
+	        }
+		}
+	}
+
+	// Default - Slick 1
+	&.default {
+		overflow: hidden;
+
+		.playlist-list {
+			margin: 0 -15px;
+		}
+
+		.playlist-item {
+			padding: 0 15px;
+		}
+	}
+	
+	// Arrow
+    .slick-arrow {
+        &.slick-prev, 
+        &.slick-next {
+            background: rgba($black, .3);
+            border: none;
+            color: transparent;
+            cursor: pointer;
+            display: block;
+            font-size: 0;
+            line-height: 0;
+            outline: none;
+            opacity: 0;
+            padding: 0;
+            position: absolute;
+            top: 50%;
+            z-index: 99;
+            width: 30px;
+            height: 30px;
+            border-radius: 0;
+            transform: translateY(-50%);
+            transition: all .3s;
+
+            &:before {
+                color: $white;
+                font-family: 'slick';
+                font-size: 14px;
+                line-height: 1;
+                opacity: 1;
+                transition: all .3s;
+            }
+
+            &:hover {
+                background-color: $primary_color;
+
+                &:before {
+                    color: $white;
+                    transition: all .3s;
+                }
+            }
+        }
+        &.slick-prev {
+            left: 15px;
+
+            &:before {
+                content: '\f053';
+                font-family: 'FontAwesome';
+            }
+        }
+        &.slick-next {
+            right: 15px;
+
+            &:before {
+                content: '\f054';
+                font-family: 'FontAwesome';
+            }
+        }
+    }
+
+    // Dots
+    .slick-dots {
+        list-style: none;
+        padding: 0;
+        text-align: center;
+
+        @media screen and(max-width: $screen-xs-max) {
+            bottom: 15px;
+        }
+
+        li {
+            display: inline-block;
+            padding: 0 12px;
+            &.slick-active {
+                button {
+                    width: 16px;
+                    height: 16px;
+                    background: transparent;
+                }
+            }
+
+            button {
+                width: 8px;
+                height: 8px;
+                display: block;
+                background: $black;
+                border: 1px solid $black;
+                font-size: 0;
+                padding: 0;
+                @include rounded(50%);
+                &:focus {
+                    outline: none;
+                }
+            }
+        }
+    }
+}

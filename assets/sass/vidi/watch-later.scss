@@ -1,0 +1,173 @@
+// Watch later archive
+.haru-archive-watch-later {
+    .grid-columns {
+        margin: 0 -15px;
+    }
+    
+    .archive-video-list {
+        .video-item {
+            margin-bottom: 20px;
+            padding: 0 15px;
+        }
+    }
+}
+
+// Watch later element
+.watch-later-element {
+	display: inline-block;
+	position: relative;
+
+	&:hover {
+		.haru-watch-later-list {
+			top: 100%;
+			opacity: 1;
+			visibility: visible;
+			transition: all .3s;
+		}
+	}
+
+	.watch-later-icon {
+		display: block;
+		position: relative;
+		text-align: center;
+		border-radius: 50%;
+		margin-top: 4px;
+
+		&:hover {
+			.haru-icon {
+				background-color: $primary_color;
+			}
+		}
+	}
+
+	.haru-icon {
+		margin: 0 -2px;
+		transform: scale(.8);
+	}
+
+	.watch-later-status {
+		position: absolute;
+		top: 2px;
+		right: 1px;
+		border-radius: 50%;
+		display: inline-block;
+		width: 6px;
+		height: 6px;
+		background-color: transparent;
+
+		&.has-videos {
+			background-color: red;
+			border: 1px solid $white;
+		}
+	}
+}
+
+.haru-watch-later-list {
+	list-style: none;
+	width: 350px;
+	background-color: $white;
+	border: 1px solid $border_color;
+	border-radius: $border_radius;
+	margin: 0;
+	padding: 10px;
+	position: absolute;
+	top: calc(100% + 20px);
+	right: 0;
+	opacity: 0;
+	visibility: hidden;
+	z-index: 9999;
+
+	@media screen and (max-width: $screen-xs-max) {
+		width: 280px;
+	}
+}
+
+.haru-watch-later-videos {
+	&.empty-video {
+		display: none;
+
+		~ .haru-watch-later-empty-video {
+			display: block;
+		}
+
+		~ .haru-watch-later-view-all {
+			display: none;
+		}
+	}
+}
+
+.video-watch-later-item {
+	display: flex;
+	margin-bottom: 15px;
+
+	&:last-child {
+		margin-bottom: 0;
+	}
+
+	.video-content {
+		display: flex;
+	}
+
+	.video-thumb {
+		flex: 0 0 90px;
+		border-radius: $border_radius_small;
+		overflow: hidden;
+
+		@media screen and (max-width: $screen-xs-max) {
+			flex: 0 0 80px;
+		}
+	}
+
+	.video-title {
+		padding-left: 10px;
+		margin: 0;
+		line-height: 1.4;
+		font-weight: $fw_medium;
+		font-size: $fs_small;
+
+		a {
+			color: $heading_color;
+			transition: all .3s;
+
+			&:hover {
+				color: $primary_color;
+				transition: all .3s;
+			}
+		}
+	}
+}
+
+.video-watch-later-delete {
+	margin-left: auto;
+	flex: 0 0 25px;
+	text-align: center;
+
+	&:hover {
+		cursor: pointer;
+
+		.haru-icon {
+			background-color: $primary_color;
+		}
+	}
+
+	.haru-icon {
+		background-color: $text_color;
+		transform: scale(.8);
+	}
+}
+
+.haru-watch-later-empty-video {
+	display: none;
+	padding: 10px;
+	text-align: center;
+
+	.haru-icon {
+		background-color: $text_color;
+		transform: scale(1.2);
+	}
+}
+
+.haru-watch-later-view-all {
+	margin: 30px 0 10px;
+	text-align: center;
+}

@@ -1,0 +1,300 @@
+// Archive Playlist
+.haru-archive-channel {
+    margin-bottom: 80px;
+
+	.grid-columns {
+        margin: 0 -15px;
+    }
+
+    .archive-channel-list {
+        .channel-item {
+            margin-bottom: 20px;
+            padding: 0 15px;
+        }
+    }
+}
+
+.layout-wrap {
+    // Style List
+    &.style-list {
+        .channel-item {
+            &__title {
+                padding-top: 0;
+                margin-top: 0;
+                font-size: 16px;
+            }
+
+            &__meta {
+                font-size: 14px;
+            }
+
+            &__desc {
+                display: block;
+            }
+
+            &.channel-style-2 {
+                .channel-item__content {
+                    padding-top: 30px;
+                    padding-bottom: 30px;
+                    padding-right: 20px;
+                    text-align: left;
+                }
+
+                .channel-item__meta {
+                    justify-content: start;
+                }
+            }
+        }
+    }
+
+    // Style List 2
+    &.style-list-2 {
+        .channel-item {
+            margin-bottom: 30px;
+
+            &__title {
+                font-size: 18px;
+
+                @media screen and (max-width: $screen-xs-max) {
+                    font-size: 16px;
+                }
+            }
+
+            &__meta {
+                font-size: 14px;
+            }
+
+            &__desc {
+                display: block;
+            }
+        }
+    }
+}
+
+.channel-item {
+    position: relative;
+    padding-bottom: 15px;
+
+    &:hover {
+        .channel-item__subscribe {
+            opacity: 1;
+            transform: translate(-50%, 0);
+            transition: all .3s;
+        }
+    }
+
+    &:focus {
+        outline: none;
+    }
+
+	&__thumbnail {
+		position: relative;
+
+		&:hover {
+			.channel-item__icon {
+				opacity: 1;
+				visibility: visible;
+			}
+		}
+	}
+
+    &__subscribe {
+        position: absolute;
+        bottom: 20px;
+        left: 50%;
+        opacity: 0;
+        min-width: 180px;
+        transform: translate(-50%, 10px);
+        transition: all .3s;
+    }
+
+    .channel-subscribe {
+        height: 44px;
+        line-height: 44px;
+        text-align: center;
+    }
+
+	&__icon {
+		position: absolute;
+        top: 50%;
+        left: 50%;
+        z-index: 9;
+        opacity: 0;
+        visibility: hidden;
+        display: none;
+        @include transform(translate(-50%, -50%));
+        @include transition(all .5s);
+
+        a {
+        	display: block;
+            width: 50px;
+            height: 50px;
+            font-size: 0;
+            position: relative;
+            background-color: rgba($primary_color, 1);
+            text-align: center;
+            @include rounded(50%);
+            @include transition(all .3s);
+
+            &:hover {
+                @include transition(all .3s);
+
+                &:before {
+                    @include transition(all .3s);
+                }
+
+                &:after {
+                	animation: sonarEffect 1.3s ease-out 75ms;
+                }
+            }
+
+            &:before {
+                content: "\f04b";
+                font-family: "FontAwesome";
+                font-weight: $fw_extra_bold;
+                position: absolute;
+                left: 18px;
+                top: 0;
+                color: $white;
+                line-height: 50px;
+                font-size: 18px;
+                @include transition(all .3s);
+            }
+
+            &:after {
+            	content: '';
+			    position: absolute;
+			    width: 100%;
+			    height: 100%;
+			    border-radius: 50%;
+			    top: 0;
+			    left: 0;
+            }
+        }
+	}
+
+	&__title {
+        padding-top: 5px;
+        margin-bottom: 5px;
+
+		a {
+			color: $heading_color;
+			line-height: 1.4;
+		}
+	}
+
+	&__category {
+		margin-bottom: 15px;
+		display: none;
+
+		a {
+			background-color: $primary_color;
+			display: inline-block;
+			color: $white;
+			padding: 0 5px;
+			font-size: 12px;
+			font-weight: $fw-bold;
+		}
+	}
+
+	&__meta {
+        display: flex;
+        flex-wrap: wrap;
+        margin-bottom: 10px;
+        font-size: $fs_small;
+
+        > div {
+            margin-right: 15px;
+            position: relative;
+
+            &:after {
+                content: '';
+                width: 3px;
+                height: 3px;
+                background-color: $text_color;
+                position: absolute;
+                right: -8px;
+                border-radius: 50%;
+                top: 50%;
+                transform: translateY(-50%);
+            }
+
+            &:last-child {
+                margin-right: 0;
+
+                &:after {
+                    display: none;
+                }
+            }
+
+            > i {
+                margin-right: 5px;
+                display: none;
+            }
+        }
+    }
+
+	&__view {
+        i {
+            display: none;
+        }
+    }
+
+    &__desc {
+        display: none;
+    }
+
+    &__like,
+    &__dislike {
+        display: none;
+
+        i {
+            display: none;
+        }
+    }
+
+	.post-views-count {
+        .post-views-label {
+            display: none;
+        }
+    }
+
+    .post-vote-label {
+        display: none;
+    }
+
+    // Style 2
+    &.channel-style-2 {
+        margin: 10px 0 20px;
+
+        &:before {
+            content: '';
+            position: absolute;
+            background-color: $white;
+            top: 0;
+            width: calc(100% - 30px);
+            height: 100%;
+            margin-bottom: 15px;
+            box-shadow: 0px 1px 10px 0px rgba($black, .1);
+            transition: all .3s;
+        }
+
+        .channel-item__title {
+            position: relative;
+            z-index: 1;
+        }
+
+        .channel-item__content {
+            text-align: center;
+        }
+
+        .channel-item__meta {
+            justify-content: center;
+        }
+
+        .channel-item__desc {
+            position: relative;
+            margin-bottom: 15px;
+        }
+    }
+}
